@@ -1,0 +1,5 @@
+/* Increase caption and subtitle text size */
+.stCaption,
+[data-testid="stCaptionContainer"] {
+    font-size: 1rem !important;
+}

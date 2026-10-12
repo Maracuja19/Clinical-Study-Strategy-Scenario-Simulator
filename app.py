@@ -18,6 +18,7 @@ st.set_page_config(
     layout="wide"
 )
 
+
 st.title("Clinical Study Strategy & Scenario Simulator")
 st.caption("Explore site selection strategies and their trade-offs using synthetic clinical trial data")
 
@@ -164,6 +165,12 @@ strategy_data = strategy_data[
 ].copy()
 
 st.header("4. Site selection strategies")
+if st.toggle("Strategy priorities and trade-offs", value=False):
+    st.markdown("""
+    - **Conservative:** Prioritises lower risk and higher reliability. Trade-off: timeline ≥ 91 days.
+    - **Balanced:** Prioritises lower costs within a defined activation timeline. Trade-offs: higher risk and moderate timelines.
+    - **Accelerated:**  Prioritises faster activation and higher recruitment performance. Trade-off: highest costs.
+    """)
 
 n_sites = st.number_input(
     "Number of sites to select",
@@ -285,13 +292,17 @@ st.header("5. Site selection results")
 for strategy_name, selected in strategy_results.items():
     st.subheader(strategy_name)
     # Add clinical information for the selected sites
+    clinical_info = (
+        filtered_profiles[
+            ["site_id", "country", "therapeutic_area", "indication"]
+        ]
+        .drop_duplicates(subset=["site_id", "country"])
+    )
     selected_table = selected.merge(
-    filtered_profiles[
-        ["site_id", "country", "therapeutic_area", "indication"]
-    ].drop_duplicates(),
-    on=["site_id", "country"],
-    how="left",
-    validate="one_to_many"
+        clinical_info,
+        on=["site_id", "country"],
+        how="left",
+        validate="one_to_one"
     )
     columns_to_show = [
         "site_id",
@@ -313,3 +324,13 @@ for strategy_name, selected in strategy_results.items():
         use_container_width=True,
         hide_index=True
     )
+
+st.divider()
+
+if st.toggle("Show model limitations"):
+    st.markdown("""
+    - **Synthetic data:** results are illustrative and do not represent real clinical trial sites.
+    - **Unvalidated rules:** risk categories and selection criteria are predefined and have not been validated.
+    - **Fixed eligibility criteria:** strategies may return fewer sites than requested, or no eligible sites. No relaxation rules applied.
+    - **Simplified estimates:** recruitment performance, activation timelines and costs are modelled for demonstration purposes only.
+    """)

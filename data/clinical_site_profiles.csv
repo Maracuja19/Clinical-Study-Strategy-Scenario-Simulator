@@ -1,882 +1,2859 @@
 site_id,country,therapeutic_area,indication
-Site_001,Egypt,Oncology,Cervical cancer
 Site_001,Egypt,Respiratory Diseases,Asthma
-Site_001,Egypt,Cardiovascular,Heart failure
-Site_002,Ghana,Cardiovascular,Heart failure
-Site_002,Ghana,Cardiovascular,Hypertension
-Site_002,Ghana,Hematology,Iron-deficiency anaemia
-Site_002,Ghana,Hematology,Sickle cell disease
+Site_001,Egypt,Respiratory Diseases,Pneumonia
+Site_001,Egypt,Infectious Diseases,Malaria
+Site_001,Egypt,Infectious Diseases,HIV-1
+Site_001,Egypt,Infectious Diseases,Tuberculosis
+Site_001,Egypt,Oncology,Cervical cancer
+Site_001,Egypt,Oncology,Prostate cancer
 Site_002,Ghana,Hematology,Haemophilia
-Site_002,Ghana,Respiratory Diseases,Asthma
-Site_002,Ghana,Respiratory Diseases,Pneumonia
-Site_002,Ghana,Oncology,Cervical cancer
-Site_003,Kenya,Infectious Diseases,Malaria
-Site_003,Kenya,Cardiovascular,Hypertension
-Site_003,Kenya,Cardiovascular,Heart failure
+Site_002,Ghana,Infectious Diseases,HIV-1
+Site_002,Ghana,Cardiovascular,Heart failure
+Site_003,Kenya,Respiratory Diseases,Pneumonia
+Site_003,Kenya,Respiratory Diseases,Asthma
+Site_003,Kenya,Hematology,Haemophilia
 Site_003,Kenya,Hematology,Iron-deficiency anaemia
-Site_004,South Africa,Infectious Diseases,HIV-1
-Site_004,South Africa,Oncology,Cervical cancer
-Site_005,South Africa,Hematology,Sickle cell disease
-Site_005,South Africa,Hematology,Iron-deficiency anaemia
-Site_005,South Africa,Oncology,Prostate cancer
+Site_004,South Africa,Cardiovascular,Hypertension
+Site_004,South Africa,Respiratory Diseases,Pneumonia
+Site_004,South Africa,Respiratory Diseases,Asthma
+Site_004,South Africa,Respiratory Diseases,COPD
+Site_004,South Africa,Hematology,Haemophilia
+Site_004,South Africa,Hematology,Sickle cell disease
+Site_005,South Africa,Cardiovascular,Heart failure
+Site_005,South Africa,Cardiovascular,Coronary artery disease
+Site_005,South Africa,Oncology,Cervical cancer
 Site_005,South Africa,Oncology,Breast cancer
-Site_005,South Africa,Infectious Diseases,Malaria
+Site_006,Tanzania,Cardiovascular,Coronary artery disease
+Site_006,Tanzania,Cardiovascular,Heart failure
+Site_006,Tanzania,Cardiovascular,Hypertension
 Site_006,Tanzania,Respiratory Diseases,Asthma
 Site_006,Tanzania,Respiratory Diseases,Pneumonia
-Site_006,Tanzania,Hematology,Haemophilia
-Site_006,Tanzania,Hematology,Iron-deficiency anaemia
-Site_006,Tanzania,Hematology,Sickle cell disease
-Site_007,Egypt,Hematology,Sickle cell disease
+Site_006,Tanzania,Respiratory Diseases,COPD
+Site_006,Tanzania,Infectious Diseases,Malaria
+Site_006,Tanzania,Infectious Diseases,HIV-1
 Site_007,Egypt,Infectious Diseases,Tuberculosis
-Site_007,Egypt,Infectious Diseases,Malaria
-Site_007,Egypt,Infectious Diseases,HIV-1
-Site_008,Kenya,Infectious Diseases,Tuberculosis
-Site_008,Kenya,Infectious Diseases,HIV-1
-Site_008,Kenya,Infectious Diseases,Malaria
+Site_007,Egypt,Cardiovascular,Heart failure
+Site_007,Egypt,Cardiovascular,Coronary artery disease
+Site_008,Kenya,Hematology,Sickle cell disease
+Site_008,Kenya,Hematology,Haemophilia
+Site_008,Kenya,Hematology,Iron-deficiency anaemia
 Site_008,Kenya,Respiratory Diseases,Pneumonia
-Site_008,Kenya,Cardiovascular,Hypertension
-Site_009,Morocco,Cardiovascular,Heart failure
+Site_008,Kenya,Infectious Diseases,Tuberculosis
 Site_009,Morocco,Cardiovascular,Hypertension
 Site_009,Morocco,Cardiovascular,Coronary artery disease
-Site_009,Morocco,Oncology,Prostate cancer
-Site_009,Morocco,Oncology,Breast cancer
-Site_009,Morocco,Oncology,Cervical cancer
-Site_009,Morocco,Respiratory Diseases,Asthma
-Site_009,Morocco,Respiratory Diseases,Pneumonia
-Site_010,Egypt,Cardiovascular,Hypertension
-Site_010,Egypt,Cardiovascular,Heart failure
-Site_010,Egypt,Respiratory Diseases,Asthma
+Site_009,Morocco,Cardiovascular,Heart failure
+Site_009,Morocco,Infectious Diseases,Malaria
+Site_009,Morocco,Infectious Diseases,HIV-1
+Site_010,Egypt,Oncology,Prostate cancer
+Site_010,Egypt,Oncology,Breast cancer
 Site_010,Egypt,Respiratory Diseases,COPD
+Site_010,Egypt,Respiratory Diseases,Asthma
 Site_010,Egypt,Respiratory Diseases,Pneumonia
-Site_011,Uganda,Infectious Diseases,Tuberculosis
-Site_011,Uganda,Infectious Diseases,HIV-1
-Site_011,Uganda,Oncology,Breast cancer
-Site_011,Uganda,Oncology,Cervical cancer
-Site_011,Uganda,Oncology,Prostate cancer
+Site_010,Egypt,Hematology,Sickle cell disease
+Site_011,Uganda,Hematology,Iron-deficiency anaemia
+Site_011,Uganda,Hematology,Haemophilia
+Site_011,Uganda,Hematology,Sickle cell disease
+Site_011,Uganda,Cardiovascular,Coronary artery disease
+Site_011,Uganda,Cardiovascular,Heart failure
+Site_012,Ethiopia,Respiratory Diseases,COPD
+Site_012,Ethiopia,Respiratory Diseases,Pneumonia
 Site_012,Ethiopia,Oncology,Cervical cancer
 Site_012,Ethiopia,Infectious Diseases,Malaria
-Site_012,Ethiopia,Infectious Diseases,HIV-1
 Site_012,Ethiopia,Infectious Diseases,Tuberculosis
-Site_012,Ethiopia,Hematology,Sickle cell disease
-Site_012,Ethiopia,Hematology,Haemophilia
-Site_012,Ethiopia,Hematology,Iron-deficiency anaemia
-Site_013,Ghana,Respiratory Diseases,Pneumonia
-Site_013,Ghana,Respiratory Diseases,Asthma
-Site_013,Ghana,Respiratory Diseases,COPD
+Site_013,Ghana,Cardiovascular,Heart failure
+Site_013,Ghana,Cardiovascular,Coronary artery disease
+Site_013,Ghana,Infectious Diseases,Malaria
+Site_013,Ghana,Infectious Diseases,HIV-1
+Site_013,Ghana,Infectious Diseases,Tuberculosis
+Site_013,Ghana,Oncology,Prostate cancer
+Site_013,Ghana,Oncology,Cervical cancer
 Site_013,Ghana,Oncology,Breast cancer
-Site_014,Ghana,Respiratory Diseases,Pneumonia
-Site_014,Ghana,Hematology,Iron-deficiency anaemia
-Site_014,Ghana,Hematology,Sickle cell disease
+Site_014,Ghana,Cardiovascular,Coronary artery disease
+Site_014,Ghana,Oncology,Cervical cancer
 Site_014,Ghana,Oncology,Prostate cancer
 Site_014,Ghana,Oncology,Breast cancer
-Site_014,Ghana,Oncology,Cervical cancer
-Site_014,Ghana,Infectious Diseases,Malaria
 Site_014,Ghana,Infectious Diseases,Tuberculosis
-Site_014,Ghana,Cardiovascular,Heart failure
-Site_015,Ghana,Respiratory Diseases,Asthma
+Site_014,Ghana,Infectious Diseases,HIV-1
+Site_014,Ghana,Infectious Diseases,Malaria
 Site_015,Ghana,Respiratory Diseases,COPD
+Site_015,Ghana,Respiratory Diseases,Asthma
 Site_015,Ghana,Respiratory Diseases,Pneumonia
 Site_015,Ghana,Hematology,Iron-deficiency anaemia
-Site_015,Ghana,Hematology,Sickle cell disease
 Site_015,Ghana,Hematology,Haemophilia
+Site_015,Ghana,Oncology,Prostate cancer
+Site_015,Ghana,Oncology,Breast cancer
+Site_016,Ghana,Cardiovascular,Hypertension
+Site_016,Ghana,Cardiovascular,Heart failure
+Site_016,Ghana,Cardiovascular,Coronary artery disease
+Site_016,Ghana,Respiratory Diseases,Pneumonia
+Site_016,Ghana,Respiratory Diseases,COPD
+Site_016,Ghana,Respiratory Diseases,Asthma
 Site_016,Ghana,Infectious Diseases,Malaria
 Site_016,Ghana,Infectious Diseases,Tuberculosis
-Site_016,Ghana,Oncology,Prostate cancer
+Site_016,Ghana,Infectious Diseases,HIV-1
+Site_016,Ghana,Hematology,Sickle cell disease
+Site_017,Uganda,Oncology,Prostate cancer
 Site_017,Uganda,Hematology,Sickle cell disease
-Site_017,Uganda,Hematology,Iron-deficiency anaemia
-Site_017,Uganda,Hematology,Haemophilia
+Site_017,Uganda,Respiratory Diseases,COPD
 Site_017,Uganda,Respiratory Diseases,Asthma
-Site_018,Algeria,Oncology,Cervical cancer
-Site_018,Algeria,Cardiovascular,Hypertension
+Site_017,Uganda,Respiratory Diseases,Pneumonia
 Site_018,Algeria,Cardiovascular,Heart failure
 Site_018,Algeria,Cardiovascular,Coronary artery disease
-Site_018,Algeria,Hematology,Sickle cell disease
-Site_018,Algeria,Hematology,Haemophilia
-Site_019,Tanzania,Hematology,Sickle cell disease
-Site_019,Tanzania,Hematology,Haemophilia
-Site_019,Tanzania,Hematology,Iron-deficiency anaemia
-Site_019,Tanzania,Respiratory Diseases,COPD
-Site_020,South Africa,Oncology,Cervical cancer
-Site_020,South Africa,Cardiovascular,Coronary artery disease
-Site_020,South Africa,Cardiovascular,Hypertension
-Site_020,South Africa,Cardiovascular,Heart failure
-Site_021,Uganda,Infectious Diseases,HIV-1
+Site_018,Algeria,Cardiovascular,Hypertension
+Site_018,Algeria,Infectious Diseases,HIV-1
+Site_018,Algeria,Respiratory Diseases,COPD
+Site_018,Algeria,Respiratory Diseases,Asthma
+Site_019,Tanzania,Cardiovascular,Coronary artery disease
+Site_019,Tanzania,Cardiovascular,Hypertension
+Site_019,Tanzania,Oncology,Prostate cancer
+Site_020,South Africa,Respiratory Diseases,Pneumonia
+Site_020,South Africa,Respiratory Diseases,COPD
+Site_020,South Africa,Respiratory Diseases,Asthma
+Site_020,South Africa,Hematology,Iron-deficiency anaemia
+Site_021,Uganda,Oncology,Breast cancer
+Site_021,Uganda,Oncology,Prostate cancer
+Site_021,Uganda,Respiratory Diseases,Asthma
+Site_021,Uganda,Respiratory Diseases,COPD
 Site_021,Uganda,Hematology,Haemophilia
-Site_021,Uganda,Hematology,Iron-deficiency anaemia
-Site_022,Nigeria,Hematology,Sickle cell disease
-Site_022,Nigeria,Infectious Diseases,Malaria
-Site_022,Nigeria,Infectious Diseases,Tuberculosis
-Site_022,Nigeria,Oncology,Cervical cancer
-Site_022,Nigeria,Oncology,Prostate cancer
+Site_021,Uganda,Cardiovascular,Heart failure
+Site_021,Uganda,Cardiovascular,Hypertension
+Site_021,Uganda,Cardiovascular,Coronary artery disease
+Site_021,Uganda,Infectious Diseases,Malaria
+Site_021,Uganda,Infectious Diseases,Tuberculosis
 Site_022,Nigeria,Oncology,Breast cancer
-Site_022,Nigeria,Respiratory Diseases,COPD
-Site_022,Nigeria,Cardiovascular,Hypertension
-Site_022,Nigeria,Cardiovascular,Coronary artery disease
-Site_023,Algeria,Infectious Diseases,HIV-1
-Site_023,Algeria,Infectious Diseases,Tuberculosis
-Site_023,Algeria,Respiratory Diseases,Asthma
-Site_023,Algeria,Cardiovascular,Hypertension
-Site_023,Algeria,Cardiovascular,Coronary artery disease
-Site_023,Algeria,Cardiovascular,Heart failure
+Site_022,Nigeria,Oncology,Cervical cancer
+Site_022,Nigeria,Infectious Diseases,HIV-1
+Site_022,Nigeria,Infectious Diseases,Tuberculosis
 Site_023,Algeria,Oncology,Cervical cancer
-Site_023,Algeria,Oncology,Breast cancer
-Site_024,Ethiopia,Infectious Diseases,Tuberculosis
-Site_024,Ethiopia,Infectious Diseases,Malaria
-Site_024,Ethiopia,Infectious Diseases,HIV-1
+Site_023,Algeria,Respiratory Diseases,Asthma
+Site_023,Algeria,Respiratory Diseases,COPD
+Site_024,Ethiopia,Oncology,Prostate cancer
+Site_024,Ethiopia,Oncology,Cervical cancer
+Site_024,Ethiopia,Oncology,Breast cancer
+Site_024,Ethiopia,Cardiovascular,Coronary artery disease
 Site_024,Ethiopia,Cardiovascular,Hypertension
 Site_024,Ethiopia,Cardiovascular,Heart failure
-Site_024,Ethiopia,Cardiovascular,Coronary artery disease
+Site_024,Ethiopia,Infectious Diseases,Malaria
+Site_024,Ethiopia,Infectious Diseases,HIV-1
+Site_025,Ghana,Respiratory Diseases,Pneumonia
+Site_025,Ghana,Respiratory Diseases,Asthma
+Site_025,Ghana,Respiratory Diseases,COPD
+Site_025,Ghana,Infectious Diseases,HIV-1
 Site_025,Ghana,Infectious Diseases,Tuberculosis
 Site_025,Ghana,Infectious Diseases,Malaria
-Site_025,Ghana,Hematology,Iron-deficiency anaemia
-Site_026,Kenya,Hematology,Iron-deficiency anaemia
-Site_026,Kenya,Hematology,Sickle cell disease
-Site_026,Kenya,Hematology,Haemophilia
-Site_026,Kenya,Cardiovascular,Heart failure
-Site_026,Kenya,Cardiovascular,Hypertension
-Site_026,Kenya,Cardiovascular,Coronary artery disease
+Site_025,Ghana,Cardiovascular,Heart failure
+Site_025,Ghana,Cardiovascular,Hypertension
+Site_026,Kenya,Infectious Diseases,Tuberculosis
+Site_026,Kenya,Infectious Diseases,HIV-1
+Site_026,Kenya,Oncology,Cervical cancer
 Site_026,Kenya,Oncology,Breast cancer
-Site_027,South Africa,Respiratory Diseases,COPD
-Site_027,South Africa,Respiratory Diseases,Asthma
-Site_027,South Africa,Infectious Diseases,Malaria
+Site_026,Kenya,Oncology,Prostate cancer
+Site_026,Kenya,Cardiovascular,Heart failure
 Site_027,South Africa,Infectious Diseases,Tuberculosis
-Site_027,South Africa,Infectious Diseases,HIV-1
-Site_027,South Africa,Cardiovascular,Coronary artery disease
+Site_027,South Africa,Infectious Diseases,Malaria
+Site_027,South Africa,Cardiovascular,Heart failure
+Site_027,South Africa,Cardiovascular,Hypertension
+Site_027,South Africa,Hematology,Sickle cell disease
+Site_027,South Africa,Hematology,Iron-deficiency anaemia
+Site_027,South Africa,Oncology,Breast cancer
+Site_027,South Africa,Oncology,Prostate cancer
+Site_027,South Africa,Respiratory Diseases,COPD
+Site_027,South Africa,Respiratory Diseases,Pneumonia
+Site_028,Tanzania,Cardiovascular,Coronary artery disease
 Site_028,Tanzania,Infectious Diseases,HIV-1
 Site_028,Tanzania,Infectious Diseases,Tuberculosis
+Site_028,Tanzania,Infectious Diseases,Malaria
+Site_028,Tanzania,Respiratory Diseases,Asthma
+Site_028,Tanzania,Respiratory Diseases,COPD
+Site_028,Tanzania,Respiratory Diseases,Pneumonia
 Site_028,Tanzania,Hematology,Haemophilia
-Site_028,Tanzania,Hematology,Iron-deficiency anaemia
 Site_028,Tanzania,Hematology,Sickle cell disease
-Site_029,Uganda,Cardiovascular,Hypertension
+Site_028,Tanzania,Oncology,Breast cancer
+Site_028,Tanzania,Oncology,Cervical cancer
 Site_029,Uganda,Cardiovascular,Heart failure
 Site_029,Uganda,Cardiovascular,Coronary artery disease
-Site_029,Uganda,Infectious Diseases,Tuberculosis
-Site_029,Uganda,Infectious Diseases,Malaria
+Site_029,Uganda,Cardiovascular,Hypertension
+Site_029,Uganda,Oncology,Cervical cancer
+Site_029,Uganda,Oncology,Breast cancer
+Site_030,South Africa,Hematology,Sickle cell disease
+Site_030,South Africa,Hematology,Iron-deficiency anaemia
+Site_030,South Africa,Hematology,Haemophilia
+Site_030,South Africa,Respiratory Diseases,Asthma
+Site_030,South Africa,Respiratory Diseases,COPD
+Site_030,South Africa,Respiratory Diseases,Pneumonia
 Site_030,South Africa,Cardiovascular,Coronary artery disease
+Site_030,South Africa,Cardiovascular,Hypertension
 Site_030,South Africa,Cardiovascular,Heart failure
-Site_030,South Africa,Oncology,Prostate cancer
-Site_031,South Africa,Infectious Diseases,Malaria
-Site_031,South Africa,Infectious Diseases,HIV-1
-Site_031,South Africa,Infectious Diseases,Tuberculosis
-Site_031,South Africa,Respiratory Diseases,Asthma
-Site_031,South Africa,Respiratory Diseases,Pneumonia
-Site_031,South Africa,Respiratory Diseases,COPD
-Site_031,South Africa,Hematology,Iron-deficiency anaemia
+Site_031,South Africa,Cardiovascular,Heart failure
+Site_031,South Africa,Cardiovascular,Hypertension
+Site_031,South Africa,Cardiovascular,Coronary artery disease
+Site_031,South Africa,Oncology,Breast cancer
+Site_031,South Africa,Oncology,Prostate cancer
 Site_031,South Africa,Hematology,Haemophilia
-Site_032,Morocco,Infectious Diseases,Malaria
-Site_032,Morocco,Infectious Diseases,Tuberculosis
-Site_032,Morocco,Respiratory Diseases,Asthma
+Site_031,South Africa,Hematology,Iron-deficiency anaemia
+Site_031,South Africa,Infectious Diseases,Malaria
+Site_032,Morocco,Cardiovascular,Heart failure
 Site_032,Morocco,Respiratory Diseases,COPD
-Site_033,Egypt,Respiratory Diseases,Pneumonia
-Site_033,Egypt,Hematology,Iron-deficiency anaemia
-Site_033,Egypt,Hematology,Sickle cell disease
-Site_034,Uganda,Respiratory Diseases,COPD
-Site_034,Uganda,Respiratory Diseases,Asthma
-Site_034,Uganda,Respiratory Diseases,Pneumonia
-Site_034,Uganda,Hematology,Haemophilia
-Site_034,Uganda,Hematology,Iron-deficiency anaemia
-Site_034,Uganda,Hematology,Sickle cell disease
-Site_034,Uganda,Infectious Diseases,HIV-1
-Site_034,Uganda,Infectious Diseases,Tuberculosis
+Site_032,Morocco,Respiratory Diseases,Pneumonia
+Site_032,Morocco,Infectious Diseases,HIV-1
+Site_032,Morocco,Infectious Diseases,Malaria
+Site_033,Egypt,Oncology,Prostate cancer
+Site_033,Egypt,Oncology,Cervical cancer
+Site_033,Egypt,Oncology,Breast cancer
+Site_033,Egypt,Hematology,Haemophilia
 Site_034,Uganda,Infectious Diseases,Malaria
-Site_035,Tanzania,Oncology,Prostate cancer
+Site_034,Uganda,Respiratory Diseases,COPD
+Site_034,Uganda,Cardiovascular,Hypertension
+Site_035,Tanzania,Infectious Diseases,HIV-1
+Site_035,Tanzania,Infectious Diseases,Tuberculosis
+Site_035,Tanzania,Hematology,Sickle cell disease
+Site_035,Tanzania,Hematology,Iron-deficiency anaemia
+Site_035,Tanzania,Hematology,Haemophilia
 Site_035,Tanzania,Oncology,Cervical cancer
+Site_035,Tanzania,Oncology,Prostate cancer
 Site_035,Tanzania,Oncology,Breast cancer
-Site_035,Tanzania,Respiratory Diseases,Asthma
 Site_035,Tanzania,Respiratory Diseases,Pneumonia
-Site_036,Egypt,Oncology,Cervical cancer
-Site_036,Egypt,Oncology,Breast cancer
-Site_036,Egypt,Cardiovascular,Coronary artery disease
-Site_036,Egypt,Cardiovascular,Hypertension
-Site_037,Tanzania,Hematology,Iron-deficiency anaemia
+Site_035,Tanzania,Respiratory Diseases,Asthma
+Site_035,Tanzania,Respiratory Diseases,COPD
+Site_035,Tanzania,Cardiovascular,Heart failure
+Site_035,Tanzania,Cardiovascular,Hypertension
+Site_036,Egypt,Respiratory Diseases,Asthma
+Site_036,Egypt,Oncology,Prostate cancer
+Site_036,Egypt,Infectious Diseases,HIV-1
+Site_037,Tanzania,Respiratory Diseases,COPD
+Site_037,Tanzania,Respiratory Diseases,Asthma
 Site_037,Tanzania,Cardiovascular,Coronary artery disease
-Site_038,Tanzania,Infectious Diseases,HIV-1
-Site_038,Tanzania,Oncology,Breast cancer
-Site_038,Tanzania,Oncology,Prostate cancer
+Site_037,Tanzania,Cardiovascular,Heart failure
+Site_037,Tanzania,Hematology,Sickle cell disease
+Site_037,Tanzania,Hematology,Iron-deficiency anaemia
 Site_038,Tanzania,Oncology,Cervical cancer
-Site_038,Tanzania,Cardiovascular,Hypertension
 Site_038,Tanzania,Hematology,Sickle cell disease
+Site_038,Tanzania,Hematology,Iron-deficiency anaemia
+Site_038,Tanzania,Hematology,Haemophilia
+Site_038,Tanzania,Respiratory Diseases,Asthma
 Site_038,Tanzania,Respiratory Diseases,Pneumonia
 Site_038,Tanzania,Respiratory Diseases,COPD
-Site_038,Tanzania,Respiratory Diseases,Asthma
-Site_039,Morocco,Hematology,Haemophilia
+Site_039,Morocco,Cardiovascular,Hypertension
 Site_039,Morocco,Cardiovascular,Heart failure
 Site_039,Morocco,Cardiovascular,Coronary artery disease
-Site_040,Kenya,Respiratory Diseases,COPD
-Site_040,Kenya,Respiratory Diseases,Pneumonia
-Site_040,Kenya,Oncology,Prostate cancer
-Site_040,Kenya,Oncology,Cervical cancer
-Site_040,Kenya,Oncology,Breast cancer
-Site_040,Kenya,Infectious Diseases,Tuberculosis
-Site_041,Algeria,Oncology,Cervical cancer
+Site_039,Morocco,Hematology,Iron-deficiency anaemia
+Site_039,Morocco,Hematology,Haemophilia
+Site_040,Kenya,Cardiovascular,Heart failure
+Site_040,Kenya,Hematology,Haemophilia
 Site_041,Algeria,Oncology,Prostate cancer
-Site_041,Algeria,Oncology,Breast cancer
-Site_041,Algeria,Respiratory Diseases,Asthma
-Site_041,Algeria,Respiratory Diseases,Pneumonia
-Site_041,Algeria,Hematology,Sickle cell disease
-Site_041,Algeria,Hematology,Haemophilia
-Site_042,Ghana,Oncology,Breast cancer
-Site_042,Ghana,Oncology,Prostate cancer
-Site_042,Ghana,Cardiovascular,Hypertension
+Site_041,Algeria,Cardiovascular,Heart failure
 Site_042,Ghana,Cardiovascular,Coronary artery disease
-Site_042,Ghana,Cardiovascular,Heart failure
-Site_042,Ghana,Hematology,Haemophilia
-Site_042,Ghana,Hematology,Sickle cell disease
 Site_042,Ghana,Infectious Diseases,Malaria
-Site_042,Ghana,Infectious Diseases,Tuberculosis
 Site_042,Ghana,Infectious Diseases,HIV-1
-Site_043,Ghana,Hematology,Sickle cell disease
-Site_043,Ghana,Hematology,Haemophilia
-Site_043,Ghana,Respiratory Diseases,COPD
-Site_043,Ghana,Respiratory Diseases,Asthma
-Site_043,Ghana,Respiratory Diseases,Pneumonia
-Site_043,Ghana,Infectious Diseases,Tuberculosis
+Site_042,Ghana,Oncology,Prostate cancer
+Site_042,Ghana,Oncology,Cervical cancer
+Site_042,Ghana,Oncology,Breast cancer
+Site_043,Ghana,Cardiovascular,Heart failure
+Site_043,Ghana,Cardiovascular,Hypertension
 Site_043,Ghana,Infectious Diseases,Malaria
-Site_043,Ghana,Infectious Diseases,HIV-1
-Site_044,Nigeria,Oncology,Breast cancer
-Site_044,Nigeria,Infectious Diseases,Malaria
-Site_044,Nigeria,Hematology,Sickle cell disease
-Site_044,Nigeria,Hematology,Iron-deficiency anaemia
+Site_043,Ghana,Respiratory Diseases,COPD
+Site_043,Ghana,Respiratory Diseases,Pneumonia
+Site_043,Ghana,Respiratory Diseases,Asthma
 Site_044,Nigeria,Hematology,Haemophilia
-Site_044,Nigeria,Respiratory Diseases,Pneumonia
-Site_044,Nigeria,Respiratory Diseases,Asthma
-Site_044,Nigeria,Respiratory Diseases,COPD
-Site_044,Nigeria,Cardiovascular,Heart failure
-Site_044,Nigeria,Cardiovascular,Coronary artery disease
-Site_044,Nigeria,Cardiovascular,Hypertension
+Site_044,Nigeria,Hematology,Sickle cell disease
+Site_044,Nigeria,Infectious Diseases,HIV-1
+Site_044,Nigeria,Infectious Diseases,Tuberculosis
 Site_045,Egypt,Respiratory Diseases,Pneumonia
-Site_045,Egypt,Hematology,Haemophilia
-Site_045,Egypt,Hematology,Iron-deficiency anaemia
-Site_045,Egypt,Hematology,Sickle cell disease
-Site_045,Egypt,Oncology,Breast cancer
-Site_046,Ethiopia,Hematology,Iron-deficiency anaemia
-Site_046,Ethiopia,Respiratory Diseases,COPD
-Site_046,Ethiopia,Respiratory Diseases,Asthma
-Site_046,Ethiopia,Infectious Diseases,HIV-1
-Site_046,Ethiopia,Infectious Diseases,Tuberculosis
+Site_045,Egypt,Respiratory Diseases,Asthma
+Site_045,Egypt,Oncology,Cervical cancer
+Site_045,Egypt,Oncology,Prostate cancer
+Site_045,Egypt,Infectious Diseases,Tuberculosis
+Site_045,Egypt,Infectious Diseases,Malaria
 Site_046,Ethiopia,Infectious Diseases,Malaria
-Site_047,South Africa,Oncology,Cervical cancer
-Site_047,South Africa,Infectious Diseases,Malaria
+Site_046,Ethiopia,Infectious Diseases,Tuberculosis
+Site_046,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_046,Ethiopia,Oncology,Breast cancer
+Site_047,South Africa,Respiratory Diseases,COPD
+Site_047,South Africa,Respiratory Diseases,Pneumonia
+Site_047,South Africa,Respiratory Diseases,Asthma
 Site_047,South Africa,Infectious Diseases,HIV-1
 Site_047,South Africa,Infectious Diseases,Tuberculosis
-Site_047,South Africa,Cardiovascular,Hypertension
-Site_048,Tanzania,Oncology,Prostate cancer
-Site_048,Tanzania,Oncology,Breast cancer
-Site_048,Tanzania,Hematology,Sickle cell disease
-Site_048,Tanzania,Respiratory Diseases,COPD
-Site_048,Tanzania,Respiratory Diseases,Asthma
+Site_048,Tanzania,Infectious Diseases,Tuberculosis
+Site_048,Tanzania,Infectious Diseases,HIV-1
+Site_048,Tanzania,Infectious Diseases,Malaria
 Site_048,Tanzania,Respiratory Diseases,Pneumonia
-Site_049,Kenya,Hematology,Sickle cell disease
-Site_049,Kenya,Hematology,Iron-deficiency anaemia
-Site_049,Kenya,Hematology,Haemophilia
-Site_049,Kenya,Oncology,Breast cancer
-Site_050,Ghana,Oncology,Cervical cancer
-Site_050,Ghana,Oncology,Prostate cancer
-Site_050,Ghana,Oncology,Breast cancer
+Site_048,Tanzania,Respiratory Diseases,Asthma
+Site_049,Kenya,Oncology,Cervical cancer
+Site_049,Kenya,Oncology,Prostate cancer
+Site_049,Kenya,Infectious Diseases,Malaria
+Site_049,Kenya,Respiratory Diseases,COPD
+Site_049,Kenya,Respiratory Diseases,Pneumonia
+Site_050,Ghana,Respiratory Diseases,Pneumonia
 Site_050,Ghana,Respiratory Diseases,Asthma
-Site_050,Ghana,Infectious Diseases,Malaria
-Site_050,Ghana,Infectious Diseases,HIV-1
-Site_050,Ghana,Infectious Diseases,Tuberculosis
-Site_050,Ghana,Cardiovascular,Coronary artery disease
-Site_050,Ghana,Cardiovascular,Hypertension
-Site_051,Ghana,Hematology,Sickle cell disease
-Site_051,Ghana,Hematology,Haemophilia
-Site_051,Ghana,Hematology,Iron-deficiency anaemia
-Site_051,Ghana,Cardiovascular,Coronary artery disease
+Site_050,Ghana,Oncology,Prostate cancer
 Site_051,Ghana,Oncology,Cervical cancer
-Site_051,Ghana,Oncology,Prostate cancer
+Site_051,Ghana,Oncology,Breast cancer
+Site_051,Ghana,Cardiovascular,Coronary artery disease
+Site_051,Ghana,Cardiovascular,Heart failure
+Site_051,Ghana,Cardiovascular,Hypertension
+Site_051,Ghana,Infectious Diseases,HIV-1
+Site_051,Ghana,Infectious Diseases,Tuberculosis
+Site_052,Algeria,Oncology,Breast cancer
+Site_052,Algeria,Oncology,Prostate cancer
+Site_052,Algeria,Oncology,Cervical cancer
+Site_052,Algeria,Cardiovascular,Heart failure
 Site_052,Algeria,Cardiovascular,Hypertension
 Site_052,Algeria,Cardiovascular,Coronary artery disease
-Site_052,Algeria,Respiratory Diseases,Asthma
-Site_052,Algeria,Respiratory Diseases,COPD
-Site_052,Algeria,Respiratory Diseases,Pneumonia
-Site_052,Algeria,Hematology,Sickle cell disease
-Site_052,Algeria,Hematology,Haemophilia
-Site_052,Algeria,Infectious Diseases,HIV-1
-Site_052,Algeria,Infectious Diseases,Malaria
-Site_052,Algeria,Infectious Diseases,Tuberculosis
-Site_052,Algeria,Oncology,Prostate cancer
-Site_053,Nigeria,Respiratory Diseases,COPD
-Site_053,Nigeria,Cardiovascular,Hypertension
-Site_053,Nigeria,Cardiovascular,Heart failure
 Site_053,Nigeria,Hematology,Haemophilia
-Site_054,South Africa,Oncology,Breast cancer
-Site_054,South Africa,Oncology,Cervical cancer
-Site_054,South Africa,Respiratory Diseases,Pneumonia
+Site_053,Nigeria,Hematology,Iron-deficiency anaemia
+Site_053,Nigeria,Respiratory Diseases,COPD
+Site_053,Nigeria,Infectious Diseases,HIV-1
+Site_053,Nigeria,Oncology,Prostate cancer
+Site_053,Nigeria,Oncology,Breast cancer
+Site_054,South Africa,Cardiovascular,Hypertension
 Site_054,South Africa,Respiratory Diseases,Asthma
-Site_054,South Africa,Respiratory Diseases,COPD
-Site_054,South Africa,Hematology,Sickle cell disease
-Site_054,South Africa,Hematology,Haemophilia
-Site_054,South Africa,Hematology,Iron-deficiency anaemia
-Site_055,South Africa,Oncology,Cervical cancer
+Site_054,South Africa,Oncology,Cervical cancer
+Site_055,South Africa,Oncology,Prostate cancer
 Site_055,South Africa,Oncology,Breast cancer
+Site_055,South Africa,Oncology,Cervical cancer
 Site_055,South Africa,Cardiovascular,Coronary artery disease
-Site_055,South Africa,Cardiovascular,Hypertension
 Site_055,South Africa,Cardiovascular,Heart failure
-Site_056,Egypt,Respiratory Diseases,Asthma
-Site_056,Egypt,Hematology,Haemophilia
 Site_056,Egypt,Hematology,Iron-deficiency anaemia
-Site_056,Egypt,Hematology,Sickle cell disease
-Site_056,Egypt,Infectious Diseases,Malaria
-Site_056,Egypt,Infectious Diseases,Tuberculosis
+Site_056,Egypt,Hematology,Haemophilia
 Site_056,Egypt,Oncology,Cervical cancer
 Site_056,Egypt,Oncology,Prostate cancer
 Site_056,Egypt,Oncology,Breast cancer
-Site_056,Egypt,Cardiovascular,Heart failure
-Site_056,Egypt,Cardiovascular,Coronary artery disease
-Site_056,Egypt,Cardiovascular,Hypertension
-Site_057,Uganda,Hematology,Sickle cell disease
-Site_057,Uganda,Hematology,Iron-deficiency anaemia
-Site_057,Uganda,Hematology,Haemophilia
-Site_057,Uganda,Infectious Diseases,Malaria
-Site_057,Uganda,Infectious Diseases,Tuberculosis
-Site_058,Algeria,Oncology,Prostate cancer
-Site_058,Algeria,Hematology,Iron-deficiency anaemia
+Site_057,Uganda,Respiratory Diseases,Asthma
+Site_057,Uganda,Respiratory Diseases,Pneumonia
+Site_057,Uganda,Cardiovascular,Heart failure
+Site_057,Uganda,Cardiovascular,Coronary artery disease
+Site_057,Uganda,Cardiovascular,Hypertension
+Site_058,Algeria,Oncology,Breast cancer
+Site_058,Algeria,Infectious Diseases,Tuberculosis
+Site_058,Algeria,Infectious Diseases,HIV-1
 Site_058,Algeria,Hematology,Haemophilia
+Site_058,Algeria,Hematology,Sickle cell disease
+Site_058,Algeria,Hematology,Iron-deficiency anaemia
 Site_058,Algeria,Cardiovascular,Heart failure
-Site_059,Ghana,Oncology,Breast cancer
-Site_059,Ghana,Cardiovascular,Coronary artery disease
-Site_059,Ghana,Cardiovascular,Hypertension
+Site_058,Algeria,Cardiovascular,Hypertension
+Site_059,Ghana,Infectious Diseases,Malaria
+Site_059,Ghana,Infectious Diseases,HIV-1
 Site_059,Ghana,Respiratory Diseases,Asthma
 Site_059,Ghana,Respiratory Diseases,Pneumonia
-Site_059,Ghana,Hematology,Iron-deficiency anaemia
-Site_059,Ghana,Hematology,Sickle cell disease
-Site_059,Ghana,Hematology,Haemophilia
-Site_059,Ghana,Infectious Diseases,Tuberculosis
-Site_059,Ghana,Infectious Diseases,HIV-1
-Site_060,Kenya,Respiratory Diseases,Asthma
+Site_059,Ghana,Cardiovascular,Hypertension
+Site_059,Ghana,Cardiovascular,Heart failure
+Site_060,Kenya,Hematology,Haemophilia
+Site_060,Kenya,Hematology,Iron-deficiency anaemia
+Site_060,Kenya,Hematology,Sickle cell disease
+Site_060,Kenya,Infectious Diseases,HIV-1
+Site_060,Kenya,Infectious Diseases,Malaria
 Site_060,Kenya,Infectious Diseases,Tuberculosis
-Site_061,Ethiopia,Respiratory Diseases,Pneumonia
-Site_061,Ethiopia,Infectious Diseases,HIV-1
-Site_061,Ethiopia,Infectious Diseases,Malaria
+Site_061,Ethiopia,Respiratory Diseases,Asthma
 Site_061,Ethiopia,Infectious Diseases,Tuberculosis
-Site_061,Ethiopia,Oncology,Prostate cancer
-Site_061,Ethiopia,Oncology,Breast cancer
-Site_061,Ethiopia,Oncology,Cervical cancer
-Site_062,Ghana,Hematology,Haemophilia
+Site_062,Ghana,Infectious Diseases,HIV-1
 Site_062,Ghana,Infectious Diseases,Malaria
 Site_062,Ghana,Respiratory Diseases,Pneumonia
-Site_063,Nigeria,Infectious Diseases,HIV-1
-Site_063,Nigeria,Infectious Diseases,Malaria
-Site_063,Nigeria,Infectious Diseases,Tuberculosis
-Site_063,Nigeria,Respiratory Diseases,Pneumonia
 Site_063,Nigeria,Respiratory Diseases,COPD
 Site_063,Nigeria,Respiratory Diseases,Asthma
-Site_063,Nigeria,Cardiovascular,Heart failure
-Site_063,Nigeria,Cardiovascular,Hypertension
-Site_063,Nigeria,Cardiovascular,Coronary artery disease
-Site_064,Ethiopia,Respiratory Diseases,COPD
+Site_063,Nigeria,Respiratory Diseases,Pneumonia
+Site_063,Nigeria,Infectious Diseases,HIV-1
+Site_063,Nigeria,Infectious Diseases,Tuberculosis
+Site_063,Nigeria,Oncology,Cervical cancer
+Site_063,Nigeria,Oncology,Breast cancer
+Site_063,Nigeria,Oncology,Prostate cancer
 Site_064,Ethiopia,Hematology,Sickle cell disease
-Site_064,Ethiopia,Infectious Diseases,Tuberculosis
-Site_064,Ethiopia,Infectious Diseases,Malaria
-Site_064,Ethiopia,Infectious Diseases,HIV-1
-Site_064,Ethiopia,Oncology,Prostate cancer
-Site_064,Ethiopia,Oncology,Cervical cancer
-Site_064,Ethiopia,Oncology,Breast cancer
-Site_064,Ethiopia,Cardiovascular,Coronary artery disease
+Site_064,Ethiopia,Hematology,Haemophilia
+Site_064,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_064,Ethiopia,Respiratory Diseases,Asthma
+Site_064,Ethiopia,Respiratory Diseases,COPD
+Site_064,Ethiopia,Respiratory Diseases,Pneumonia
 Site_064,Ethiopia,Cardiovascular,Hypertension
-Site_064,Ethiopia,Cardiovascular,Heart failure
-Site_065,South Africa,Respiratory Diseases,Pneumonia
+Site_065,South Africa,Oncology,Breast cancer
+Site_065,South Africa,Hematology,Haemophilia
+Site_065,South Africa,Hematology,Iron-deficiency anaemia
+Site_065,South Africa,Hematology,Sickle cell disease
 Site_065,South Africa,Respiratory Diseases,Asthma
-Site_065,South Africa,Infectious Diseases,Malaria
-Site_065,South Africa,Infectious Diseases,HIV-1
-Site_065,South Africa,Infectious Diseases,Tuberculosis
-Site_066,Nigeria,Hematology,Sickle cell disease
-Site_066,Nigeria,Hematology,Haemophilia
-Site_066,Nigeria,Hematology,Iron-deficiency anaemia
-Site_066,Nigeria,Respiratory Diseases,Pneumonia
-Site_066,Nigeria,Respiratory Diseases,COPD
-Site_066,Nigeria,Cardiovascular,Coronary artery disease
-Site_066,Nigeria,Cardiovascular,Heart failure
-Site_066,Nigeria,Cardiovascular,Hypertension
-Site_067,Ethiopia,Respiratory Diseases,Pneumonia
-Site_067,Ethiopia,Respiratory Diseases,COPD
+Site_066,Nigeria,Oncology,Breast cancer
+Site_066,Nigeria,Oncology,Prostate cancer
+Site_066,Nigeria,Oncology,Cervical cancer
+Site_066,Nigeria,Infectious Diseases,HIV-1
+Site_066,Nigeria,Infectious Diseases,Tuberculosis
+Site_066,Nigeria,Infectious Diseases,Malaria
 Site_067,Ethiopia,Respiratory Diseases,Asthma
-Site_067,Ethiopia,Infectious Diseases,HIV-1
-Site_067,Ethiopia,Infectious Diseases,Tuberculosis
-Site_067,Ethiopia,Infectious Diseases,Malaria
-Site_068,Nigeria,Infectious Diseases,Tuberculosis
+Site_067,Ethiopia,Hematology,Sickle cell disease
+Site_067,Ethiopia,Hematology,Iron-deficiency anaemia
 Site_068,Nigeria,Infectious Diseases,Malaria
-Site_068,Nigeria,Oncology,Prostate cancer
-Site_068,Nigeria,Oncology,Breast cancer
-Site_068,Nigeria,Respiratory Diseases,Pneumonia
-Site_069,Egypt,Oncology,Prostate cancer
-Site_069,Egypt,Oncology,Breast cancer
+Site_068,Nigeria,Infectious Diseases,HIV-1
+Site_068,Nigeria,Hematology,Iron-deficiency anaemia
+Site_068,Nigeria,Hematology,Sickle cell disease
+Site_069,Egypt,Infectious Diseases,Tuberculosis
+Site_069,Egypt,Infectious Diseases,Malaria
+Site_069,Egypt,Infectious Diseases,HIV-1
 Site_069,Egypt,Respiratory Diseases,Pneumonia
-Site_070,South Africa,Infectious Diseases,HIV-1
-Site_070,South Africa,Infectious Diseases,Malaria
-Site_070,South Africa,Hematology,Iron-deficiency anaemia
-Site_070,South Africa,Hematology,Sickle cell disease
+Site_069,Egypt,Respiratory Diseases,Asthma
+Site_070,South Africa,Cardiovascular,Hypertension
 Site_070,South Africa,Cardiovascular,Heart failure
+Site_070,South Africa,Cardiovascular,Coronary artery disease
+Site_070,South Africa,Hematology,Haemophilia
+Site_070,South Africa,Hematology,Iron-deficiency anaemia
+Site_070,South Africa,Respiratory Diseases,Asthma
 Site_070,South Africa,Respiratory Diseases,COPD
-Site_070,South Africa,Respiratory Diseases,Pneumonia
-Site_071,Ghana,Respiratory Diseases,Pneumonia
+Site_070,South Africa,Oncology,Breast cancer
+Site_070,South Africa,Oncology,Cervical cancer
+Site_070,South Africa,Infectious Diseases,Malaria
+Site_070,South Africa,Infectious Diseases,Tuberculosis
+Site_070,South Africa,Infectious Diseases,HIV-1
 Site_071,Ghana,Oncology,Breast cancer
 Site_071,Ghana,Oncology,Prostate cancer
-Site_071,Ghana,Oncology,Cervical cancer
-Site_071,Ghana,Infectious Diseases,Tuberculosis
-Site_071,Ghana,Infectious Diseases,Malaria
-Site_072,Algeria,Oncology,Prostate cancer
+Site_071,Ghana,Respiratory Diseases,Pneumonia
+Site_071,Ghana,Respiratory Diseases,Asthma
+Site_071,Ghana,Respiratory Diseases,COPD
+Site_071,Ghana,Infectious Diseases,HIV-1
+Site_071,Ghana,Cardiovascular,Hypertension
+Site_071,Ghana,Cardiovascular,Heart failure
+Site_071,Ghana,Hematology,Haemophilia
+Site_071,Ghana,Hematology,Sickle cell disease
 Site_072,Algeria,Infectious Diseases,Malaria
-Site_073,South Africa,Respiratory Diseases,Pneumonia
-Site_073,South Africa,Respiratory Diseases,COPD
-Site_073,South Africa,Hematology,Haemophilia
-Site_073,South Africa,Hematology,Sickle cell disease
-Site_073,South Africa,Hematology,Iron-deficiency anaemia
-Site_074,Algeria,Cardiovascular,Heart failure
+Site_072,Algeria,Infectious Diseases,HIV-1
+Site_072,Algeria,Hematology,Iron-deficiency anaemia
+Site_072,Algeria,Hematology,Haemophilia
+Site_072,Algeria,Hematology,Sickle cell disease
+Site_072,Algeria,Cardiovascular,Hypertension
+Site_072,Algeria,Respiratory Diseases,Asthma
+Site_072,Algeria,Respiratory Diseases,Pneumonia
+Site_072,Algeria,Respiratory Diseases,COPD
+Site_073,South Africa,Cardiovascular,Hypertension
+Site_073,South Africa,Cardiovascular,Heart failure
+Site_073,South Africa,Infectious Diseases,Malaria
+Site_073,South Africa,Infectious Diseases,Tuberculosis
+Site_074,Algeria,Hematology,Iron-deficiency anaemia
+Site_074,Algeria,Respiratory Diseases,Asthma
 Site_074,Algeria,Cardiovascular,Hypertension
+Site_074,Algeria,Cardiovascular,Heart failure
 Site_074,Algeria,Cardiovascular,Coronary artery disease
-Site_074,Algeria,Infectious Diseases,HIV-1
 Site_075,Kenya,Infectious Diseases,Tuberculosis
-Site_075,Kenya,Infectious Diseases,Malaria
-Site_075,Kenya,Infectious Diseases,HIV-1
-Site_075,Kenya,Respiratory Diseases,COPD
-Site_075,Kenya,Respiratory Diseases,Asthma
-Site_075,Kenya,Respiratory Diseases,Pneumonia
-Site_076,South Africa,Oncology,Prostate cancer
+Site_075,Kenya,Oncology,Cervical cancer
+Site_075,Kenya,Oncology,Breast cancer
+Site_075,Kenya,Oncology,Prostate cancer
 Site_076,South Africa,Oncology,Breast cancer
-Site_076,South Africa,Hematology,Sickle cell disease
-Site_076,South Africa,Hematology,Haemophilia
-Site_077,Nigeria,Hematology,Haemophilia
-Site_077,Nigeria,Hematology,Sickle cell disease
-Site_077,Nigeria,Oncology,Breast cancer
+Site_076,South Africa,Cardiovascular,Hypertension
+Site_076,South Africa,Infectious Diseases,HIV-1
+Site_076,South Africa,Infectious Diseases,Malaria
+Site_076,South Africa,Infectious Diseases,Tuberculosis
 Site_077,Nigeria,Oncology,Prostate cancer
-Site_077,Nigeria,Oncology,Cervical cancer
+Site_077,Nigeria,Respiratory Diseases,Asthma
+Site_077,Nigeria,Respiratory Diseases,COPD
+Site_077,Nigeria,Hematology,Sickle cell disease
+Site_077,Nigeria,Hematology,Haemophilia
+Site_077,Nigeria,Hematology,Iron-deficiency anaemia
+Site_077,Nigeria,Infectious Diseases,Tuberculosis
 Site_077,Nigeria,Infectious Diseases,HIV-1
 Site_077,Nigeria,Infectious Diseases,Malaria
-Site_077,Nigeria,Infectious Diseases,Tuberculosis
-Site_077,Nigeria,Respiratory Diseases,Pneumonia
-Site_077,Nigeria,Cardiovascular,Heart failure
 Site_077,Nigeria,Cardiovascular,Hypertension
-Site_078,Morocco,Oncology,Breast cancer
-Site_078,Morocco,Hematology,Haemophilia
+Site_077,Nigeria,Cardiovascular,Heart failure
+Site_078,Morocco,Cardiovascular,Coronary artery disease
+Site_078,Morocco,Cardiovascular,Hypertension
+Site_078,Morocco,Cardiovascular,Heart failure
 Site_078,Morocco,Hematology,Iron-deficiency anaemia
+Site_078,Morocco,Hematology,Haemophilia
 Site_078,Morocco,Hematology,Sickle cell disease
-Site_078,Morocco,Respiratory Diseases,Pneumonia
-Site_078,Morocco,Respiratory Diseases,COPD
-Site_078,Morocco,Respiratory Diseases,Asthma
+Site_079,Uganda,Respiratory Diseases,COPD
+Site_079,Uganda,Respiratory Diseases,Pneumonia
+Site_079,Uganda,Hematology,Sickle cell disease
 Site_079,Uganda,Infectious Diseases,Tuberculosis
 Site_079,Uganda,Infectious Diseases,Malaria
-Site_079,Uganda,Oncology,Breast cancer
-Site_079,Uganda,Oncology,Prostate cancer
-Site_079,Uganda,Oncology,Cervical cancer
-Site_079,Uganda,Cardiovascular,Coronary artery disease
-Site_080,Kenya,Oncology,Cervical cancer
-Site_080,Kenya,Infectious Diseases,Tuberculosis
+Site_079,Uganda,Infectious Diseases,HIV-1
 Site_080,Kenya,Infectious Diseases,HIV-1
-Site_080,Kenya,Cardiovascular,Hypertension
-Site_081,Ethiopia,Cardiovascular,Heart failure
-Site_081,Ethiopia,Oncology,Cervical cancer
+Site_080,Kenya,Cardiovascular,Coronary artery disease
+Site_080,Kenya,Oncology,Cervical cancer
+Site_080,Kenya,Oncology,Breast cancer
+Site_080,Kenya,Respiratory Diseases,Asthma
+Site_081,Ethiopia,Oncology,Prostate cancer
+Site_081,Ethiopia,Oncology,Breast cancer
+Site_081,Ethiopia,Infectious Diseases,Tuberculosis
+Site_081,Ethiopia,Respiratory Diseases,COPD
 Site_081,Ethiopia,Hematology,Haemophilia
 Site_081,Ethiopia,Hematology,Sickle cell disease
+Site_081,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_081,Ethiopia,Cardiovascular,Heart failure
 Site_082,South Africa,Cardiovascular,Heart failure
 Site_082,South Africa,Hematology,Iron-deficiency anaemia
-Site_082,South Africa,Hematology,Haemophilia
 Site_082,South Africa,Hematology,Sickle cell disease
-Site_082,South Africa,Oncology,Prostate cancer
-Site_082,South Africa,Oncology,Breast cancer
-Site_083,Algeria,Infectious Diseases,Malaria
-Site_083,Algeria,Oncology,Cervical cancer
+Site_082,South Africa,Respiratory Diseases,Asthma
+Site_082,South Africa,Respiratory Diseases,COPD
 Site_083,Algeria,Cardiovascular,Hypertension
-Site_083,Algeria,Cardiovascular,Coronary artery disease
 Site_083,Algeria,Cardiovascular,Heart failure
+Site_083,Algeria,Cardiovascular,Coronary artery disease
+Site_083,Algeria,Respiratory Diseases,COPD
+Site_083,Algeria,Respiratory Diseases,Asthma
+Site_083,Algeria,Respiratory Diseases,Pneumonia
+Site_083,Algeria,Infectious Diseases,Tuberculosis
+Site_084,Tanzania,Respiratory Diseases,Asthma
+Site_084,Tanzania,Infectious Diseases,Malaria
+Site_084,Tanzania,Cardiovascular,Hypertension
 Site_084,Tanzania,Oncology,Cervical cancer
 Site_084,Tanzania,Oncology,Breast cancer
-Site_084,Tanzania,Respiratory Diseases,Pneumonia
-Site_084,Tanzania,Respiratory Diseases,COPD
-Site_085,Kenya,Oncology,Cervical cancer
-Site_085,Kenya,Oncology,Prostate cancer
-Site_085,Kenya,Cardiovascular,Heart failure
-Site_085,Kenya,Respiratory Diseases,Asthma
-Site_085,Kenya,Respiratory Diseases,COPD
-Site_086,Ghana,Oncology,Breast cancer
+Site_084,Tanzania,Hematology,Sickle cell disease
+Site_085,Kenya,Hematology,Sickle cell disease
+Site_085,Kenya,Respiratory Diseases,Pneumonia
+Site_085,Kenya,Infectious Diseases,Tuberculosis
+Site_085,Kenya,Infectious Diseases,Malaria
+Site_086,Ghana,Oncology,Prostate cancer
+Site_086,Ghana,Oncology,Cervical cancer
+Site_086,Ghana,Infectious Diseases,HIV-1
 Site_086,Ghana,Cardiovascular,Heart failure
 Site_086,Ghana,Cardiovascular,Hypertension
-Site_087,Egypt,Oncology,Prostate cancer
-Site_087,Egypt,Oncology,Breast cancer
-Site_087,Egypt,Cardiovascular,Heart failure
-Site_087,Egypt,Cardiovascular,Coronary artery disease
-Site_087,Egypt,Cardiovascular,Hypertension
+Site_086,Ghana,Cardiovascular,Coronary artery disease
 Site_087,Egypt,Respiratory Diseases,Pneumonia
+Site_087,Egypt,Hematology,Sickle cell disease
+Site_087,Egypt,Hematology,Haemophilia
+Site_087,Egypt,Hematology,Iron-deficiency anaemia
+Site_087,Egypt,Oncology,Breast cancer
+Site_087,Egypt,Oncology,Prostate cancer
+Site_087,Egypt,Cardiovascular,Heart failure
+Site_087,Egypt,Infectious Diseases,Malaria
+Site_087,Egypt,Infectious Diseases,HIV-1
+Site_087,Egypt,Infectious Diseases,Tuberculosis
+Site_088,Nigeria,Infectious Diseases,Tuberculosis
+Site_088,Nigeria,Infectious Diseases,Malaria
 Site_088,Nigeria,Respiratory Diseases,Pneumonia
 Site_088,Nigeria,Respiratory Diseases,COPD
-Site_088,Nigeria,Respiratory Diseases,Asthma
-Site_088,Nigeria,Cardiovascular,Coronary artery disease
-Site_088,Nigeria,Cardiovascular,Hypertension
-Site_088,Nigeria,Cardiovascular,Heart failure
+Site_088,Nigeria,Oncology,Prostate cancer
+Site_088,Nigeria,Oncology,Breast cancer
+Site_089,Ghana,Respiratory Diseases,Pneumonia
+Site_089,Ghana,Respiratory Diseases,COPD
+Site_089,Ghana,Respiratory Diseases,Asthma
+Site_089,Ghana,Infectious Diseases,HIV-1
+Site_089,Ghana,Oncology,Cervical cancer
 Site_089,Ghana,Oncology,Prostate cancer
 Site_089,Ghana,Oncology,Breast cancer
-Site_089,Ghana,Hematology,Sickle cell disease
+Site_089,Ghana,Cardiovascular,Coronary artery disease
+Site_089,Ghana,Cardiovascular,Hypertension
+Site_089,Ghana,Cardiovascular,Heart failure
 Site_089,Ghana,Hematology,Iron-deficiency anaemia
 Site_089,Ghana,Hematology,Haemophilia
-Site_090,Tanzania,Cardiovascular,Heart failure
+Site_089,Ghana,Hematology,Sickle cell disease
 Site_090,Tanzania,Cardiovascular,Hypertension
-Site_090,Tanzania,Respiratory Diseases,Asthma
-Site_090,Tanzania,Respiratory Diseases,COPD
-Site_091,South Africa,Oncology,Prostate cancer
-Site_091,South Africa,Infectious Diseases,HIV-1
-Site_092,Tanzania,Infectious Diseases,HIV-1
-Site_092,Tanzania,Infectious Diseases,Malaria
-Site_092,Tanzania,Infectious Diseases,Tuberculosis
-Site_092,Tanzania,Respiratory Diseases,Asthma
-Site_092,Tanzania,Respiratory Diseases,Pneumonia
+Site_090,Tanzania,Cardiovascular,Heart failure
+Site_090,Tanzania,Cardiovascular,Coronary artery disease
+Site_090,Tanzania,Hematology,Sickle cell disease
+Site_090,Tanzania,Oncology,Prostate cancer
+Site_090,Tanzania,Oncology,Cervical cancer
+Site_090,Tanzania,Oncology,Breast cancer
+Site_091,South Africa,Cardiovascular,Hypertension
+Site_091,South Africa,Cardiovascular,Heart failure
+Site_091,South Africa,Cardiovascular,Coronary artery disease
+Site_091,South Africa,Oncology,Cervical cancer
+Site_091,South Africa,Infectious Diseases,Tuberculosis
+Site_091,South Africa,Infectious Diseases,Malaria
 Site_092,Tanzania,Respiratory Diseases,COPD
+Site_092,Tanzania,Respiratory Diseases,Pneumonia
+Site_092,Tanzania,Hematology,Haemophilia
+Site_092,Tanzania,Hematology,Sickle cell disease
+Site_092,Tanzania,Hematology,Iron-deficiency anaemia
 Site_092,Tanzania,Cardiovascular,Hypertension
-Site_092,Tanzania,Cardiovascular,Coronary artery disease
 Site_092,Tanzania,Cardiovascular,Heart failure
-Site_092,Tanzania,Oncology,Cervical cancer
-Site_093,Tanzania,Infectious Diseases,Tuberculosis
+Site_092,Tanzania,Cardiovascular,Coronary artery disease
+Site_093,Tanzania,Infectious Diseases,HIV-1
 Site_093,Tanzania,Infectious Diseases,Malaria
-Site_093,Tanzania,Cardiovascular,Heart failure
-Site_093,Tanzania,Cardiovascular,Coronary artery disease
+Site_093,Tanzania,Infectious Diseases,Tuberculosis
+Site_093,Tanzania,Respiratory Diseases,Asthma
+Site_093,Tanzania,Respiratory Diseases,COPD
+Site_093,Tanzania,Respiratory Diseases,Pneumonia
 Site_093,Tanzania,Cardiovascular,Hypertension
-Site_094,Nigeria,Hematology,Haemophilia
-Site_094,Nigeria,Hematology,Sickle cell disease
-Site_094,Nigeria,Hematology,Iron-deficiency anaemia
+Site_094,Nigeria,Infectious Diseases,Tuberculosis
 Site_094,Nigeria,Infectious Diseases,HIV-1
+Site_094,Nigeria,Infectious Diseases,Malaria
+Site_094,Nigeria,Cardiovascular,Coronary artery disease
+Site_094,Nigeria,Cardiovascular,Heart failure
+Site_094,Nigeria,Cardiovascular,Hypertension
+Site_094,Nigeria,Hematology,Sickle cell disease
+Site_094,Nigeria,Hematology,Haemophilia
+Site_094,Nigeria,Oncology,Cervical cancer
+Site_094,Nigeria,Oncology,Prostate cancer
+Site_094,Nigeria,Oncology,Breast cancer
 Site_095,Tanzania,Respiratory Diseases,COPD
+Site_095,Tanzania,Respiratory Diseases,Pneumonia
 Site_095,Tanzania,Respiratory Diseases,Asthma
-Site_095,Tanzania,Cardiovascular,Heart failure
-Site_095,Tanzania,Infectious Diseases,Malaria
-Site_096,Morocco,Oncology,Breast cancer
-Site_096,Morocco,Infectious Diseases,HIV-1
-Site_096,Morocco,Infectious Diseases,Malaria
-Site_096,Morocco,Infectious Diseases,Tuberculosis
-Site_096,Morocco,Cardiovascular,Hypertension
+Site_095,Tanzania,Infectious Diseases,HIV-1
+Site_095,Tanzania,Oncology,Breast cancer
+Site_095,Tanzania,Oncology,Prostate cancer
+Site_095,Tanzania,Oncology,Cervical cancer
+Site_095,Tanzania,Hematology,Iron-deficiency anaemia
+Site_095,Tanzania,Hematology,Haemophilia
+Site_095,Tanzania,Hematology,Sickle cell disease
+Site_095,Tanzania,Cardiovascular,Coronary artery disease
+Site_096,Morocco,Respiratory Diseases,Pneumonia
+Site_096,Morocco,Respiratory Diseases,Asthma
+Site_096,Morocco,Respiratory Diseases,COPD
 Site_096,Morocco,Cardiovascular,Coronary artery disease
+Site_096,Morocco,Cardiovascular,Hypertension
 Site_096,Morocco,Cardiovascular,Heart failure
-Site_097,Morocco,Respiratory Diseases,Asthma
-Site_097,Morocco,Respiratory Diseases,COPD
-Site_097,Morocco,Hematology,Iron-deficiency anaemia
-Site_097,Morocco,Cardiovascular,Heart failure
-Site_098,Kenya,Hematology,Haemophilia
-Site_098,Kenya,Hematology,Sickle cell disease
-Site_098,Kenya,Cardiovascular,Heart failure
-Site_098,Kenya,Cardiovascular,Hypertension
-Site_098,Kenya,Cardiovascular,Coronary artery disease
-Site_099,Kenya,Oncology,Prostate cancer
-Site_099,Kenya,Oncology,Cervical cancer
-Site_099,Kenya,Infectious Diseases,Tuberculosis
-Site_099,Kenya,Infectious Diseases,Malaria
-Site_100,Algeria,Cardiovascular,Hypertension
-Site_100,Algeria,Cardiovascular,Heart failure
-Site_100,Algeria,Oncology,Prostate cancer
+Site_096,Morocco,Infectious Diseases,Tuberculosis
+Site_097,Morocco,Oncology,Cervical cancer
+Site_097,Morocco,Oncology,Prostate cancer
+Site_097,Morocco,Infectious Diseases,Malaria
+Site_098,Kenya,Infectious Diseases,Malaria
+Site_098,Kenya,Infectious Diseases,HIV-1
+Site_098,Kenya,Oncology,Breast cancer
+Site_098,Kenya,Oncology,Cervical cancer
+Site_099,Kenya,Cardiovascular,Hypertension
+Site_099,Kenya,Respiratory Diseases,Pneumonia
+Site_099,Kenya,Respiratory Diseases,Asthma
+Site_099,Kenya,Respiratory Diseases,COPD
+Site_099,Kenya,Oncology,Breast cancer
 Site_100,Algeria,Oncology,Cervical cancer
-Site_101,Tanzania,Infectious Diseases,HIV-1
-Site_101,Tanzania,Infectious Diseases,Malaria
-Site_101,Tanzania,Respiratory Diseases,Asthma
-Site_101,Tanzania,Respiratory Diseases,COPD
-Site_101,Tanzania,Respiratory Diseases,Pneumonia
-Site_101,Tanzania,Oncology,Breast cancer
-Site_101,Tanzania,Oncology,Cervical cancer
+Site_100,Algeria,Oncology,Breast cancer
+Site_100,Algeria,Oncology,Prostate cancer
+Site_100,Algeria,Hematology,Iron-deficiency anaemia
+Site_100,Algeria,Hematology,Sickle cell disease
+Site_100,Algeria,Hematology,Haemophilia
 Site_101,Tanzania,Oncology,Prostate cancer
-Site_101,Tanzania,Hematology,Iron-deficiency anaemia
-Site_101,Tanzania,Hematology,Haemophilia
-Site_101,Tanzania,Hematology,Sickle cell disease
-Site_101,Tanzania,Cardiovascular,Coronary artery disease
-Site_101,Tanzania,Cardiovascular,Hypertension
-Site_102,Algeria,Oncology,Prostate cancer
-Site_102,Algeria,Oncology,Breast cancer
-Site_102,Algeria,Oncology,Cervical cancer
-Site_102,Algeria,Cardiovascular,Heart failure
-Site_102,Algeria,Cardiovascular,Hypertension
+Site_101,Tanzania,Oncology,Cervical cancer
+Site_101,Tanzania,Oncology,Breast cancer
+Site_101,Tanzania,Respiratory Diseases,Asthma
+Site_101,Tanzania,Cardiovascular,Heart failure
 Site_102,Algeria,Cardiovascular,Coronary artery disease
-Site_103,Tanzania,Infectious Diseases,Malaria
+Site_102,Algeria,Hematology,Sickle cell disease
+Site_102,Algeria,Hematology,Iron-deficiency anaemia
+Site_103,Tanzania,Respiratory Diseases,COPD
 Site_103,Tanzania,Respiratory Diseases,Asthma
-Site_103,Tanzania,Respiratory Diseases,Pneumonia
+Site_103,Tanzania,Infectious Diseases,Malaria
+Site_103,Tanzania,Infectious Diseases,HIV-1
+Site_103,Tanzania,Infectious Diseases,Tuberculosis
 Site_103,Tanzania,Oncology,Cervical cancer
-Site_103,Tanzania,Oncology,Breast cancer
 Site_103,Tanzania,Oncology,Prostate cancer
-Site_104,Egypt,Oncology,Breast cancer
-Site_104,Egypt,Oncology,Cervical cancer
+Site_103,Tanzania,Oncology,Breast cancer
+Site_103,Tanzania,Hematology,Sickle cell disease
+Site_103,Tanzania,Hematology,Haemophilia
+Site_104,Egypt,Respiratory Diseases,Pneumonia
+Site_104,Egypt,Respiratory Diseases,Asthma
+Site_104,Egypt,Respiratory Diseases,COPD
 Site_104,Egypt,Oncology,Prostate cancer
-Site_104,Egypt,Infectious Diseases,Tuberculosis
-Site_104,Egypt,Infectious Diseases,HIV-1
-Site_104,Egypt,Cardiovascular,Heart failure
-Site_104,Egypt,Cardiovascular,Hypertension
-Site_104,Egypt,Cardiovascular,Coronary artery disease
-Site_105,Ghana,Respiratory Diseases,Asthma
-Site_105,Ghana,Respiratory Diseases,COPD
-Site_105,Ghana,Respiratory Diseases,Pneumonia
-Site_105,Ghana,Infectious Diseases,Malaria
-Site_105,Ghana,Cardiovascular,Coronary artery disease
-Site_105,Ghana,Oncology,Prostate cancer
+Site_104,Egypt,Oncology,Breast cancer
 Site_105,Ghana,Hematology,Haemophilia
-Site_105,Ghana,Hematology,Sickle cell disease
-Site_105,Ghana,Hematology,Iron-deficiency anaemia
+Site_105,Ghana,Cardiovascular,Hypertension
+Site_105,Ghana,Respiratory Diseases,COPD
+Site_105,Ghana,Respiratory Diseases,Asthma
+Site_105,Ghana,Infectious Diseases,Tuberculosis
+Site_105,Ghana,Infectious Diseases,Malaria
+Site_105,Ghana,Oncology,Breast cancer
+Site_105,Ghana,Oncology,Prostate cancer
+Site_105,Ghana,Oncology,Cervical cancer
 Site_106,Ghana,Oncology,Cervical cancer
 Site_106,Ghana,Oncology,Prostate cancer
 Site_106,Ghana,Oncology,Breast cancer
-Site_106,Ghana,Infectious Diseases,Malaria
-Site_106,Ghana,Infectious Diseases,Tuberculosis
-Site_106,Ghana,Respiratory Diseases,COPD
 Site_106,Ghana,Respiratory Diseases,Pneumonia
 Site_106,Ghana,Respiratory Diseases,Asthma
+Site_107,Ghana,Cardiovascular,Coronary artery disease
+Site_107,Ghana,Cardiovascular,Heart failure
+Site_107,Ghana,Cardiovascular,Hypertension
 Site_107,Ghana,Hematology,Iron-deficiency anaemia
-Site_107,Ghana,Oncology,Prostate cancer
-Site_107,Ghana,Oncology,Cervical cancer
-Site_107,Ghana,Oncology,Breast cancer
-Site_107,Ghana,Infectious Diseases,HIV-1
-Site_107,Ghana,Infectious Diseases,Malaria
-Site_108,Kenya,Cardiovascular,Coronary artery disease
+Site_108,Kenya,Cardiovascular,Heart failure
 Site_108,Kenya,Oncology,Cervical cancer
-Site_108,Kenya,Oncology,Breast cancer
-Site_108,Kenya,Respiratory Diseases,Pneumonia
-Site_109,South Africa,Oncology,Breast cancer
+Site_108,Kenya,Oncology,Prostate cancer
+Site_108,Kenya,Infectious Diseases,HIV-1
+Site_108,Kenya,Infectious Diseases,Malaria
+Site_109,South Africa,Infectious Diseases,HIV-1
 Site_109,South Africa,Hematology,Iron-deficiency anaemia
-Site_109,South Africa,Hematology,Sickle cell disease
-Site_109,South Africa,Hematology,Haemophilia
-Site_110,Ghana,Respiratory Diseases,Pneumonia
-Site_110,Ghana,Respiratory Diseases,COPD
-Site_110,Ghana,Respiratory Diseases,Asthma
-Site_110,Ghana,Oncology,Breast cancer
+Site_110,Ghana,Hematology,Haemophilia
+Site_110,Ghana,Infectious Diseases,Tuberculosis
+Site_110,Ghana,Infectious Diseases,Malaria
+Site_110,Ghana,Infectious Diseases,HIV-1
 Site_110,Ghana,Cardiovascular,Coronary artery disease
 Site_110,Ghana,Cardiovascular,Heart failure
-Site_110,Ghana,Cardiovascular,Hypertension
-Site_111,Morocco,Respiratory Diseases,Asthma
-Site_111,Morocco,Cardiovascular,Hypertension
 Site_111,Morocco,Cardiovascular,Heart failure
-Site_111,Morocco,Cardiovascular,Coronary artery disease
-Site_112,Ghana,Oncology,Cervical cancer
-Site_112,Ghana,Oncology,Prostate cancer
+Site_111,Morocco,Cardiovascular,Hypertension
+Site_111,Morocco,Hematology,Haemophilia
+Site_111,Morocco,Respiratory Diseases,Asthma
 Site_112,Ghana,Infectious Diseases,HIV-1
+Site_112,Ghana,Infectious Diseases,Tuberculosis
 Site_112,Ghana,Infectious Diseases,Malaria
-Site_113,Uganda,Cardiovascular,Coronary artery disease
-Site_113,Uganda,Respiratory Diseases,COPD
-Site_113,Uganda,Respiratory Diseases,Asthma
-Site_113,Uganda,Respiratory Diseases,Pneumonia
+Site_112,Ghana,Hematology,Iron-deficiency anaemia
+Site_112,Ghana,Cardiovascular,Coronary artery disease
+Site_112,Ghana,Cardiovascular,Heart failure
+Site_113,Uganda,Infectious Diseases,Tuberculosis
+Site_113,Uganda,Infectious Diseases,Malaria
+Site_113,Uganda,Infectious Diseases,HIV-1
+Site_113,Uganda,Cardiovascular,Heart failure
+Site_113,Uganda,Cardiovascular,Hypertension
 Site_113,Uganda,Hematology,Iron-deficiency anaemia
-Site_113,Uganda,Hematology,Sickle cell disease
+Site_114,South Africa,Respiratory Diseases,COPD
 Site_114,South Africa,Infectious Diseases,HIV-1
+Site_114,South Africa,Infectious Diseases,Tuberculosis
+Site_114,South Africa,Infectious Diseases,Malaria
+Site_114,South Africa,Oncology,Cervical cancer
+Site_114,South Africa,Oncology,Breast cancer
+Site_114,South Africa,Oncology,Prostate cancer
+Site_114,South Africa,Hematology,Haemophilia
+Site_114,South Africa,Cardiovascular,Coronary artery disease
 Site_114,South Africa,Cardiovascular,Heart failure
-Site_115,Uganda,Infectious Diseases,Malaria
-Site_115,Uganda,Infectious Diseases,HIV-1
-Site_115,Uganda,Respiratory Diseases,Pneumonia
-Site_115,Uganda,Respiratory Diseases,COPD
-Site_115,Uganda,Respiratory Diseases,Asthma
-Site_116,Uganda,Oncology,Prostate cancer
-Site_116,Uganda,Oncology,Breast cancer
+Site_115,Uganda,Cardiovascular,Hypertension
+Site_115,Uganda,Cardiovascular,Heart failure
+Site_115,Uganda,Hematology,Iron-deficiency anaemia
+Site_115,Uganda,Hematology,Haemophilia
+Site_115,Uganda,Hematology,Sickle cell disease
 Site_116,Uganda,Cardiovascular,Coronary artery disease
-Site_116,Uganda,Hematology,Iron-deficiency anaemia
-Site_116,Uganda,Infectious Diseases,Tuberculosis
-Site_116,Uganda,Infectious Diseases,HIV-1
-Site_116,Uganda,Infectious Diseases,Malaria
+Site_116,Uganda,Cardiovascular,Heart failure
+Site_116,Uganda,Respiratory Diseases,Pneumonia
+Site_116,Uganda,Oncology,Breast cancer
+Site_116,Uganda,Oncology,Prostate cancer
+Site_116,Uganda,Oncology,Cervical cancer
+Site_117,Egypt,Infectious Diseases,HIV-1
+Site_117,Egypt,Infectious Diseases,Tuberculosis
+Site_117,Egypt,Infectious Diseases,Malaria
+Site_117,Egypt,Cardiovascular,Heart failure
 Site_117,Egypt,Cardiovascular,Coronary artery disease
-Site_117,Egypt,Hematology,Haemophilia
-Site_117,Egypt,Oncology,Prostate cancer
-Site_117,Egypt,Oncology,Breast cancer
-Site_117,Egypt,Oncology,Cervical cancer
-Site_117,Egypt,Respiratory Diseases,COPD
-Site_117,Egypt,Respiratory Diseases,Asthma
-Site_118,Algeria,Oncology,Prostate cancer
+Site_117,Egypt,Cardiovascular,Hypertension
+Site_118,Algeria,Respiratory Diseases,COPD
+Site_118,Algeria,Respiratory Diseases,Pneumonia
+Site_118,Algeria,Oncology,Breast cancer
 Site_118,Algeria,Oncology,Cervical cancer
-Site_118,Algeria,Hematology,Haemophilia
-Site_118,Algeria,Hematology,Iron-deficiency anaemia
-Site_118,Algeria,Hematology,Sickle cell disease
-Site_119,Morocco,Respiratory Diseases,COPD
+Site_119,Morocco,Oncology,Prostate cancer
+Site_119,Morocco,Respiratory Diseases,Pneumonia
 Site_119,Morocco,Respiratory Diseases,Asthma
+Site_119,Morocco,Cardiovascular,Heart failure
+Site_119,Morocco,Hematology,Iron-deficiency anaemia
 Site_119,Morocco,Hematology,Haemophilia
 Site_119,Morocco,Hematology,Sickle cell disease
-Site_119,Morocco,Hematology,Iron-deficiency anaemia
-Site_119,Morocco,Infectious Diseases,Malaria
-Site_119,Morocco,Infectious Diseases,Tuberculosis
-Site_119,Morocco,Oncology,Breast cancer
-Site_119,Morocco,Oncology,Prostate cancer
-Site_119,Morocco,Oncology,Cervical cancer
-Site_119,Morocco,Cardiovascular,Heart failure
-Site_119,Morocco,Cardiovascular,Hypertension
-Site_119,Morocco,Cardiovascular,Coronary artery disease
-Site_120,Algeria,Oncology,Prostate cancer
-Site_120,Algeria,Respiratory Diseases,Asthma
-Site_120,Algeria,Respiratory Diseases,COPD
+Site_120,Algeria,Oncology,Cervical cancer
+Site_120,Algeria,Cardiovascular,Hypertension
+Site_120,Algeria,Cardiovascular,Coronary artery disease
+Site_120,Algeria,Infectious Diseases,HIV-1
+Site_120,Algeria,Infectious Diseases,Malaria
+Site_120,Algeria,Infectious Diseases,Tuberculosis
 Site_121,South Africa,Respiratory Diseases,Pneumonia
 Site_121,South Africa,Respiratory Diseases,Asthma
-Site_121,South Africa,Respiratory Diseases,COPD
-Site_121,South Africa,Cardiovascular,Heart failure
-Site_121,South Africa,Hematology,Haemophilia
 Site_121,South Africa,Hematology,Iron-deficiency anaemia
 Site_121,South Africa,Hematology,Sickle cell disease
+Site_121,South Africa,Hematology,Haemophilia
+Site_122,Kenya,Respiratory Diseases,Pneumonia
+Site_122,Kenya,Respiratory Diseases,Asthma
+Site_122,Kenya,Respiratory Diseases,COPD
 Site_122,Kenya,Hematology,Iron-deficiency anaemia
-Site_122,Kenya,Hematology,Haemophilia
-Site_122,Kenya,Cardiovascular,Heart failure
-Site_122,Kenya,Infectious Diseases,HIV-1
-Site_123,Kenya,Infectious Diseases,HIV-1
-Site_123,Kenya,Hematology,Sickle cell disease
+Site_123,Kenya,Hematology,Iron-deficiency anaemia
 Site_123,Kenya,Hematology,Haemophilia
-Site_123,Kenya,Oncology,Prostate cancer
-Site_123,Kenya,Oncology,Breast cancer
-Site_123,Kenya,Oncology,Cervical cancer
-Site_124,South Africa,Respiratory Diseases,Pneumonia
-Site_124,South Africa,Respiratory Diseases,COPD
-Site_124,South Africa,Oncology,Breast cancer
+Site_123,Kenya,Hematology,Sickle cell disease
+Site_123,Kenya,Cardiovascular,Hypertension
+Site_123,Kenya,Cardiovascular,Heart failure
 Site_124,South Africa,Oncology,Prostate cancer
 Site_124,South Africa,Cardiovascular,Coronary artery disease
-Site_124,South Africa,Cardiovascular,Hypertension
 Site_124,South Africa,Cardiovascular,Heart failure
-Site_125,Tanzania,Respiratory Diseases,Asthma
-Site_125,Tanzania,Respiratory Diseases,Pneumonia
-Site_125,Tanzania,Infectious Diseases,Tuberculosis
-Site_125,Tanzania,Infectious Diseases,Malaria
-Site_125,Tanzania,Oncology,Prostate cancer
-Site_125,Tanzania,Oncology,Breast cancer
-Site_125,Tanzania,Oncology,Cervical cancer
-Site_126,Uganda,Respiratory Diseases,Pneumonia
+Site_124,South Africa,Cardiovascular,Hypertension
+Site_124,South Africa,Hematology,Haemophilia
+Site_124,South Africa,Hematology,Sickle cell disease
+Site_124,South Africa,Hematology,Iron-deficiency anaemia
+Site_125,Tanzania,Cardiovascular,Hypertension
+Site_125,Tanzania,Cardiovascular,Heart failure
+Site_125,Tanzania,Cardiovascular,Coronary artery disease
+Site_125,Tanzania,Hematology,Sickle cell disease
+Site_125,Tanzania,Hematology,Haemophilia
+Site_126,Uganda,Cardiovascular,Hypertension
+Site_126,Uganda,Infectious Diseases,Malaria
+Site_126,Uganda,Infectious Diseases,HIV-1
+Site_126,Uganda,Infectious Diseases,Tuberculosis
 Site_126,Uganda,Respiratory Diseases,COPD
-Site_126,Uganda,Hematology,Sickle cell disease
-Site_126,Uganda,Hematology,Haemophilia
-Site_127,Egypt,Infectious Diseases,HIV-1
-Site_127,Egypt,Infectious Diseases,Tuberculosis
-Site_127,Egypt,Infectious Diseases,Malaria
-Site_127,Egypt,Cardiovascular,Hypertension
-Site_127,Egypt,Hematology,Sickle cell disease
-Site_127,Egypt,Hematology,Iron-deficiency anaemia
-Site_127,Egypt,Hematology,Haemophilia
+Site_126,Uganda,Respiratory Diseases,Pneumonia
+Site_127,Egypt,Respiratory Diseases,Pneumonia
 Site_127,Egypt,Respiratory Diseases,Asthma
-Site_128,Ghana,Respiratory Diseases,Pneumonia
-Site_128,Ghana,Respiratory Diseases,Asthma
-Site_128,Ghana,Respiratory Diseases,COPD
-Site_128,Ghana,Hematology,Sickle cell disease
-Site_128,Ghana,Hematology,Iron-deficiency anaemia
-Site_128,Ghana,Infectious Diseases,HIV-1
-Site_128,Ghana,Infectious Diseases,Malaria
+Site_127,Egypt,Cardiovascular,Heart failure
+Site_127,Egypt,Cardiovascular,Hypertension
+Site_127,Egypt,Cardiovascular,Coronary artery disease
 Site_128,Ghana,Infectious Diseases,Tuberculosis
-Site_129,Uganda,Infectious Diseases,Malaria
-Site_129,Uganda,Infectious Diseases,Tuberculosis
-Site_129,Uganda,Hematology,Sickle cell disease
-Site_129,Uganda,Respiratory Diseases,Pneumonia
-Site_129,Uganda,Respiratory Diseases,COPD
+Site_128,Ghana,Infectious Diseases,Malaria
+Site_128,Ghana,Cardiovascular,Coronary artery disease
+Site_128,Ghana,Cardiovascular,Hypertension
+Site_128,Ghana,Cardiovascular,Heart failure
 Site_129,Uganda,Respiratory Diseases,Asthma
+Site_129,Uganda,Infectious Diseases,Malaria
 Site_129,Uganda,Oncology,Cervical cancer
 Site_129,Uganda,Oncology,Prostate cancer
-Site_129,Uganda,Oncology,Breast cancer
-Site_130,Kenya,Hematology,Haemophilia
-Site_130,Kenya,Hematology,Iron-deficiency anaemia
+Site_129,Uganda,Hematology,Iron-deficiency anaemia
+Site_129,Uganda,Hematology,Haemophilia
+Site_129,Uganda,Hematology,Sickle cell disease
+Site_129,Uganda,Cardiovascular,Coronary artery disease
 Site_130,Kenya,Infectious Diseases,Tuberculosis
 Site_130,Kenya,Infectious Diseases,Malaria
-Site_130,Kenya,Infectious Diseases,HIV-1
-Site_130,Kenya,Cardiovascular,Coronary artery disease
-Site_130,Kenya,Cardiovascular,Heart failure
-Site_131,Uganda,Respiratory Diseases,COPD
+Site_130,Kenya,Oncology,Prostate cancer
+Site_131,Uganda,Hematology,Iron-deficiency anaemia
+Site_131,Uganda,Hematology,Haemophilia
 Site_131,Uganda,Respiratory Diseases,Pneumonia
 Site_131,Uganda,Respiratory Diseases,Asthma
-Site_131,Uganda,Hematology,Haemophilia
-Site_131,Uganda,Hematology,Sickle cell disease
-Site_131,Uganda,Infectious Diseases,HIV-1
-Site_131,Uganda,Cardiovascular,Heart failure
-Site_132,Uganda,Respiratory Diseases,Pneumonia
-Site_132,Uganda,Cardiovascular,Hypertension
-Site_132,Uganda,Cardiovascular,Heart failure
-Site_132,Uganda,Cardiovascular,Coronary artery disease
-Site_133,Egypt,Oncology,Cervical cancer
-Site_133,Egypt,Oncology,Prostate cancer
-Site_133,Egypt,Cardiovascular,Coronary artery disease
+Site_132,Uganda,Respiratory Diseases,COPD
+Site_132,Uganda,Infectious Diseases,Malaria
+Site_132,Uganda,Hematology,Sickle cell disease
+Site_132,Uganda,Hematology,Iron-deficiency anaemia
 Site_133,Egypt,Cardiovascular,Hypertension
 Site_133,Egypt,Respiratory Diseases,Asthma
-Site_133,Egypt,Infectious Diseases,Malaria
-Site_134,Uganda,Infectious Diseases,Malaria
-Site_134,Uganda,Infectious Diseases,Tuberculosis
-Site_134,Uganda,Infectious Diseases,HIV-1
-Site_134,Uganda,Cardiovascular,Heart failure
-Site_134,Uganda,Cardiovascular,Coronary artery disease
+Site_134,Uganda,Hematology,Iron-deficiency anaemia
 Site_134,Uganda,Hematology,Sickle cell disease
-Site_134,Uganda,Respiratory Diseases,COPD
-Site_134,Uganda,Respiratory Diseases,Pneumonia
-Site_135,Ghana,Respiratory Diseases,COPD
-Site_135,Ghana,Respiratory Diseases,Asthma
-Site_135,Ghana,Respiratory Diseases,Pneumonia
-Site_135,Ghana,Cardiovascular,Coronary artery disease
+Site_134,Uganda,Infectious Diseases,Tuberculosis
+Site_134,Uganda,Respiratory Diseases,Asthma
+Site_135,Ghana,Infectious Diseases,Malaria
 Site_135,Ghana,Cardiovascular,Hypertension
-Site_135,Ghana,Infectious Diseases,HIV-1
-Site_135,Ghana,Infectious Diseases,Tuberculosis
+Site_135,Ghana,Cardiovascular,Coronary artery disease
 Site_135,Ghana,Oncology,Breast cancer
-Site_135,Ghana,Hematology,Sickle cell disease
-Site_135,Ghana,Hematology,Haemophilia
-Site_135,Ghana,Hematology,Iron-deficiency anaemia
-Site_136,Nigeria,Hematology,Sickle cell disease
-Site_136,Nigeria,Hematology,Iron-deficiency anaemia
+Site_136,Nigeria,Oncology,Breast cancer
+Site_136,Nigeria,Oncology,Prostate cancer
 Site_136,Nigeria,Oncology,Cervical cancer
-Site_136,Nigeria,Cardiovascular,Heart failure
-Site_136,Nigeria,Cardiovascular,Hypertension
-Site_136,Nigeria,Respiratory Diseases,Asthma
-Site_136,Nigeria,Respiratory Diseases,COPD
-Site_136,Nigeria,Infectious Diseases,Tuberculosis
-Site_137,Kenya,Cardiovascular,Heart failure
-Site_137,Kenya,Infectious Diseases,HIV-1
-Site_137,Kenya,Infectious Diseases,Malaria
-Site_137,Kenya,Hematology,Iron-deficiency anaemia
+Site_136,Nigeria,Hematology,Sickle cell disease
 Site_137,Kenya,Oncology,Prostate cancer
-Site_138,Egypt,Oncology,Breast cancer
+Site_137,Kenya,Respiratory Diseases,Asthma
 Site_138,Egypt,Respiratory Diseases,Pneumonia
 Site_138,Egypt,Respiratory Diseases,COPD
 Site_138,Egypt,Respiratory Diseases,Asthma
-Site_138,Egypt,Hematology,Haemophilia
-Site_139,Nigeria,Oncology,Breast cancer
-Site_139,Nigeria,Oncology,Cervical cancer
-Site_139,Nigeria,Oncology,Prostate cancer
-Site_139,Nigeria,Cardiovascular,Hypertension
-Site_139,Nigeria,Cardiovascular,Heart failure
-Site_139,Nigeria,Respiratory Diseases,COPD
-Site_139,Nigeria,Infectious Diseases,HIV-1
-Site_139,Nigeria,Infectious Diseases,Malaria
-Site_139,Nigeria,Infectious Diseases,Tuberculosis
-Site_139,Nigeria,Hematology,Iron-deficiency anaemia
+Site_138,Egypt,Oncology,Prostate cancer
+Site_138,Egypt,Infectious Diseases,HIV-1
+Site_138,Egypt,Infectious Diseases,Malaria
+Site_138,Egypt,Infectious Diseases,Tuberculosis
 Site_139,Nigeria,Hematology,Haemophilia
-Site_140,South Africa,Oncology,Breast cancer
-Site_140,South Africa,Oncology,Cervical cancer
-Site_140,South Africa,Hematology,Sickle cell disease
-Site_140,South Africa,Hematology,Haemophilia
+Site_139,Nigeria,Hematology,Sickle cell disease
+Site_139,Nigeria,Respiratory Diseases,Pneumonia
 Site_140,South Africa,Cardiovascular,Heart failure
-Site_140,South Africa,Cardiovascular,Hypertension
-Site_141,Ethiopia,Cardiovascular,Hypertension
+Site_140,South Africa,Oncology,Prostate cancer
+Site_140,South Africa,Infectious Diseases,Malaria
+Site_140,South Africa,Infectious Diseases,Tuberculosis
+Site_141,Ethiopia,Hematology,Sickle cell disease
+Site_141,Ethiopia,Hematology,Haemophilia
+Site_141,Ethiopia,Hematology,Iron-deficiency anaemia
 Site_141,Ethiopia,Cardiovascular,Coronary artery disease
 Site_141,Ethiopia,Cardiovascular,Heart failure
-Site_141,Ethiopia,Infectious Diseases,HIV-1
-Site_141,Ethiopia,Oncology,Cervical cancer
+Site_141,Ethiopia,Respiratory Diseases,Asthma
 Site_141,Ethiopia,Oncology,Breast cancer
 Site_141,Ethiopia,Oncology,Prostate cancer
-Site_142,Morocco,Respiratory Diseases,COPD
-Site_142,Morocco,Respiratory Diseases,Asthma
+Site_141,Ethiopia,Oncology,Cervical cancer
 Site_142,Morocco,Cardiovascular,Heart failure
-Site_142,Morocco,Cardiovascular,Hypertension
-Site_142,Morocco,Oncology,Breast cancer
-Site_142,Morocco,Oncology,Prostate cancer
-Site_142,Morocco,Oncology,Cervical cancer
-Site_142,Morocco,Hematology,Iron-deficiency anaemia
+Site_142,Morocco,Cardiovascular,Coronary artery disease
 Site_142,Morocco,Hematology,Haemophilia
 Site_143,Morocco,Hematology,Sickle cell disease
-Site_143,Morocco,Hematology,Haemophilia
 Site_143,Morocco,Hematology,Iron-deficiency anaemia
 Site_143,Morocco,Oncology,Prostate cancer
-Site_143,Morocco,Oncology,Breast cancer
-Site_143,Morocco,Respiratory Diseases,Asthma
-Site_143,Morocco,Respiratory Diseases,Pneumonia
-Site_144,South Africa,Hematology,Iron-deficiency anaemia
-Site_144,South Africa,Hematology,Sickle cell disease
 Site_144,South Africa,Respiratory Diseases,Asthma
-Site_144,South Africa,Respiratory Diseases,Pneumonia
-Site_144,South Africa,Respiratory Diseases,COPD
-Site_145,Ethiopia,Respiratory Diseases,COPD
-Site_145,Ethiopia,Respiratory Diseases,Pneumonia
-Site_145,Ethiopia,Hematology,Haemophilia
-Site_145,Ethiopia,Infectious Diseases,HIV-1
-Site_145,Ethiopia,Infectious Diseases,Tuberculosis
+Site_144,South Africa,Infectious Diseases,HIV-1
+Site_144,South Africa,Infectious Diseases,Tuberculosis
+Site_144,South Africa,Infectious Diseases,Malaria
+Site_144,South Africa,Cardiovascular,Coronary artery disease
+Site_144,South Africa,Cardiovascular,Hypertension
 Site_145,Ethiopia,Infectious Diseases,Malaria
-Site_146,Tanzania,Oncology,Breast cancer
-Site_146,Tanzania,Oncology,Prostate cancer
-Site_146,Tanzania,Oncology,Cervical cancer
-Site_146,Tanzania,Infectious Diseases,Malaria
+Site_145,Ethiopia,Infectious Diseases,Tuberculosis
+Site_145,Ethiopia,Oncology,Breast cancer
+Site_145,Ethiopia,Oncology,Cervical cancer
+Site_145,Ethiopia,Cardiovascular,Hypertension
+Site_145,Ethiopia,Cardiovascular,Coronary artery disease
+Site_145,Ethiopia,Cardiovascular,Heart failure
+Site_145,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_146,Tanzania,Respiratory Diseases,COPD
 Site_146,Tanzania,Infectious Diseases,Tuberculosis
-Site_147,Egypt,Oncology,Prostate cancer
-Site_147,Egypt,Respiratory Diseases,Pneumonia
-Site_147,Egypt,Respiratory Diseases,COPD
-Site_147,Egypt,Respiratory Diseases,Asthma
-Site_147,Egypt,Cardiovascular,Coronary artery disease
-Site_148,Morocco,Infectious Diseases,HIV-1
-Site_148,Morocco,Infectious Diseases,Tuberculosis
+Site_146,Tanzania,Infectious Diseases,HIV-1
+Site_146,Tanzania,Infectious Diseases,Malaria
+Site_146,Tanzania,Hematology,Sickle cell disease
+Site_146,Tanzania,Hematology,Haemophilia
+Site_146,Tanzania,Hematology,Iron-deficiency anaemia
+Site_147,Egypt,Hematology,Iron-deficiency anaemia
+Site_147,Egypt,Hematology,Haemophilia
+Site_147,Egypt,Hematology,Sickle cell disease
+Site_147,Egypt,Cardiovascular,Hypertension
+Site_147,Egypt,Infectious Diseases,Malaria
+Site_148,Morocco,Respiratory Diseases,Asthma
+Site_148,Morocco,Respiratory Diseases,Pneumonia
 Site_148,Morocco,Respiratory Diseases,COPD
-Site_148,Morocco,Cardiovascular,Hypertension
-Site_149,Tanzania,Infectious Diseases,HIV-1
-Site_149,Tanzania,Hematology,Haemophilia
-Site_150,Egypt,Oncology,Prostate cancer
-Site_150,Egypt,Oncology,Breast cancer
-Site_150,Egypt,Cardiovascular,Heart failure
+Site_148,Morocco,Hematology,Sickle cell disease
+Site_148,Morocco,Hematology,Iron-deficiency anaemia
+Site_148,Morocco,Hematology,Haemophilia
+Site_149,Tanzania,Oncology,Breast cancer
+Site_149,Tanzania,Oncology,Cervical cancer
+Site_149,Tanzania,Oncology,Prostate cancer
+Site_149,Tanzania,Respiratory Diseases,COPD
+Site_149,Tanzania,Respiratory Diseases,Pneumonia
+Site_150,Egypt,Infectious Diseases,Malaria
+Site_150,Egypt,Cardiovascular,Coronary artery disease
+Site_151,Tanzania,Hematology,Iron-deficiency anaemia
+Site_151,Tanzania,Cardiovascular,Coronary artery disease
+Site_151,Tanzania,Cardiovascular,Heart failure
+Site_151,Tanzania,Cardiovascular,Hypertension
+Site_151,Tanzania,Respiratory Diseases,Pneumonia
+Site_152,Morocco,Oncology,Breast cancer
+Site_152,Morocco,Oncology,Cervical cancer
+Site_152,Morocco,Oncology,Prostate cancer
+Site_152,Morocco,Hematology,Sickle cell disease
+Site_152,Morocco,Cardiovascular,Heart failure
+Site_152,Morocco,Cardiovascular,Hypertension
+Site_152,Morocco,Infectious Diseases,Tuberculosis
+Site_152,Morocco,Infectious Diseases,Malaria
+Site_153,Ethiopia,Infectious Diseases,Malaria
+Site_153,Ethiopia,Infectious Diseases,Tuberculosis
+Site_153,Ethiopia,Hematology,Sickle cell disease
+Site_154,Morocco,Infectious Diseases,HIV-1
+Site_154,Morocco,Cardiovascular,Heart failure
+Site_154,Morocco,Cardiovascular,Coronary artery disease
+Site_154,Morocco,Cardiovascular,Hypertension
+Site_154,Morocco,Oncology,Cervical cancer
+Site_154,Morocco,Oncology,Breast cancer
+Site_154,Morocco,Oncology,Prostate cancer
+Site_155,South Africa,Respiratory Diseases,COPD
+Site_155,South Africa,Respiratory Diseases,Asthma
+Site_155,South Africa,Cardiovascular,Hypertension
+Site_156,Kenya,Respiratory Diseases,Asthma
+Site_156,Kenya,Infectious Diseases,HIV-1
+Site_156,Kenya,Infectious Diseases,Malaria
+Site_156,Kenya,Oncology,Breast cancer
+Site_156,Kenya,Oncology,Prostate cancer
+Site_156,Kenya,Oncology,Cervical cancer
+Site_157,Algeria,Oncology,Prostate cancer
+Site_157,Algeria,Cardiovascular,Coronary artery disease
+Site_157,Algeria,Cardiovascular,Heart failure
+Site_158,Uganda,Respiratory Diseases,COPD
+Site_158,Uganda,Respiratory Diseases,Asthma
+Site_158,Uganda,Respiratory Diseases,Pneumonia
+Site_158,Uganda,Infectious Diseases,HIV-1
+Site_158,Uganda,Infectious Diseases,Malaria
+Site_158,Uganda,Infectious Diseases,Tuberculosis
+Site_158,Uganda,Cardiovascular,Heart failure
+Site_158,Uganda,Oncology,Cervical cancer
+Site_159,Uganda,Cardiovascular,Hypertension
+Site_159,Uganda,Hematology,Haemophilia
+Site_160,Ghana,Oncology,Cervical cancer
+Site_160,Ghana,Respiratory Diseases,COPD
+Site_160,Ghana,Cardiovascular,Heart failure
+Site_160,Ghana,Cardiovascular,Coronary artery disease
+Site_160,Ghana,Cardiovascular,Hypertension
+Site_161,Ethiopia,Infectious Diseases,Tuberculosis
+Site_161,Ethiopia,Oncology,Breast cancer
+Site_161,Ethiopia,Oncology,Prostate cancer
+Site_161,Ethiopia,Oncology,Cervical cancer
+Site_161,Ethiopia,Hematology,Haemophilia
+Site_161,Ethiopia,Hematology,Sickle cell disease
+Site_161,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_162,Kenya,Cardiovascular,Heart failure
+Site_162,Kenya,Cardiovascular,Coronary artery disease
+Site_162,Kenya,Oncology,Breast cancer
+Site_162,Kenya,Oncology,Prostate cancer
+Site_162,Kenya,Oncology,Cervical cancer
+Site_162,Kenya,Hematology,Sickle cell disease
+Site_162,Kenya,Hematology,Iron-deficiency anaemia
+Site_163,South Africa,Respiratory Diseases,Asthma
+Site_163,South Africa,Respiratory Diseases,Pneumonia
+Site_163,South Africa,Respiratory Diseases,COPD
+Site_163,South Africa,Oncology,Cervical cancer
+Site_163,South Africa,Cardiovascular,Hypertension
+Site_163,South Africa,Infectious Diseases,Malaria
+Site_163,South Africa,Hematology,Haemophilia
+Site_164,South Africa,Infectious Diseases,HIV-1
+Site_164,South Africa,Infectious Diseases,Malaria
+Site_164,South Africa,Respiratory Diseases,Asthma
+Site_164,South Africa,Respiratory Diseases,Pneumonia
+Site_164,South Africa,Hematology,Sickle cell disease
+Site_164,South Africa,Hematology,Iron-deficiency anaemia
+Site_165,South Africa,Infectious Diseases,Tuberculosis
+Site_165,South Africa,Infectious Diseases,Malaria
+Site_165,South Africa,Infectious Diseases,HIV-1
+Site_165,South Africa,Respiratory Diseases,COPD
+Site_165,South Africa,Oncology,Prostate cancer
+Site_165,South Africa,Hematology,Haemophilia
+Site_165,South Africa,Hematology,Iron-deficiency anaemia
+Site_166,Tanzania,Infectious Diseases,HIV-1
+Site_166,Tanzania,Infectious Diseases,Tuberculosis
+Site_166,Tanzania,Infectious Diseases,Malaria
+Site_166,Tanzania,Hematology,Haemophilia
+Site_166,Tanzania,Hematology,Sickle cell disease
+Site_166,Tanzania,Hematology,Iron-deficiency anaemia
+Site_166,Tanzania,Cardiovascular,Heart failure
+Site_166,Tanzania,Cardiovascular,Hypertension
+Site_166,Tanzania,Cardiovascular,Coronary artery disease
+Site_167,Nigeria,Hematology,Haemophilia
+Site_167,Nigeria,Infectious Diseases,Malaria
+Site_167,Nigeria,Cardiovascular,Heart failure
+Site_168,Algeria,Oncology,Prostate cancer
+Site_168,Algeria,Oncology,Cervical cancer
+Site_168,Algeria,Cardiovascular,Hypertension
+Site_168,Algeria,Cardiovascular,Coronary artery disease
+Site_168,Algeria,Cardiovascular,Heart failure
+Site_168,Algeria,Infectious Diseases,HIV-1
+Site_168,Algeria,Infectious Diseases,Tuberculosis
+Site_168,Algeria,Infectious Diseases,Malaria
+Site_169,Nigeria,Respiratory Diseases,Pneumonia
+Site_169,Nigeria,Cardiovascular,Heart failure
+Site_169,Nigeria,Cardiovascular,Coronary artery disease
+Site_169,Nigeria,Cardiovascular,Hypertension
+Site_170,Egypt,Cardiovascular,Coronary artery disease
+Site_170,Egypt,Cardiovascular,Heart failure
+Site_170,Egypt,Cardiovascular,Hypertension
+Site_170,Egypt,Infectious Diseases,Tuberculosis
+Site_170,Egypt,Infectious Diseases,HIV-1
+Site_170,Egypt,Hematology,Haemophilia
+Site_170,Egypt,Hematology,Iron-deficiency anaemia
+Site_170,Egypt,Hematology,Sickle cell disease
+Site_170,Egypt,Oncology,Cervical cancer
+Site_170,Egypt,Oncology,Breast cancer
+Site_170,Egypt,Oncology,Prostate cancer
+Site_171,Algeria,Respiratory Diseases,Pneumonia
+Site_171,Algeria,Respiratory Diseases,COPD
+Site_171,Algeria,Infectious Diseases,HIV-1
+Site_171,Algeria,Infectious Diseases,Malaria
+Site_171,Algeria,Infectious Diseases,Tuberculosis
+Site_172,Egypt,Infectious Diseases,Malaria
+Site_172,Egypt,Oncology,Prostate cancer
+Site_172,Egypt,Oncology,Cervical cancer
+Site_172,Egypt,Cardiovascular,Heart failure
+Site_172,Egypt,Cardiovascular,Coronary artery disease
+Site_173,Ghana,Respiratory Diseases,Asthma
+Site_173,Ghana,Respiratory Diseases,Pneumonia
+Site_173,Ghana,Respiratory Diseases,COPD
+Site_173,Ghana,Hematology,Haemophilia
+Site_173,Ghana,Hematology,Iron-deficiency anaemia
+Site_173,Ghana,Cardiovascular,Hypertension
+Site_174,Ghana,Respiratory Diseases,Asthma
+Site_174,Ghana,Infectious Diseases,Malaria
+Site_174,Ghana,Infectious Diseases,Tuberculosis
+Site_174,Ghana,Cardiovascular,Hypertension
+Site_174,Ghana,Cardiovascular,Heart failure
+Site_174,Ghana,Cardiovascular,Coronary artery disease
+Site_174,Ghana,Hematology,Iron-deficiency anaemia
+Site_175,Kenya,Oncology,Prostate cancer
+Site_175,Kenya,Oncology,Breast cancer
+Site_175,Kenya,Oncology,Cervical cancer
+Site_175,Kenya,Hematology,Sickle cell disease
+Site_176,South Africa,Infectious Diseases,Malaria
+Site_176,South Africa,Respiratory Diseases,Pneumonia
+Site_176,South Africa,Respiratory Diseases,COPD
+Site_176,South Africa,Oncology,Breast cancer
+Site_176,South Africa,Oncology,Prostate cancer
+Site_176,South Africa,Hematology,Iron-deficiency anaemia
+Site_176,South Africa,Hematology,Sickle cell disease
+Site_176,South Africa,Hematology,Haemophilia
+Site_177,Ghana,Cardiovascular,Heart failure
+Site_177,Ghana,Hematology,Iron-deficiency anaemia
+Site_178,Algeria,Infectious Diseases,Tuberculosis
+Site_178,Algeria,Infectious Diseases,HIV-1
+Site_178,Algeria,Infectious Diseases,Malaria
+Site_178,Algeria,Cardiovascular,Heart failure
+Site_178,Algeria,Oncology,Prostate cancer
+Site_178,Algeria,Oncology,Cervical cancer
+Site_178,Algeria,Oncology,Breast cancer
+Site_179,Ethiopia,Respiratory Diseases,Pneumonia
+Site_179,Ethiopia,Respiratory Diseases,Asthma
+Site_179,Ethiopia,Oncology,Cervical cancer
+Site_179,Ethiopia,Oncology,Prostate cancer
+Site_179,Ethiopia,Cardiovascular,Hypertension
+Site_180,Uganda,Cardiovascular,Coronary artery disease
+Site_180,Uganda,Cardiovascular,Heart failure
+Site_180,Uganda,Oncology,Cervical cancer
+Site_180,Uganda,Oncology,Breast cancer
+Site_180,Uganda,Hematology,Sickle cell disease
+Site_180,Uganda,Hematology,Haemophilia
+Site_180,Uganda,Respiratory Diseases,Pneumonia
+Site_181,Ethiopia,Respiratory Diseases,Asthma
+Site_181,Ethiopia,Cardiovascular,Heart failure
+Site_181,Ethiopia,Cardiovascular,Coronary artery disease
+Site_181,Ethiopia,Oncology,Cervical cancer
+Site_181,Ethiopia,Oncology,Breast cancer
+Site_182,Algeria,Oncology,Cervical cancer
+Site_182,Algeria,Oncology,Breast cancer
+Site_182,Algeria,Oncology,Prostate cancer
+Site_182,Algeria,Hematology,Sickle cell disease
+Site_182,Algeria,Hematology,Haemophilia
+Site_183,South Africa,Oncology,Breast cancer
+Site_183,South Africa,Cardiovascular,Coronary artery disease
+Site_183,South Africa,Cardiovascular,Hypertension
+Site_183,South Africa,Cardiovascular,Heart failure
+Site_184,Kenya,Cardiovascular,Coronary artery disease
+Site_184,Kenya,Infectious Diseases,Tuberculosis
+Site_184,Kenya,Infectious Diseases,HIV-1
+Site_184,Kenya,Infectious Diseases,Malaria
+Site_184,Kenya,Oncology,Cervical cancer
+Site_185,South Africa,Hematology,Iron-deficiency anaemia
+Site_185,South Africa,Hematology,Sickle cell disease
+Site_185,South Africa,Hematology,Haemophilia
+Site_185,South Africa,Cardiovascular,Heart failure
+Site_185,South Africa,Cardiovascular,Coronary artery disease
+Site_186,South Africa,Cardiovascular,Heart failure
+Site_186,South Africa,Cardiovascular,Hypertension
+Site_186,South Africa,Oncology,Prostate cancer
+Site_186,South Africa,Oncology,Cervical cancer
+Site_186,South Africa,Oncology,Breast cancer
+Site_187,Algeria,Hematology,Haemophilia
+Site_187,Algeria,Cardiovascular,Heart failure
+Site_187,Algeria,Cardiovascular,Hypertension
+Site_187,Algeria,Respiratory Diseases,COPD
+Site_187,Algeria,Respiratory Diseases,Pneumonia
+Site_187,Algeria,Oncology,Cervical cancer
+Site_187,Algeria,Oncology,Breast cancer
+Site_188,Nigeria,Hematology,Iron-deficiency anaemia
+Site_188,Nigeria,Infectious Diseases,HIV-1
+Site_188,Nigeria,Respiratory Diseases,Pneumonia
+Site_188,Nigeria,Respiratory Diseases,Asthma
+Site_189,Morocco,Cardiovascular,Hypertension
+Site_189,Morocco,Respiratory Diseases,Asthma
+Site_189,Morocco,Respiratory Diseases,Pneumonia
+Site_189,Morocco,Respiratory Diseases,COPD
+Site_189,Morocco,Oncology,Breast cancer
+Site_190,Nigeria,Infectious Diseases,HIV-1
+Site_190,Nigeria,Hematology,Sickle cell disease
+Site_190,Nigeria,Hematology,Iron-deficiency anaemia
+Site_191,Kenya,Oncology,Cervical cancer
+Site_191,Kenya,Oncology,Breast cancer
+Site_191,Kenya,Oncology,Prostate cancer
+Site_191,Kenya,Infectious Diseases,Malaria
+Site_191,Kenya,Infectious Diseases,HIV-1
+Site_191,Kenya,Infectious Diseases,Tuberculosis
+Site_191,Kenya,Hematology,Iron-deficiency anaemia
+Site_192,Kenya,Respiratory Diseases,Asthma
+Site_192,Kenya,Respiratory Diseases,COPD
+Site_192,Kenya,Respiratory Diseases,Pneumonia
+Site_192,Kenya,Oncology,Cervical cancer
+Site_192,Kenya,Infectious Diseases,Malaria
+Site_192,Kenya,Infectious Diseases,HIV-1
+Site_193,Kenya,Hematology,Iron-deficiency anaemia
+Site_193,Kenya,Cardiovascular,Heart failure
+Site_193,Kenya,Respiratory Diseases,Pneumonia
+Site_193,Kenya,Respiratory Diseases,Asthma
+Site_194,Nigeria,Cardiovascular,Hypertension
+Site_194,Nigeria,Oncology,Prostate cancer
+Site_195,Ethiopia,Infectious Diseases,Tuberculosis
+Site_195,Ethiopia,Infectious Diseases,Malaria
+Site_195,Ethiopia,Respiratory Diseases,Pneumonia
+Site_195,Ethiopia,Respiratory Diseases,Asthma
+Site_196,Egypt,Oncology,Cervical cancer
+Site_196,Egypt,Oncology,Breast cancer
+Site_196,Egypt,Oncology,Prostate cancer
+Site_196,Egypt,Respiratory Diseases,Asthma
+Site_197,Nigeria,Respiratory Diseases,COPD
+Site_197,Nigeria,Respiratory Diseases,Asthma
+Site_197,Nigeria,Respiratory Diseases,Pneumonia
+Site_197,Nigeria,Infectious Diseases,Malaria
+Site_198,Algeria,Oncology,Prostate cancer
+Site_198,Algeria,Oncology,Breast cancer
+Site_198,Algeria,Oncology,Cervical cancer
+Site_198,Algeria,Respiratory Diseases,Asthma
+Site_198,Algeria,Cardiovascular,Hypertension
+Site_199,Nigeria,Infectious Diseases,Tuberculosis
+Site_199,Nigeria,Hematology,Iron-deficiency anaemia
+Site_199,Nigeria,Oncology,Prostate cancer
+Site_199,Nigeria,Oncology,Breast cancer
+Site_199,Nigeria,Respiratory Diseases,Pneumonia
+Site_199,Nigeria,Respiratory Diseases,Asthma
+Site_200,Ethiopia,Oncology,Prostate cancer
+Site_200,Ethiopia,Cardiovascular,Heart failure
+Site_200,Ethiopia,Infectious Diseases,HIV-1
+Site_200,Ethiopia,Infectious Diseases,Malaria
+Site_201,Nigeria,Infectious Diseases,Malaria
+Site_201,Nigeria,Infectious Diseases,Tuberculosis
+Site_201,Nigeria,Infectious Diseases,HIV-1
+Site_201,Nigeria,Hematology,Haemophilia
+Site_201,Nigeria,Hematology,Iron-deficiency anaemia
+Site_201,Nigeria,Respiratory Diseases,Pneumonia
+Site_201,Nigeria,Respiratory Diseases,COPD
+Site_201,Nigeria,Cardiovascular,Coronary artery disease
+Site_201,Nigeria,Cardiovascular,Heart failure
+Site_201,Nigeria,Oncology,Prostate cancer
+Site_201,Nigeria,Oncology,Breast cancer
+Site_201,Nigeria,Oncology,Cervical cancer
+Site_202,Ethiopia,Infectious Diseases,HIV-1
+Site_202,Ethiopia,Oncology,Breast cancer
+Site_202,Ethiopia,Oncology,Cervical cancer
+Site_203,South Africa,Oncology,Breast cancer
+Site_203,South Africa,Oncology,Cervical cancer
+Site_203,South Africa,Oncology,Prostate cancer
+Site_203,South Africa,Hematology,Haemophilia
+Site_203,South Africa,Hematology,Iron-deficiency anaemia
+Site_203,South Africa,Hematology,Sickle cell disease
+Site_203,South Africa,Infectious Diseases,Tuberculosis
+Site_203,South Africa,Infectious Diseases,Malaria
+Site_203,South Africa,Infectious Diseases,HIV-1
+Site_204,Kenya,Hematology,Iron-deficiency anaemia
+Site_204,Kenya,Hematology,Sickle cell disease
+Site_204,Kenya,Cardiovascular,Coronary artery disease
+Site_204,Kenya,Cardiovascular,Hypertension
+Site_204,Kenya,Cardiovascular,Heart failure
+Site_204,Kenya,Oncology,Breast cancer
+Site_204,Kenya,Oncology,Cervical cancer
+Site_205,South Africa,Infectious Diseases,Tuberculosis
+Site_205,South Africa,Infectious Diseases,Malaria
+Site_205,South Africa,Infectious Diseases,HIV-1
+Site_205,South Africa,Oncology,Cervical cancer
+Site_205,South Africa,Oncology,Breast cancer
+Site_205,South Africa,Oncology,Prostate cancer
+Site_205,South Africa,Cardiovascular,Hypertension
+Site_205,South Africa,Cardiovascular,Heart failure
+Site_206,Morocco,Infectious Diseases,Malaria
+Site_206,Morocco,Infectious Diseases,Tuberculosis
+Site_206,Morocco,Infectious Diseases,HIV-1
+Site_206,Morocco,Cardiovascular,Hypertension
+Site_206,Morocco,Cardiovascular,Coronary artery disease
+Site_206,Morocco,Respiratory Diseases,Pneumonia
+Site_206,Morocco,Respiratory Diseases,Asthma
+Site_206,Morocco,Respiratory Diseases,COPD
+Site_206,Morocco,Oncology,Breast cancer
+Site_206,Morocco,Oncology,Cervical cancer
+Site_206,Morocco,Hematology,Haemophilia
+Site_207,Ghana,Respiratory Diseases,COPD
+Site_207,Ghana,Respiratory Diseases,Asthma
+Site_207,Ghana,Infectious Diseases,HIV-1
+Site_207,Ghana,Infectious Diseases,Tuberculosis
+Site_207,Ghana,Infectious Diseases,Malaria
+Site_208,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_208,Ethiopia,Hematology,Haemophilia
+Site_208,Ethiopia,Respiratory Diseases,COPD
+Site_208,Ethiopia,Respiratory Diseases,Asthma
+Site_209,Morocco,Oncology,Breast cancer
+Site_209,Morocco,Infectious Diseases,HIV-1
+Site_209,Morocco,Infectious Diseases,Tuberculosis
+Site_209,Morocco,Hematology,Iron-deficiency anaemia
+Site_209,Morocco,Hematology,Sickle cell disease
+Site_209,Morocco,Respiratory Diseases,COPD
+Site_210,Ghana,Respiratory Diseases,Asthma
+Site_210,Ghana,Respiratory Diseases,Pneumonia
+Site_210,Ghana,Respiratory Diseases,COPD
+Site_210,Ghana,Infectious Diseases,Tuberculosis
+Site_210,Ghana,Infectious Diseases,Malaria
+Site_210,Ghana,Infectious Diseases,HIV-1
+Site_210,Ghana,Hematology,Iron-deficiency anaemia
+Site_211,Morocco,Cardiovascular,Coronary artery disease
+Site_211,Morocco,Cardiovascular,Hypertension
+Site_211,Morocco,Cardiovascular,Heart failure
+Site_211,Morocco,Respiratory Diseases,COPD
+Site_211,Morocco,Respiratory Diseases,Asthma
+Site_211,Morocco,Respiratory Diseases,Pneumonia
+Site_211,Morocco,Infectious Diseases,HIV-1
+Site_211,Morocco,Hematology,Sickle cell disease
+Site_211,Morocco,Hematology,Haemophilia
+Site_211,Morocco,Hematology,Iron-deficiency anaemia
+Site_212,Ghana,Infectious Diseases,Tuberculosis
+Site_212,Ghana,Infectious Diseases,Malaria
+Site_212,Ghana,Respiratory Diseases,COPD
+Site_212,Ghana,Respiratory Diseases,Pneumonia
+Site_212,Ghana,Cardiovascular,Heart failure
+Site_212,Ghana,Cardiovascular,Coronary artery disease
+Site_212,Ghana,Cardiovascular,Hypertension
+Site_213,Ghana,Oncology,Cervical cancer
+Site_213,Ghana,Oncology,Prostate cancer
+Site_213,Ghana,Oncology,Breast cancer
+Site_213,Ghana,Respiratory Diseases,COPD
+Site_214,South Africa,Oncology,Breast cancer
+Site_214,South Africa,Cardiovascular,Hypertension
+Site_215,Ghana,Cardiovascular,Coronary artery disease
+Site_215,Ghana,Infectious Diseases,Malaria
+Site_215,Ghana,Infectious Diseases,HIV-1
+Site_215,Ghana,Infectious Diseases,Tuberculosis
+Site_215,Ghana,Respiratory Diseases,Pneumonia
+Site_215,Ghana,Respiratory Diseases,COPD
+Site_215,Ghana,Oncology,Prostate cancer
+Site_215,Ghana,Oncology,Breast cancer
+Site_215,Ghana,Oncology,Cervical cancer
+Site_215,Ghana,Hematology,Iron-deficiency anaemia
+Site_215,Ghana,Hematology,Sickle cell disease
+Site_215,Ghana,Hematology,Haemophilia
+Site_216,Morocco,Infectious Diseases,HIV-1
+Site_216,Morocco,Infectious Diseases,Tuberculosis
+Site_216,Morocco,Infectious Diseases,Malaria
+Site_216,Morocco,Respiratory Diseases,Pneumonia
+Site_216,Morocco,Respiratory Diseases,COPD
+Site_216,Morocco,Hematology,Haemophilia
+Site_217,Egypt,Hematology,Haemophilia
+Site_217,Egypt,Hematology,Iron-deficiency anaemia
+Site_217,Egypt,Hematology,Sickle cell disease
+Site_217,Egypt,Respiratory Diseases,Pneumonia
+Site_217,Egypt,Respiratory Diseases,Asthma
+Site_218,Egypt,Respiratory Diseases,Asthma
+Site_218,Egypt,Respiratory Diseases,Pneumonia
+Site_218,Egypt,Infectious Diseases,Tuberculosis
+Site_218,Egypt,Hematology,Haemophilia
+Site_218,Egypt,Hematology,Iron-deficiency anaemia
+Site_218,Egypt,Hematology,Sickle cell disease
+Site_219,South Africa,Oncology,Prostate cancer
+Site_219,South Africa,Oncology,Breast cancer
+Site_219,South Africa,Respiratory Diseases,COPD
+Site_219,South Africa,Respiratory Diseases,Asthma
+Site_220,Ethiopia,Respiratory Diseases,Asthma
+Site_220,Ethiopia,Respiratory Diseases,Pneumonia
+Site_220,Ethiopia,Respiratory Diseases,COPD
+Site_220,Ethiopia,Hematology,Haemophilia
+Site_220,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_220,Ethiopia,Oncology,Breast cancer
+Site_220,Ethiopia,Infectious Diseases,Tuberculosis
+Site_220,Ethiopia,Infectious Diseases,HIV-1
+Site_220,Ethiopia,Infectious Diseases,Malaria
+Site_221,Algeria,Cardiovascular,Coronary artery disease
+Site_221,Algeria,Cardiovascular,Hypertension
+Site_221,Algeria,Infectious Diseases,HIV-1
+Site_221,Algeria,Infectious Diseases,Tuberculosis
+Site_221,Algeria,Oncology,Breast cancer
+Site_221,Algeria,Oncology,Cervical cancer
+Site_221,Algeria,Oncology,Prostate cancer
+Site_222,South Africa,Hematology,Sickle cell disease
+Site_222,South Africa,Hematology,Iron-deficiency anaemia
+Site_222,South Africa,Oncology,Cervical cancer
+Site_222,South Africa,Respiratory Diseases,Pneumonia
+Site_222,South Africa,Respiratory Diseases,COPD
+Site_223,Ghana,Oncology,Prostate cancer
+Site_223,Ghana,Oncology,Cervical cancer
+Site_223,Ghana,Oncology,Breast cancer
+Site_223,Ghana,Infectious Diseases,Malaria
+Site_223,Ghana,Respiratory Diseases,Asthma
+Site_223,Ghana,Respiratory Diseases,Pneumonia
+Site_223,Ghana,Cardiovascular,Coronary artery disease
+Site_223,Ghana,Cardiovascular,Heart failure
+Site_223,Ghana,Hematology,Iron-deficiency anaemia
+Site_223,Ghana,Hematology,Sickle cell disease
+Site_224,Morocco,Respiratory Diseases,COPD
+Site_224,Morocco,Respiratory Diseases,Pneumonia
+Site_224,Morocco,Respiratory Diseases,Asthma
+Site_224,Morocco,Cardiovascular,Hypertension
+Site_224,Morocco,Cardiovascular,Coronary artery disease
+Site_225,Ghana,Infectious Diseases,Malaria
+Site_225,Ghana,Cardiovascular,Heart failure
+Site_225,Ghana,Cardiovascular,Coronary artery disease
+Site_225,Ghana,Cardiovascular,Hypertension
+Site_225,Ghana,Hematology,Iron-deficiency anaemia
+Site_225,Ghana,Hematology,Sickle cell disease
+Site_225,Ghana,Hematology,Haemophilia
+Site_226,Nigeria,Respiratory Diseases,Pneumonia
+Site_226,Nigeria,Respiratory Diseases,COPD
+Site_226,Nigeria,Respiratory Diseases,Asthma
+Site_226,Nigeria,Oncology,Prostate cancer
+Site_226,Nigeria,Infectious Diseases,HIV-1
+Site_226,Nigeria,Infectious Diseases,Tuberculosis
+Site_226,Nigeria,Infectious Diseases,Malaria
+Site_226,Nigeria,Hematology,Haemophilia
+Site_227,Tanzania,Hematology,Iron-deficiency anaemia
+Site_227,Tanzania,Hematology,Sickle cell disease
+Site_227,Tanzania,Hematology,Haemophilia
+Site_227,Tanzania,Respiratory Diseases,Pneumonia
+Site_227,Tanzania,Respiratory Diseases,COPD
+Site_227,Tanzania,Infectious Diseases,Malaria
+Site_227,Tanzania,Infectious Diseases,HIV-1
+Site_228,Uganda,Infectious Diseases,Tuberculosis
+Site_228,Uganda,Oncology,Prostate cancer
+Site_228,Uganda,Oncology,Breast cancer
+Site_229,Uganda,Respiratory Diseases,Pneumonia
+Site_229,Uganda,Respiratory Diseases,COPD
+Site_229,Uganda,Respiratory Diseases,Asthma
+Site_229,Uganda,Cardiovascular,Heart failure
+Site_230,Algeria,Hematology,Haemophilia
+Site_230,Algeria,Oncology,Breast cancer
+Site_230,Algeria,Oncology,Prostate cancer
+Site_230,Algeria,Oncology,Cervical cancer
+Site_231,South Africa,Infectious Diseases,Malaria
+Site_231,South Africa,Cardiovascular,Coronary artery disease
+Site_231,South Africa,Cardiovascular,Heart failure
+Site_231,South Africa,Hematology,Haemophilia
+Site_231,South Africa,Hematology,Iron-deficiency anaemia
+Site_231,South Africa,Hematology,Sickle cell disease
+Site_232,Tanzania,Hematology,Haemophilia
+Site_232,Tanzania,Oncology,Prostate cancer
+Site_233,Egypt,Cardiovascular,Heart failure
+Site_233,Egypt,Hematology,Haemophilia
+Site_233,Egypt,Respiratory Diseases,COPD
+Site_233,Egypt,Respiratory Diseases,Asthma
+Site_233,Egypt,Infectious Diseases,Malaria
+Site_234,Ghana,Infectious Diseases,Tuberculosis
+Site_234,Ghana,Oncology,Prostate cancer
+Site_234,Ghana,Oncology,Breast cancer
+Site_234,Ghana,Oncology,Cervical cancer
+Site_235,South Africa,Oncology,Prostate cancer
+Site_235,South Africa,Oncology,Cervical cancer
+Site_235,South Africa,Respiratory Diseases,COPD
+Site_235,South Africa,Respiratory Diseases,Pneumonia
+Site_235,South Africa,Cardiovascular,Hypertension
+Site_235,South Africa,Cardiovascular,Coronary artery disease
+Site_235,South Africa,Cardiovascular,Heart failure
+Site_235,South Africa,Infectious Diseases,HIV-1
+Site_235,South Africa,Infectious Diseases,Tuberculosis
+Site_235,South Africa,Hematology,Sickle cell disease
+Site_236,Ghana,Infectious Diseases,HIV-1
+Site_236,Ghana,Infectious Diseases,Tuberculosis
+Site_236,Ghana,Hematology,Sickle cell disease
+Site_236,Ghana,Hematology,Iron-deficiency anaemia
+Site_236,Ghana,Hematology,Haemophilia
+Site_237,Kenya,Infectious Diseases,Malaria
+Site_237,Kenya,Respiratory Diseases,COPD
+Site_237,Kenya,Respiratory Diseases,Pneumonia
+Site_237,Kenya,Respiratory Diseases,Asthma
+Site_237,Kenya,Oncology,Prostate cancer
+Site_238,South Africa,Respiratory Diseases,Asthma
+Site_238,South Africa,Respiratory Diseases,COPD
+Site_238,South Africa,Oncology,Prostate cancer
+Site_238,South Africa,Infectious Diseases,HIV-1
+Site_239,Nigeria,Respiratory Diseases,Pneumonia
+Site_239,Nigeria,Respiratory Diseases,Asthma
+Site_239,Nigeria,Hematology,Sickle cell disease
+Site_239,Nigeria,Hematology,Iron-deficiency anaemia
+Site_240,Kenya,Hematology,Sickle cell disease
+Site_240,Kenya,Oncology,Breast cancer
+Site_240,Kenya,Oncology,Cervical cancer
+Site_240,Kenya,Respiratory Diseases,Pneumonia
+Site_240,Kenya,Respiratory Diseases,Asthma
+Site_241,Algeria,Oncology,Cervical cancer
+Site_241,Algeria,Oncology,Prostate cancer
+Site_241,Algeria,Cardiovascular,Heart failure
+Site_241,Algeria,Respiratory Diseases,Pneumonia
+Site_242,Uganda,Respiratory Diseases,Asthma
+Site_242,Uganda,Respiratory Diseases,COPD
+Site_242,Uganda,Cardiovascular,Heart failure
+Site_243,Egypt,Oncology,Breast cancer
+Site_243,Egypt,Oncology,Prostate cancer
+Site_243,Egypt,Hematology,Sickle cell disease
+Site_244,Kenya,Oncology,Breast cancer
+Site_244,Kenya,Hematology,Sickle cell disease
+Site_244,Kenya,Infectious Diseases,Malaria
+Site_244,Kenya,Infectious Diseases,HIV-1
+Site_244,Kenya,Infectious Diseases,Tuberculosis
+Site_245,Kenya,Hematology,Sickle cell disease
+Site_245,Kenya,Hematology,Iron-deficiency anaemia
+Site_245,Kenya,Hematology,Haemophilia
+Site_245,Kenya,Infectious Diseases,Malaria
+Site_245,Kenya,Infectious Diseases,HIV-1
+Site_245,Kenya,Infectious Diseases,Tuberculosis
+Site_245,Kenya,Oncology,Breast cancer
+Site_245,Kenya,Oncology,Cervical cancer
+Site_245,Kenya,Oncology,Prostate cancer
+Site_246,Egypt,Hematology,Haemophilia
+Site_246,Egypt,Hematology,Sickle cell disease
+Site_246,Egypt,Hematology,Iron-deficiency anaemia
+Site_246,Egypt,Respiratory Diseases,COPD
+Site_246,Egypt,Cardiovascular,Heart failure
+Site_246,Egypt,Cardiovascular,Coronary artery disease
+Site_246,Egypt,Infectious Diseases,HIV-1
+Site_246,Egypt,Oncology,Cervical cancer
+Site_246,Egypt,Oncology,Breast cancer
+Site_246,Egypt,Oncology,Prostate cancer
+Site_247,Ghana,Infectious Diseases,Malaria
+Site_247,Ghana,Infectious Diseases,Tuberculosis
+Site_247,Ghana,Infectious Diseases,HIV-1
+Site_247,Ghana,Cardiovascular,Coronary artery disease
+Site_247,Ghana,Oncology,Breast cancer
+Site_247,Ghana,Oncology,Cervical cancer
+Site_248,South Africa,Respiratory Diseases,COPD
+Site_248,South Africa,Respiratory Diseases,Asthma
+Site_248,South Africa,Hematology,Iron-deficiency anaemia
+Site_248,South Africa,Hematology,Sickle cell disease
+Site_248,South Africa,Hematology,Haemophilia
+Site_249,Ghana,Hematology,Iron-deficiency anaemia
+Site_249,Ghana,Infectious Diseases,HIV-1
+Site_249,Ghana,Infectious Diseases,Malaria
+Site_249,Ghana,Infectious Diseases,Tuberculosis
+Site_250,Egypt,Cardiovascular,Heart failure
+Site_250,Egypt,Cardiovascular,Hypertension
+Site_250,Egypt,Oncology,Prostate cancer
+Site_250,Egypt,Infectious Diseases,HIV-1
+Site_250,Egypt,Infectious Diseases,Tuberculosis
+Site_250,Egypt,Infectious Diseases,Malaria
+Site_250,Egypt,Hematology,Sickle cell disease
+Site_250,Egypt,Hematology,Iron-deficiency anaemia
+Site_250,Egypt,Hematology,Haemophilia
+Site_251,Algeria,Infectious Diseases,Tuberculosis
+Site_251,Algeria,Infectious Diseases,HIV-1
+Site_251,Algeria,Infectious Diseases,Malaria
+Site_251,Algeria,Oncology,Prostate cancer
+Site_251,Algeria,Hematology,Haemophilia
+Site_251,Algeria,Hematology,Iron-deficiency anaemia
+Site_252,South Africa,Infectious Diseases,Tuberculosis
+Site_252,South Africa,Infectious Diseases,Malaria
+Site_252,South Africa,Infectious Diseases,HIV-1
+Site_252,South Africa,Oncology,Prostate cancer
+Site_252,South Africa,Oncology,Cervical cancer
+Site_252,South Africa,Hematology,Haemophilia
+Site_253,Algeria,Hematology,Sickle cell disease
+Site_253,Algeria,Cardiovascular,Coronary artery disease
+Site_254,Nigeria,Respiratory Diseases,COPD
+Site_254,Nigeria,Respiratory Diseases,Pneumonia
+Site_254,Nigeria,Infectious Diseases,Malaria
+Site_255,Kenya,Cardiovascular,Hypertension
+Site_255,Kenya,Cardiovascular,Heart failure
+Site_255,Kenya,Cardiovascular,Coronary artery disease
+Site_255,Kenya,Infectious Diseases,HIV-1
+Site_255,Kenya,Infectious Diseases,Malaria
+Site_255,Kenya,Oncology,Cervical cancer
+Site_255,Kenya,Oncology,Breast cancer
+Site_256,Algeria,Cardiovascular,Hypertension
+Site_256,Algeria,Cardiovascular,Coronary artery disease
+Site_256,Algeria,Cardiovascular,Heart failure
+Site_256,Algeria,Hematology,Iron-deficiency anaemia
+Site_256,Algeria,Hematology,Haemophilia
+Site_256,Algeria,Oncology,Cervical cancer
+Site_256,Algeria,Oncology,Breast cancer
+Site_257,Kenya,Cardiovascular,Hypertension
+Site_257,Kenya,Cardiovascular,Coronary artery disease
+Site_257,Kenya,Infectious Diseases,Tuberculosis
+Site_257,Kenya,Oncology,Cervical cancer
+Site_257,Kenya,Oncology,Breast cancer
+Site_258,Algeria,Cardiovascular,Coronary artery disease
+Site_258,Algeria,Hematology,Sickle cell disease
+Site_258,Algeria,Hematology,Iron-deficiency anaemia
+Site_258,Algeria,Respiratory Diseases,Pneumonia
+Site_258,Algeria,Respiratory Diseases,COPD
+Site_258,Algeria,Respiratory Diseases,Asthma
+Site_259,Algeria,Oncology,Prostate cancer
+Site_259,Algeria,Respiratory Diseases,Asthma
+Site_259,Algeria,Respiratory Diseases,COPD
+Site_259,Algeria,Hematology,Haemophilia
+Site_260,Uganda,Hematology,Sickle cell disease
+Site_260,Uganda,Respiratory Diseases,Asthma
+Site_260,Uganda,Cardiovascular,Hypertension
+Site_260,Uganda,Infectious Diseases,Malaria
+Site_260,Uganda,Infectious Diseases,HIV-1
+Site_261,Ghana,Infectious Diseases,Malaria
+Site_261,Ghana,Infectious Diseases,Tuberculosis
+Site_261,Ghana,Oncology,Prostate cancer
+Site_261,Ghana,Oncology,Cervical cancer
+Site_262,Algeria,Oncology,Cervical cancer
+Site_262,Algeria,Cardiovascular,Hypertension
+Site_262,Algeria,Hematology,Iron-deficiency anaemia
+Site_263,Morocco,Respiratory Diseases,Pneumonia
+Site_263,Morocco,Infectious Diseases,Malaria
+Site_263,Morocco,Cardiovascular,Heart failure
+Site_264,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_264,Ethiopia,Hematology,Haemophilia
+Site_264,Ethiopia,Respiratory Diseases,Pneumonia
+Site_264,Ethiopia,Respiratory Diseases,COPD
+Site_264,Ethiopia,Respiratory Diseases,Asthma
+Site_264,Ethiopia,Infectious Diseases,Tuberculosis
+Site_264,Ethiopia,Infectious Diseases,Malaria
+Site_264,Ethiopia,Infectious Diseases,HIV-1
+Site_264,Ethiopia,Oncology,Prostate cancer
+Site_264,Ethiopia,Cardiovascular,Hypertension
+Site_264,Ethiopia,Cardiovascular,Heart failure
+Site_265,Ethiopia,Oncology,Prostate cancer
+Site_265,Ethiopia,Oncology,Cervical cancer
+Site_265,Ethiopia,Cardiovascular,Hypertension
+Site_265,Ethiopia,Cardiovascular,Coronary artery disease
+Site_265,Ethiopia,Cardiovascular,Heart failure
+Site_265,Ethiopia,Infectious Diseases,HIV-1
+Site_265,Ethiopia,Infectious Diseases,Malaria
+Site_266,Uganda,Infectious Diseases,Malaria
+Site_266,Uganda,Infectious Diseases,HIV-1
+Site_266,Uganda,Respiratory Diseases,Pneumonia
+Site_266,Uganda,Respiratory Diseases,COPD
+Site_267,South Africa,Cardiovascular,Hypertension
+Site_267,South Africa,Respiratory Diseases,Pneumonia
+Site_267,South Africa,Respiratory Diseases,Asthma
+Site_267,South Africa,Respiratory Diseases,COPD
+Site_268,Nigeria,Hematology,Sickle cell disease
+Site_268,Nigeria,Hematology,Iron-deficiency anaemia
+Site_268,Nigeria,Infectious Diseases,Tuberculosis
+Site_268,Nigeria,Infectious Diseases,HIV-1
+Site_269,Kenya,Infectious Diseases,Malaria
+Site_269,Kenya,Hematology,Iron-deficiency anaemia
+Site_269,Kenya,Hematology,Haemophilia
+Site_269,Kenya,Cardiovascular,Coronary artery disease
+Site_269,Kenya,Respiratory Diseases,Pneumonia
+Site_269,Kenya,Respiratory Diseases,Asthma
+Site_269,Kenya,Respiratory Diseases,COPD
+Site_269,Kenya,Oncology,Prostate cancer
+Site_269,Kenya,Oncology,Cervical cancer
+Site_269,Kenya,Oncology,Breast cancer
+Site_270,Uganda,Respiratory Diseases,Pneumonia
+Site_270,Uganda,Respiratory Diseases,Asthma
+Site_270,Uganda,Infectious Diseases,Malaria
+Site_270,Uganda,Infectious Diseases,Tuberculosis
+Site_270,Uganda,Cardiovascular,Heart failure
+Site_270,Uganda,Cardiovascular,Coronary artery disease
+Site_270,Uganda,Cardiovascular,Hypertension
+Site_271,Morocco,Respiratory Diseases,COPD
+Site_271,Morocco,Respiratory Diseases,Pneumonia
+Site_271,Morocco,Cardiovascular,Coronary artery disease
+Site_271,Morocco,Cardiovascular,Hypertension
+Site_271,Morocco,Cardiovascular,Heart failure
+Site_271,Morocco,Oncology,Prostate cancer
+Site_271,Morocco,Oncology,Cervical cancer
+Site_271,Morocco,Hematology,Sickle cell disease
+Site_271,Morocco,Hematology,Iron-deficiency anaemia
+Site_271,Morocco,Hematology,Haemophilia
+Site_271,Morocco,Infectious Diseases,Tuberculosis
+Site_271,Morocco,Infectious Diseases,Malaria
+Site_272,Egypt,Respiratory Diseases,COPD
+Site_272,Egypt,Respiratory Diseases,Pneumonia
+Site_272,Egypt,Respiratory Diseases,Asthma
+Site_272,Egypt,Cardiovascular,Hypertension
+Site_272,Egypt,Cardiovascular,Coronary artery disease
+Site_272,Egypt,Infectious Diseases,Malaria
+Site_273,Algeria,Oncology,Prostate cancer
+Site_273,Algeria,Oncology,Cervical cancer
+Site_273,Algeria,Respiratory Diseases,Asthma
+Site_273,Algeria,Respiratory Diseases,COPD
+Site_274,Ethiopia,Infectious Diseases,Malaria
+Site_274,Ethiopia,Infectious Diseases,HIV-1
+Site_274,Ethiopia,Hematology,Haemophilia
+Site_275,South Africa,Respiratory Diseases,COPD
+Site_275,South Africa,Infectious Diseases,HIV-1
+Site_275,South Africa,Infectious Diseases,Tuberculosis
+Site_275,South Africa,Infectious Diseases,Malaria
+Site_275,South Africa,Cardiovascular,Coronary artery disease
+Site_275,South Africa,Hematology,Sickle cell disease
+Site_275,South Africa,Oncology,Cervical cancer
+Site_275,South Africa,Oncology,Breast cancer
+Site_275,South Africa,Oncology,Prostate cancer
+Site_276,South Africa,Infectious Diseases,HIV-1
+Site_276,South Africa,Infectious Diseases,Malaria
+Site_276,South Africa,Infectious Diseases,Tuberculosis
+Site_276,South Africa,Cardiovascular,Coronary artery disease
+Site_276,South Africa,Oncology,Cervical cancer
+Site_277,South Africa,Respiratory Diseases,COPD
+Site_277,South Africa,Respiratory Diseases,Pneumonia
+Site_277,South Africa,Oncology,Prostate cancer
+Site_277,South Africa,Oncology,Breast cancer
+Site_277,South Africa,Oncology,Cervical cancer
+Site_277,South Africa,Hematology,Haemophilia
+Site_278,Ghana,Respiratory Diseases,Pneumonia
+Site_278,Ghana,Respiratory Diseases,COPD
+Site_278,Ghana,Cardiovascular,Heart failure
+Site_278,Ghana,Cardiovascular,Coronary artery disease
+Site_278,Ghana,Hematology,Sickle cell disease
+Site_278,Ghana,Hematology,Iron-deficiency anaemia
+Site_279,Egypt,Cardiovascular,Heart failure
+Site_279,Egypt,Cardiovascular,Hypertension
+Site_279,Egypt,Hematology,Iron-deficiency anaemia
+Site_279,Egypt,Infectious Diseases,Tuberculosis
+Site_280,Egypt,Oncology,Prostate cancer
+Site_280,Egypt,Oncology,Breast cancer
+Site_280,Egypt,Oncology,Cervical cancer
+Site_280,Egypt,Cardiovascular,Heart failure
+Site_280,Egypt,Infectious Diseases,HIV-1
+Site_280,Egypt,Infectious Diseases,Malaria
+Site_280,Egypt,Respiratory Diseases,COPD
+Site_280,Egypt,Respiratory Diseases,Asthma
+Site_281,Morocco,Respiratory Diseases,Asthma
+Site_281,Morocco,Respiratory Diseases,Pneumonia
+Site_281,Morocco,Respiratory Diseases,COPD
+Site_281,Morocco,Hematology,Haemophilia
+Site_281,Morocco,Hematology,Iron-deficiency anaemia
+Site_281,Morocco,Cardiovascular,Coronary artery disease
+Site_281,Morocco,Cardiovascular,Heart failure
+Site_281,Morocco,Infectious Diseases,HIV-1
+Site_282,South Africa,Infectious Diseases,Tuberculosis
+Site_282,South Africa,Infectious Diseases,HIV-1
+Site_282,South Africa,Respiratory Diseases,Asthma
+Site_282,South Africa,Respiratory Diseases,COPD
+Site_283,Kenya,Cardiovascular,Coronary artery disease
+Site_283,Kenya,Infectious Diseases,Tuberculosis
+Site_283,Kenya,Infectious Diseases,HIV-1
+Site_283,Kenya,Infectious Diseases,Malaria
+Site_283,Kenya,Respiratory Diseases,Pneumonia
+Site_284,South Africa,Cardiovascular,Heart failure
+Site_284,South Africa,Infectious Diseases,HIV-1
+Site_284,South Africa,Respiratory Diseases,COPD
+Site_284,South Africa,Respiratory Diseases,Asthma
+Site_284,South Africa,Respiratory Diseases,Pneumonia
+Site_285,South Africa,Hematology,Sickle cell disease
+Site_285,South Africa,Hematology,Iron-deficiency anaemia
+Site_285,South Africa,Hematology,Haemophilia
+Site_285,South Africa,Infectious Diseases,HIV-1
+Site_286,Ethiopia,Respiratory Diseases,Asthma
+Site_286,Ethiopia,Respiratory Diseases,Pneumonia
+Site_286,Ethiopia,Respiratory Diseases,COPD
+Site_286,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_287,Algeria,Cardiovascular,Heart failure
+Site_287,Algeria,Cardiovascular,Hypertension
+Site_287,Algeria,Infectious Diseases,Malaria
+Site_287,Algeria,Infectious Diseases,HIV-1
+Site_287,Algeria,Respiratory Diseases,Asthma
+Site_287,Algeria,Hematology,Haemophilia
+Site_288,Uganda,Respiratory Diseases,Pneumonia
+Site_288,Uganda,Infectious Diseases,Malaria
+Site_288,Uganda,Infectious Diseases,HIV-1
+Site_288,Uganda,Hematology,Iron-deficiency anaemia
+Site_288,Uganda,Hematology,Sickle cell disease
+Site_288,Uganda,Hematology,Haemophilia
+Site_289,Uganda,Hematology,Iron-deficiency anaemia
+Site_289,Uganda,Hematology,Haemophilia
+Site_289,Uganda,Hematology,Sickle cell disease
+Site_289,Uganda,Oncology,Cervical cancer
+Site_289,Uganda,Oncology,Prostate cancer
+Site_289,Uganda,Respiratory Diseases,COPD
+Site_289,Uganda,Respiratory Diseases,Asthma
+Site_289,Uganda,Respiratory Diseases,Pneumonia
+Site_290,South Africa,Oncology,Breast cancer
+Site_290,South Africa,Hematology,Haemophilia
+Site_291,Tanzania,Respiratory Diseases,Asthma
+Site_291,Tanzania,Hematology,Haemophilia
+Site_291,Tanzania,Hematology,Sickle cell disease
+Site_291,Tanzania,Hematology,Iron-deficiency anaemia
+Site_291,Tanzania,Cardiovascular,Heart failure
+Site_292,Morocco,Infectious Diseases,Malaria
+Site_292,Morocco,Cardiovascular,Heart failure
+Site_292,Morocco,Cardiovascular,Hypertension
+Site_292,Morocco,Cardiovascular,Coronary artery disease
+Site_292,Morocco,Oncology,Breast cancer
+Site_292,Morocco,Oncology,Cervical cancer
+Site_293,Ethiopia,Oncology,Prostate cancer
+Site_293,Ethiopia,Oncology,Cervical cancer
+Site_293,Ethiopia,Cardiovascular,Hypertension
+Site_294,Nigeria,Hematology,Haemophilia
+Site_294,Nigeria,Hematology,Iron-deficiency anaemia
+Site_294,Nigeria,Respiratory Diseases,Asthma
+Site_294,Nigeria,Respiratory Diseases,COPD
+Site_294,Nigeria,Respiratory Diseases,Pneumonia
+Site_295,Uganda,Infectious Diseases,HIV-1
+Site_295,Uganda,Hematology,Haemophilia
+Site_295,Uganda,Oncology,Breast cancer
+Site_295,Uganda,Cardiovascular,Coronary artery disease
+Site_296,Uganda,Respiratory Diseases,Asthma
+Site_296,Uganda,Respiratory Diseases,COPD
+Site_296,Uganda,Oncology,Breast cancer
+Site_297,Tanzania,Respiratory Diseases,COPD
+Site_297,Tanzania,Respiratory Diseases,Pneumonia
+Site_297,Tanzania,Cardiovascular,Hypertension
+Site_297,Tanzania,Oncology,Prostate cancer
+Site_297,Tanzania,Oncology,Cervical cancer
+Site_298,South Africa,Oncology,Cervical cancer
+Site_298,South Africa,Respiratory Diseases,Asthma
+Site_298,South Africa,Respiratory Diseases,Pneumonia
+Site_298,South Africa,Infectious Diseases,Tuberculosis
+Site_298,South Africa,Infectious Diseases,Malaria
+Site_298,South Africa,Infectious Diseases,HIV-1
+Site_298,South Africa,Cardiovascular,Heart failure
+Site_298,South Africa,Cardiovascular,Coronary artery disease
+Site_298,South Africa,Cardiovascular,Hypertension
+Site_298,South Africa,Hematology,Sickle cell disease
+Site_299,Morocco,Hematology,Haemophilia
+Site_299,Morocco,Cardiovascular,Coronary artery disease
+Site_299,Morocco,Respiratory Diseases,Asthma
+Site_299,Morocco,Respiratory Diseases,COPD
+Site_300,Egypt,Respiratory Diseases,COPD
+Site_300,Egypt,Cardiovascular,Hypertension
+Site_300,Egypt,Cardiovascular,Heart failure
+Site_300,Egypt,Cardiovascular,Coronary artery disease
+Site_301,Nigeria,Hematology,Sickle cell disease
+Site_301,Nigeria,Hematology,Haemophilia
+Site_301,Nigeria,Cardiovascular,Coronary artery disease
+Site_301,Nigeria,Cardiovascular,Hypertension
+Site_302,Tanzania,Hematology,Iron-deficiency anaemia
+Site_302,Tanzania,Hematology,Haemophilia
+Site_302,Tanzania,Hematology,Sickle cell disease
+Site_302,Tanzania,Respiratory Diseases,Pneumonia
+Site_302,Tanzania,Respiratory Diseases,Asthma
+Site_303,Egypt,Infectious Diseases,Malaria
+Site_303,Egypt,Cardiovascular,Hypertension
+Site_303,Egypt,Cardiovascular,Coronary artery disease
+Site_303,Egypt,Cardiovascular,Heart failure
+Site_303,Egypt,Hematology,Iron-deficiency anaemia
+Site_304,Tanzania,Oncology,Prostate cancer
+Site_304,Tanzania,Oncology,Cervical cancer
+Site_304,Tanzania,Infectious Diseases,Malaria
+Site_304,Tanzania,Infectious Diseases,HIV-1
+Site_304,Tanzania,Infectious Diseases,Tuberculosis
+Site_304,Tanzania,Cardiovascular,Coronary artery disease
+Site_304,Tanzania,Respiratory Diseases,COPD
+Site_304,Tanzania,Hematology,Iron-deficiency anaemia
+Site_305,Uganda,Cardiovascular,Coronary artery disease
+Site_305,Uganda,Cardiovascular,Heart failure
+Site_305,Uganda,Cardiovascular,Hypertension
+Site_305,Uganda,Respiratory Diseases,COPD
+Site_305,Uganda,Respiratory Diseases,Asthma
+Site_306,Algeria,Infectious Diseases,Malaria
+Site_306,Algeria,Infectious Diseases,HIV-1
+Site_306,Algeria,Hematology,Sickle cell disease
+Site_306,Algeria,Hematology,Iron-deficiency anaemia
+Site_307,Nigeria,Infectious Diseases,Malaria
+Site_307,Nigeria,Infectious Diseases,Tuberculosis
+Site_307,Nigeria,Infectious Diseases,HIV-1
+Site_307,Nigeria,Respiratory Diseases,Pneumonia
+Site_307,Nigeria,Hematology,Iron-deficiency anaemia
+Site_307,Nigeria,Hematology,Sickle cell disease
+Site_307,Nigeria,Cardiovascular,Coronary artery disease
+Site_307,Nigeria,Cardiovascular,Heart failure
+Site_307,Nigeria,Cardiovascular,Hypertension
+Site_308,Uganda,Oncology,Cervical cancer
+Site_308,Uganda,Oncology,Breast cancer
+Site_308,Uganda,Oncology,Prostate cancer
+Site_308,Uganda,Respiratory Diseases,Asthma
+Site_309,Nigeria,Infectious Diseases,Tuberculosis
+Site_309,Nigeria,Infectious Diseases,Malaria
+Site_309,Nigeria,Infectious Diseases,HIV-1
+Site_309,Nigeria,Respiratory Diseases,COPD
+Site_309,Nigeria,Respiratory Diseases,Pneumonia
+Site_309,Nigeria,Hematology,Sickle cell disease
+Site_309,Nigeria,Hematology,Haemophilia
+Site_309,Nigeria,Oncology,Breast cancer
+Site_309,Nigeria,Oncology,Cervical cancer
+Site_309,Nigeria,Cardiovascular,Heart failure
+Site_310,Algeria,Oncology,Cervical cancer
+Site_310,Algeria,Oncology,Breast cancer
+Site_310,Algeria,Infectious Diseases,Tuberculosis
+Site_310,Algeria,Respiratory Diseases,Pneumonia
+Site_311,Kenya,Hematology,Haemophilia
+Site_311,Kenya,Cardiovascular,Heart failure
+Site_312,Kenya,Oncology,Breast cancer
+Site_312,Kenya,Oncology,Prostate cancer
+Site_312,Kenya,Infectious Diseases,HIV-1
+Site_312,Kenya,Infectious Diseases,Tuberculosis
+Site_312,Kenya,Infectious Diseases,Malaria
+Site_313,Algeria,Respiratory Diseases,Asthma
+Site_313,Algeria,Respiratory Diseases,Pneumonia
+Site_313,Algeria,Cardiovascular,Hypertension
+Site_313,Algeria,Cardiovascular,Heart failure
+Site_313,Algeria,Cardiovascular,Coronary artery disease
+Site_313,Algeria,Infectious Diseases,Tuberculosis
+Site_313,Algeria,Infectious Diseases,HIV-1
+Site_313,Algeria,Infectious Diseases,Malaria
+Site_314,Morocco,Cardiovascular,Hypertension
+Site_314,Morocco,Cardiovascular,Heart failure
+Site_314,Morocco,Infectious Diseases,Malaria
+Site_314,Morocco,Infectious Diseases,HIV-1
+Site_314,Morocco,Oncology,Prostate cancer
+Site_315,Morocco,Respiratory Diseases,COPD
+Site_315,Morocco,Respiratory Diseases,Pneumonia
+Site_315,Morocco,Infectious Diseases,Malaria
+Site_315,Morocco,Infectious Diseases,Tuberculosis
+Site_315,Morocco,Hematology,Iron-deficiency anaemia
+Site_315,Morocco,Hematology,Sickle cell disease
+Site_316,Kenya,Oncology,Cervical cancer
+Site_316,Kenya,Hematology,Sickle cell disease
+Site_316,Kenya,Hematology,Haemophilia
+Site_316,Kenya,Hematology,Iron-deficiency anaemia
+Site_316,Kenya,Respiratory Diseases,Asthma
+Site_316,Kenya,Respiratory Diseases,Pneumonia
+Site_316,Kenya,Respiratory Diseases,COPD
+Site_317,Ghana,Hematology,Sickle cell disease
+Site_317,Ghana,Hematology,Haemophilia
+Site_317,Ghana,Oncology,Breast cancer
+Site_318,Ghana,Hematology,Haemophilia
+Site_318,Ghana,Cardiovascular,Coronary artery disease
+Site_318,Ghana,Cardiovascular,Hypertension
+Site_318,Ghana,Cardiovascular,Heart failure
+Site_318,Ghana,Oncology,Cervical cancer
+Site_319,Ethiopia,Infectious Diseases,Malaria
+Site_319,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_319,Ethiopia,Cardiovascular,Heart failure
+Site_320,Ghana,Infectious Diseases,HIV-1
+Site_320,Ghana,Infectious Diseases,Tuberculosis
+Site_320,Ghana,Respiratory Diseases,Pneumonia
+Site_320,Ghana,Respiratory Diseases,COPD
+Site_320,Ghana,Cardiovascular,Coronary artery disease
+Site_320,Ghana,Cardiovascular,Heart failure
+Site_321,Nigeria,Hematology,Haemophilia
+Site_321,Nigeria,Respiratory Diseases,COPD
+Site_321,Nigeria,Respiratory Diseases,Pneumonia
+Site_321,Nigeria,Respiratory Diseases,Asthma
+Site_321,Nigeria,Infectious Diseases,Malaria
+Site_321,Nigeria,Infectious Diseases,Tuberculosis
+Site_321,Nigeria,Infectious Diseases,HIV-1
+Site_322,Algeria,Hematology,Sickle cell disease
+Site_322,Algeria,Cardiovascular,Heart failure
+Site_322,Algeria,Cardiovascular,Coronary artery disease
+Site_323,Kenya,Infectious Diseases,HIV-1
+Site_323,Kenya,Infectious Diseases,Tuberculosis
+Site_323,Kenya,Hematology,Sickle cell disease
+Site_323,Kenya,Respiratory Diseases,Pneumonia
+Site_323,Kenya,Respiratory Diseases,COPD
+Site_323,Kenya,Respiratory Diseases,Asthma
+Site_324,Ethiopia,Cardiovascular,Heart failure
+Site_324,Ethiopia,Oncology,Breast cancer
+Site_324,Ethiopia,Oncology,Prostate cancer
+Site_325,Ethiopia,Cardiovascular,Coronary artery disease
+Site_325,Ethiopia,Cardiovascular,Hypertension
+Site_325,Ethiopia,Cardiovascular,Heart failure
+Site_325,Ethiopia,Oncology,Prostate cancer
+Site_325,Ethiopia,Oncology,Breast cancer
+Site_325,Ethiopia,Infectious Diseases,HIV-1
+Site_325,Ethiopia,Hematology,Sickle cell disease
+Site_325,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_325,Ethiopia,Hematology,Haemophilia
+Site_325,Ethiopia,Respiratory Diseases,Pneumonia
+Site_325,Ethiopia,Respiratory Diseases,COPD
+Site_325,Ethiopia,Respiratory Diseases,Asthma
+Site_326,Morocco,Infectious Diseases,HIV-1
+Site_326,Morocco,Oncology,Breast cancer
+Site_326,Morocco,Cardiovascular,Heart failure
+Site_327,Morocco,Infectious Diseases,Malaria
+Site_327,Morocco,Infectious Diseases,Tuberculosis
+Site_327,Morocco,Cardiovascular,Coronary artery disease
+Site_327,Morocco,Oncology,Cervical cancer
+Site_327,Morocco,Oncology,Breast cancer
+Site_327,Morocco,Oncology,Prostate cancer
+Site_327,Morocco,Hematology,Sickle cell disease
+Site_327,Morocco,Hematology,Iron-deficiency anaemia
+Site_327,Morocco,Respiratory Diseases,Pneumonia
+Site_328,Egypt,Oncology,Prostate cancer
+Site_328,Egypt,Oncology,Breast cancer
+Site_328,Egypt,Hematology,Sickle cell disease
+Site_328,Egypt,Respiratory Diseases,Pneumonia
+Site_328,Egypt,Cardiovascular,Heart failure
+Site_328,Egypt,Cardiovascular,Coronary artery disease
+Site_328,Egypt,Cardiovascular,Hypertension
+Site_328,Egypt,Infectious Diseases,Tuberculosis
+Site_328,Egypt,Infectious Diseases,Malaria
+Site_328,Egypt,Infectious Diseases,HIV-1
+Site_329,Algeria,Hematology,Sickle cell disease
+Site_329,Algeria,Hematology,Iron-deficiency anaemia
+Site_329,Algeria,Infectious Diseases,Tuberculosis
+Site_329,Algeria,Infectious Diseases,Malaria
+Site_330,Uganda,Oncology,Breast cancer
+Site_330,Uganda,Oncology,Cervical cancer
+Site_330,Uganda,Oncology,Prostate cancer
+Site_330,Uganda,Respiratory Diseases,Pneumonia
+Site_330,Uganda,Cardiovascular,Coronary artery disease
+Site_330,Uganda,Cardiovascular,Heart failure
+Site_331,Uganda,Oncology,Cervical cancer
+Site_331,Uganda,Oncology,Breast cancer
+Site_331,Uganda,Respiratory Diseases,COPD
+Site_332,Nigeria,Cardiovascular,Hypertension
+Site_332,Nigeria,Infectious Diseases,Tuberculosis
+Site_332,Nigeria,Infectious Diseases,Malaria
+Site_332,Nigeria,Infectious Diseases,HIV-1
+Site_333,Nigeria,Infectious Diseases,HIV-1
+Site_333,Nigeria,Infectious Diseases,Tuberculosis
+Site_333,Nigeria,Oncology,Prostate cancer
+Site_333,Nigeria,Oncology,Breast cancer
+Site_333,Nigeria,Oncology,Cervical cancer
+Site_333,Nigeria,Respiratory Diseases,Pneumonia
+Site_334,Tanzania,Hematology,Haemophilia
+Site_334,Tanzania,Hematology,Sickle cell disease
+Site_334,Tanzania,Hematology,Iron-deficiency anaemia
+Site_334,Tanzania,Infectious Diseases,HIV-1
+Site_334,Tanzania,Infectious Diseases,Tuberculosis
+Site_335,South Africa,Oncology,Prostate cancer
+Site_335,South Africa,Oncology,Breast cancer
+Site_335,South Africa,Infectious Diseases,Malaria
+Site_335,South Africa,Infectious Diseases,HIV-1
+Site_335,South Africa,Infectious Diseases,Tuberculosis
+Site_336,Tanzania,Respiratory Diseases,Pneumonia
+Site_336,Tanzania,Respiratory Diseases,COPD
+Site_336,Tanzania,Infectious Diseases,Tuberculosis
+Site_336,Tanzania,Infectious Diseases,HIV-1
+Site_336,Tanzania,Infectious Diseases,Malaria
+Site_337,Ethiopia,Oncology,Cervical cancer
+Site_337,Ethiopia,Cardiovascular,Coronary artery disease
+Site_337,Ethiopia,Hematology,Haemophilia
+Site_337,Ethiopia,Hematology,Sickle cell disease
+Site_338,Nigeria,Cardiovascular,Hypertension
+Site_338,Nigeria,Cardiovascular,Coronary artery disease
+Site_338,Nigeria,Cardiovascular,Heart failure
+Site_338,Nigeria,Hematology,Sickle cell disease
+Site_338,Nigeria,Hematology,Haemophilia
+Site_338,Nigeria,Hematology,Iron-deficiency anaemia
+Site_339,Morocco,Cardiovascular,Hypertension
+Site_339,Morocco,Respiratory Diseases,COPD
+Site_339,Morocco,Respiratory Diseases,Pneumonia
+Site_339,Morocco,Respiratory Diseases,Asthma
+Site_340,Ethiopia,Oncology,Cervical cancer
+Site_340,Ethiopia,Oncology,Breast cancer
+Site_340,Ethiopia,Oncology,Prostate cancer
+Site_340,Ethiopia,Hematology,Sickle cell disease
+Site_340,Ethiopia,Respiratory Diseases,Pneumonia
+Site_340,Ethiopia,Respiratory Diseases,Asthma
+Site_340,Ethiopia,Infectious Diseases,HIV-1
+Site_340,Ethiopia,Infectious Diseases,Malaria
+Site_340,Ethiopia,Infectious Diseases,Tuberculosis
+Site_341,Kenya,Cardiovascular,Coronary artery disease
+Site_341,Kenya,Cardiovascular,Hypertension
+Site_341,Kenya,Infectious Diseases,Tuberculosis
+Site_341,Kenya,Infectious Diseases,Malaria
+Site_341,Kenya,Infectious Diseases,HIV-1
+Site_342,Morocco,Oncology,Cervical cancer
+Site_342,Morocco,Oncology,Prostate cancer
+Site_342,Morocco,Respiratory Diseases,Asthma
+Site_342,Morocco,Respiratory Diseases,Pneumonia
+Site_343,Kenya,Respiratory Diseases,Asthma
+Site_343,Kenya,Respiratory Diseases,COPD
+Site_343,Kenya,Respiratory Diseases,Pneumonia
+Site_343,Kenya,Oncology,Prostate cancer
+Site_343,Kenya,Hematology,Haemophilia
+Site_343,Kenya,Hematology,Sickle cell disease
+Site_344,Uganda,Respiratory Diseases,Asthma
+Site_344,Uganda,Respiratory Diseases,COPD
+Site_344,Uganda,Respiratory Diseases,Pneumonia
+Site_344,Uganda,Infectious Diseases,HIV-1
+Site_345,Ethiopia,Oncology,Breast cancer
+Site_345,Ethiopia,Oncology,Cervical cancer
+Site_345,Ethiopia,Oncology,Prostate cancer
+Site_345,Ethiopia,Respiratory Diseases,Asthma
+Site_345,Ethiopia,Respiratory Diseases,COPD
+Site_345,Ethiopia,Respiratory Diseases,Pneumonia
+Site_345,Ethiopia,Cardiovascular,Hypertension
+Site_345,Ethiopia,Cardiovascular,Coronary artery disease
+Site_345,Ethiopia,Cardiovascular,Heart failure
+Site_346,Morocco,Oncology,Prostate cancer
+Site_346,Morocco,Oncology,Breast cancer
+Site_346,Morocco,Respiratory Diseases,COPD
+Site_346,Morocco,Respiratory Diseases,Pneumonia
+Site_346,Morocco,Hematology,Sickle cell disease
+Site_346,Morocco,Hematology,Haemophilia
+Site_346,Morocco,Hematology,Iron-deficiency anaemia
+Site_347,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_347,Ethiopia,Hematology,Haemophilia
+Site_347,Ethiopia,Infectious Diseases,Malaria
+Site_347,Ethiopia,Infectious Diseases,Tuberculosis
+Site_347,Ethiopia,Infectious Diseases,HIV-1
+Site_347,Ethiopia,Cardiovascular,Coronary artery disease
+Site_347,Ethiopia,Cardiovascular,Heart failure
+Site_348,Ethiopia,Oncology,Cervical cancer
+Site_348,Ethiopia,Oncology,Breast cancer
+Site_348,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_348,Ethiopia,Hematology,Sickle cell disease
+Site_348,Ethiopia,Hematology,Haemophilia
+Site_348,Ethiopia,Cardiovascular,Coronary artery disease
+Site_348,Ethiopia,Cardiovascular,Hypertension
+Site_349,Algeria,Hematology,Iron-deficiency anaemia
+Site_349,Algeria,Cardiovascular,Hypertension
+Site_349,Algeria,Cardiovascular,Coronary artery disease
+Site_350,Algeria,Cardiovascular,Coronary artery disease
+Site_350,Algeria,Infectious Diseases,HIV-1
+Site_350,Algeria,Respiratory Diseases,COPD
+Site_350,Algeria,Respiratory Diseases,Asthma
+Site_351,Uganda,Oncology,Breast cancer
+Site_351,Uganda,Infectious Diseases,Tuberculosis
+Site_351,Uganda,Infectious Diseases,Malaria
+Site_351,Uganda,Infectious Diseases,HIV-1
+Site_351,Uganda,Respiratory Diseases,COPD
+Site_351,Uganda,Respiratory Diseases,Asthma
+Site_352,Egypt,Oncology,Prostate cancer
+Site_352,Egypt,Oncology,Cervical cancer
+Site_352,Egypt,Oncology,Breast cancer
+Site_352,Egypt,Infectious Diseases,Tuberculosis
+Site_352,Egypt,Infectious Diseases,HIV-1
+Site_352,Egypt,Infectious Diseases,Malaria
+Site_352,Egypt,Cardiovascular,Coronary artery disease
+Site_352,Egypt,Cardiovascular,Heart failure
+Site_353,Morocco,Cardiovascular,Coronary artery disease
+Site_353,Morocco,Oncology,Prostate cancer
+Site_353,Morocco,Oncology,Breast cancer
+Site_353,Morocco,Oncology,Cervical cancer
+Site_354,South Africa,Cardiovascular,Heart failure
+Site_354,South Africa,Infectious Diseases,HIV-1
+Site_354,South Africa,Infectious Diseases,Tuberculosis
+Site_354,South Africa,Oncology,Breast cancer
+Site_354,South Africa,Respiratory Diseases,COPD
+Site_354,South Africa,Respiratory Diseases,Pneumonia
+Site_354,South Africa,Respiratory Diseases,Asthma
+Site_354,South Africa,Hematology,Iron-deficiency anaemia
+Site_355,Ethiopia,Oncology,Cervical cancer
+Site_355,Ethiopia,Oncology,Breast cancer
+Site_355,Ethiopia,Oncology,Prostate cancer
+Site_355,Ethiopia,Cardiovascular,Coronary artery disease
+Site_356,Ethiopia,Cardiovascular,Hypertension
+Site_356,Ethiopia,Cardiovascular,Coronary artery disease
+Site_356,Ethiopia,Cardiovascular,Heart failure
+Site_356,Ethiopia,Infectious Diseases,HIV-1
+Site_356,Ethiopia,Infectious Diseases,Tuberculosis
+Site_356,Ethiopia,Infectious Diseases,Malaria
+Site_357,Algeria,Hematology,Sickle cell disease
+Site_357,Algeria,Respiratory Diseases,Asthma
+Site_357,Algeria,Infectious Diseases,Tuberculosis
+Site_357,Algeria,Infectious Diseases,HIV-1
+Site_357,Algeria,Cardiovascular,Heart failure
+Site_357,Algeria,Cardiovascular,Hypertension
+Site_358,Tanzania,Respiratory Diseases,Asthma
+Site_358,Tanzania,Respiratory Diseases,COPD
+Site_358,Tanzania,Oncology,Prostate cancer
+Site_358,Tanzania,Oncology,Breast cancer
+Site_358,Tanzania,Oncology,Cervical cancer
+Site_359,Egypt,Infectious Diseases,Tuberculosis
+Site_359,Egypt,Cardiovascular,Heart failure
+Site_360,Ghana,Hematology,Iron-deficiency anaemia
+Site_360,Ghana,Hematology,Haemophilia
+Site_360,Ghana,Hematology,Sickle cell disease
+Site_360,Ghana,Oncology,Cervical cancer
+Site_360,Ghana,Oncology,Breast cancer
+Site_361,Tanzania,Respiratory Diseases,Asthma
+Site_361,Tanzania,Respiratory Diseases,COPD
+Site_361,Tanzania,Respiratory Diseases,Pneumonia
+Site_361,Tanzania,Oncology,Prostate cancer
+Site_361,Tanzania,Oncology,Breast cancer
+Site_361,Tanzania,Oncology,Cervical cancer
+Site_361,Tanzania,Cardiovascular,Hypertension
+Site_361,Tanzania,Cardiovascular,Coronary artery disease
+Site_361,Tanzania,Cardiovascular,Heart failure
+Site_361,Tanzania,Infectious Diseases,HIV-1
+Site_361,Tanzania,Infectious Diseases,Tuberculosis
+Site_362,Tanzania,Infectious Diseases,Tuberculosis
+Site_362,Tanzania,Oncology,Cervical cancer
+Site_362,Tanzania,Oncology,Breast cancer
+Site_362,Tanzania,Oncology,Prostate cancer
+Site_363,Morocco,Hematology,Sickle cell disease
+Site_363,Morocco,Hematology,Iron-deficiency anaemia
+Site_363,Morocco,Infectious Diseases,Tuberculosis
+Site_364,Tanzania,Oncology,Prostate cancer
+Site_364,Tanzania,Hematology,Haemophilia
+Site_364,Tanzania,Hematology,Sickle cell disease
+Site_365,Algeria,Oncology,Prostate cancer
+Site_365,Algeria,Oncology,Breast cancer
+Site_365,Algeria,Oncology,Cervical cancer
+Site_365,Algeria,Hematology,Iron-deficiency anaemia
+Site_365,Algeria,Hematology,Sickle cell disease
+Site_365,Algeria,Hematology,Haemophilia
+Site_365,Algeria,Infectious Diseases,Tuberculosis
+Site_365,Algeria,Cardiovascular,Hypertension
+Site_365,Algeria,Cardiovascular,Coronary artery disease
+Site_366,Uganda,Hematology,Sickle cell disease
+Site_366,Uganda,Infectious Diseases,Tuberculosis
+Site_367,South Africa,Infectious Diseases,Tuberculosis
+Site_367,South Africa,Cardiovascular,Heart failure
+Site_367,South Africa,Cardiovascular,Coronary artery disease
+Site_367,South Africa,Oncology,Cervical cancer
+Site_367,South Africa,Respiratory Diseases,Asthma
+Site_367,South Africa,Hematology,Sickle cell disease
+Site_367,South Africa,Hematology,Haemophilia
+Site_368,Nigeria,Respiratory Diseases,Pneumonia
+Site_368,Nigeria,Respiratory Diseases,COPD
+Site_368,Nigeria,Respiratory Diseases,Asthma
+Site_368,Nigeria,Infectious Diseases,HIV-1
+Site_368,Nigeria,Infectious Diseases,Tuberculosis
+Site_368,Nigeria,Hematology,Haemophilia
+Site_368,Nigeria,Hematology,Iron-deficiency anaemia
+Site_368,Nigeria,Oncology,Cervical cancer
+Site_368,Nigeria,Oncology,Prostate cancer
+Site_368,Nigeria,Oncology,Breast cancer
+Site_368,Nigeria,Cardiovascular,Heart failure
+Site_369,Egypt,Respiratory Diseases,Pneumonia
+Site_369,Egypt,Respiratory Diseases,COPD
+Site_369,Egypt,Respiratory Diseases,Asthma
+Site_369,Egypt,Oncology,Prostate cancer
+Site_369,Egypt,Oncology,Cervical cancer
+Site_370,Ghana,Oncology,Prostate cancer
+Site_370,Ghana,Oncology,Breast cancer
+Site_370,Ghana,Cardiovascular,Hypertension
+Site_370,Ghana,Cardiovascular,Coronary artery disease
+Site_370,Ghana,Cardiovascular,Heart failure
+Site_371,Nigeria,Oncology,Prostate cancer
+Site_371,Nigeria,Oncology,Cervical cancer
+Site_371,Nigeria,Oncology,Breast cancer
+Site_371,Nigeria,Infectious Diseases,Malaria
+Site_371,Nigeria,Infectious Diseases,Tuberculosis
+Site_372,Kenya,Hematology,Haemophilia
+Site_372,Kenya,Hematology,Sickle cell disease
+Site_372,Kenya,Infectious Diseases,Malaria
+Site_372,Kenya,Respiratory Diseases,Asthma
+Site_372,Kenya,Respiratory Diseases,Pneumonia
+Site_372,Kenya,Respiratory Diseases,COPD
+Site_372,Kenya,Oncology,Prostate cancer
+Site_372,Kenya,Cardiovascular,Coronary artery disease
+Site_372,Kenya,Cardiovascular,Hypertension
+Site_373,South Africa,Cardiovascular,Hypertension
+Site_373,South Africa,Cardiovascular,Heart failure
+Site_373,South Africa,Cardiovascular,Coronary artery disease
+Site_373,South Africa,Respiratory Diseases,Pneumonia
+Site_373,South Africa,Hematology,Iron-deficiency anaemia
+Site_373,South Africa,Hematology,Haemophilia
+Site_373,South Africa,Hematology,Sickle cell disease
+Site_374,Nigeria,Cardiovascular,Hypertension
+Site_374,Nigeria,Infectious Diseases,Malaria
+Site_374,Nigeria,Infectious Diseases,Tuberculosis
+Site_375,Tanzania,Infectious Diseases,Tuberculosis
+Site_375,Tanzania,Infectious Diseases,Malaria
+Site_375,Tanzania,Infectious Diseases,HIV-1
+Site_375,Tanzania,Oncology,Cervical cancer
+Site_375,Tanzania,Oncology,Prostate cancer
+Site_375,Tanzania,Oncology,Breast cancer
+Site_375,Tanzania,Respiratory Diseases,Pneumonia
+Site_376,Egypt,Hematology,Haemophilia
+Site_376,Egypt,Hematology,Iron-deficiency anaemia
+Site_376,Egypt,Hematology,Sickle cell disease
+Site_376,Egypt,Cardiovascular,Heart failure
+Site_376,Egypt,Respiratory Diseases,COPD
+Site_376,Egypt,Respiratory Diseases,Pneumonia
+Site_377,Ghana,Cardiovascular,Coronary artery disease
+Site_377,Ghana,Cardiovascular,Heart failure
+Site_377,Ghana,Respiratory Diseases,Pneumonia
+Site_377,Ghana,Respiratory Diseases,COPD
+Site_377,Ghana,Respiratory Diseases,Asthma
+Site_378,Ghana,Infectious Diseases,Tuberculosis
+Site_378,Ghana,Infectious Diseases,Malaria
+Site_378,Ghana,Infectious Diseases,HIV-1
+Site_378,Ghana,Oncology,Cervical cancer
+Site_378,Ghana,Oncology,Prostate cancer
+Site_378,Ghana,Oncology,Breast cancer
+Site_378,Ghana,Respiratory Diseases,Pneumonia
+Site_378,Ghana,Respiratory Diseases,Asthma
+Site_378,Ghana,Respiratory Diseases,COPD
+Site_379,Nigeria,Infectious Diseases,Malaria
+Site_379,Nigeria,Infectious Diseases,Tuberculosis
+Site_379,Nigeria,Infectious Diseases,HIV-1
+Site_379,Nigeria,Hematology,Haemophilia
+Site_379,Nigeria,Respiratory Diseases,Asthma
+Site_379,Nigeria,Respiratory Diseases,Pneumonia
+Site_379,Nigeria,Respiratory Diseases,COPD
+Site_380,Morocco,Infectious Diseases,Malaria
+Site_380,Morocco,Infectious Diseases,Tuberculosis
+Site_380,Morocco,Infectious Diseases,HIV-1
+Site_380,Morocco,Hematology,Sickle cell disease
+Site_381,Egypt,Cardiovascular,Coronary artery disease
+Site_381,Egypt,Infectious Diseases,Malaria
+Site_381,Egypt,Infectious Diseases,Tuberculosis
+Site_381,Egypt,Oncology,Breast cancer
+Site_382,Ethiopia,Hematology,Haemophilia
+Site_382,Ethiopia,Hematology,Sickle cell disease
+Site_382,Ethiopia,Cardiovascular,Hypertension
+Site_382,Ethiopia,Cardiovascular,Heart failure
+Site_382,Ethiopia,Respiratory Diseases,COPD
+Site_382,Ethiopia,Oncology,Cervical cancer
+Site_382,Ethiopia,Infectious Diseases,Malaria
+Site_383,Ethiopia,Cardiovascular,Coronary artery disease
+Site_383,Ethiopia,Respiratory Diseases,Asthma
+Site_384,Morocco,Oncology,Breast cancer
+Site_384,Morocco,Oncology,Prostate cancer
+Site_384,Morocco,Oncology,Cervical cancer
+Site_384,Morocco,Infectious Diseases,Malaria
+Site_384,Morocco,Infectious Diseases,Tuberculosis
+Site_384,Morocco,Infectious Diseases,HIV-1
+Site_384,Morocco,Respiratory Diseases,COPD
+Site_384,Morocco,Respiratory Diseases,Asthma
+Site_384,Morocco,Respiratory Diseases,Pneumonia
+Site_384,Morocco,Cardiovascular,Heart failure
+Site_384,Morocco,Cardiovascular,Hypertension
+Site_384,Morocco,Hematology,Sickle cell disease
+Site_385,Egypt,Infectious Diseases,Tuberculosis
+Site_385,Egypt,Cardiovascular,Coronary artery disease
+Site_385,Egypt,Cardiovascular,Heart failure
+Site_385,Egypt,Cardiovascular,Hypertension
+Site_386,Algeria,Infectious Diseases,Tuberculosis
+Site_386,Algeria,Infectious Diseases,HIV-1
+Site_386,Algeria,Oncology,Cervical cancer
+Site_386,Algeria,Oncology,Breast cancer
+Site_387,Egypt,Cardiovascular,Hypertension
+Site_387,Egypt,Oncology,Cervical cancer
+Site_387,Egypt,Oncology,Prostate cancer
+Site_387,Egypt,Oncology,Breast cancer
+Site_387,Egypt,Infectious Diseases,Tuberculosis
+Site_387,Egypt,Infectious Diseases,Malaria
+Site_387,Egypt,Infectious Diseases,HIV-1
+Site_387,Egypt,Hematology,Iron-deficiency anaemia
+Site_387,Egypt,Hematology,Sickle cell disease
+Site_387,Egypt,Respiratory Diseases,Pneumonia
+Site_387,Egypt,Respiratory Diseases,Asthma
+Site_388,Tanzania,Infectious Diseases,Tuberculosis
+Site_388,Tanzania,Infectious Diseases,Malaria
+Site_388,Tanzania,Infectious Diseases,HIV-1
+Site_388,Tanzania,Hematology,Sickle cell disease
+Site_388,Tanzania,Hematology,Haemophilia
+Site_388,Tanzania,Oncology,Prostate cancer
+Site_388,Tanzania,Oncology,Cervical cancer
+Site_389,Tanzania,Respiratory Diseases,Pneumonia
+Site_389,Tanzania,Respiratory Diseases,COPD
+Site_389,Tanzania,Cardiovascular,Heart failure
+Site_389,Tanzania,Cardiovascular,Coronary artery disease
+Site_389,Tanzania,Cardiovascular,Hypertension
+Site_390,Algeria,Oncology,Prostate cancer
+Site_390,Algeria,Oncology,Breast cancer
+Site_390,Algeria,Oncology,Cervical cancer
+Site_390,Algeria,Infectious Diseases,Malaria
+Site_390,Algeria,Cardiovascular,Coronary artery disease
+Site_390,Algeria,Cardiovascular,Hypertension
+Site_390,Algeria,Cardiovascular,Heart failure
+Site_390,Algeria,Hematology,Iron-deficiency anaemia
+Site_390,Algeria,Hematology,Sickle cell disease
+Site_390,Algeria,Respiratory Diseases,Asthma
+Site_390,Algeria,Respiratory Diseases,Pneumonia
+Site_390,Algeria,Respiratory Diseases,COPD
+Site_391,Ghana,Respiratory Diseases,Pneumonia
+Site_391,Ghana,Respiratory Diseases,COPD
+Site_391,Ghana,Respiratory Diseases,Asthma
+Site_391,Ghana,Infectious Diseases,HIV-1
+Site_391,Ghana,Oncology,Prostate cancer
+Site_391,Ghana,Oncology,Breast cancer
+Site_391,Ghana,Oncology,Cervical cancer
+Site_392,Algeria,Hematology,Sickle cell disease
+Site_392,Algeria,Cardiovascular,Hypertension
+Site_392,Algeria,Cardiovascular,Coronary artery disease
+Site_392,Algeria,Cardiovascular,Heart failure
+Site_392,Algeria,Oncology,Prostate cancer
+Site_392,Algeria,Oncology,Breast cancer
+Site_393,Nigeria,Respiratory Diseases,COPD
+Site_393,Nigeria,Respiratory Diseases,Asthma
+Site_393,Nigeria,Respiratory Diseases,Pneumonia
+Site_393,Nigeria,Infectious Diseases,HIV-1
+Site_394,Uganda,Oncology,Prostate cancer
+Site_394,Uganda,Oncology,Cervical cancer
+Site_394,Uganda,Oncology,Breast cancer
+Site_394,Uganda,Infectious Diseases,Tuberculosis
+Site_394,Uganda,Infectious Diseases,Malaria
+Site_394,Uganda,Infectious Diseases,HIV-1
+Site_395,Ghana,Cardiovascular,Hypertension
+Site_395,Ghana,Cardiovascular,Coronary artery disease
+Site_395,Ghana,Cardiovascular,Heart failure
+Site_395,Ghana,Respiratory Diseases,Asthma
+Site_395,Ghana,Respiratory Diseases,Pneumonia
+Site_395,Ghana,Infectious Diseases,HIV-1
+Site_395,Ghana,Infectious Diseases,Tuberculosis
+Site_396,Tanzania,Oncology,Breast cancer
+Site_396,Tanzania,Respiratory Diseases,Pneumonia
+Site_396,Tanzania,Respiratory Diseases,COPD
+Site_396,Tanzania,Respiratory Diseases,Asthma
+Site_396,Tanzania,Cardiovascular,Hypertension
+Site_396,Tanzania,Cardiovascular,Heart failure
+Site_396,Tanzania,Cardiovascular,Coronary artery disease
+Site_397,Egypt,Oncology,Breast cancer
+Site_397,Egypt,Respiratory Diseases,Pneumonia
+Site_398,Algeria,Oncology,Breast cancer
+Site_398,Algeria,Infectious Diseases,HIV-1
+Site_398,Algeria,Infectious Diseases,Malaria
+Site_398,Algeria,Respiratory Diseases,COPD
+Site_398,Algeria,Respiratory Diseases,Pneumonia
+Site_398,Algeria,Respiratory Diseases,Asthma
+Site_399,Morocco,Cardiovascular,Hypertension
+Site_399,Morocco,Cardiovascular,Coronary artery disease
+Site_399,Morocco,Oncology,Breast cancer
+Site_399,Morocco,Oncology,Cervical cancer
+Site_399,Morocco,Oncology,Prostate cancer
+Site_399,Morocco,Infectious Diseases,Malaria
+Site_399,Morocco,Infectious Diseases,Tuberculosis
+Site_399,Morocco,Respiratory Diseases,Pneumonia
+Site_399,Morocco,Respiratory Diseases,COPD
+Site_399,Morocco,Respiratory Diseases,Asthma
+Site_400,Nigeria,Oncology,Prostate cancer
+Site_400,Nigeria,Oncology,Breast cancer
+Site_400,Nigeria,Oncology,Cervical cancer
+Site_400,Nigeria,Respiratory Diseases,COPD
+Site_400,Nigeria,Respiratory Diseases,Asthma
+Site_400,Nigeria,Infectious Diseases,Tuberculosis
+Site_400,Nigeria,Infectious Diseases,Malaria
+Site_401,Ethiopia,Oncology,Cervical cancer
+Site_401,Ethiopia,Oncology,Prostate cancer
+Site_401,Ethiopia,Respiratory Diseases,Pneumonia
+Site_401,Ethiopia,Cardiovascular,Hypertension
+Site_401,Ethiopia,Cardiovascular,Heart failure
+Site_401,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_402,Ghana,Cardiovascular,Heart failure
+Site_402,Ghana,Cardiovascular,Coronary artery disease
+Site_402,Ghana,Cardiovascular,Hypertension
+Site_402,Ghana,Oncology,Cervical cancer
+Site_402,Ghana,Oncology,Prostate cancer
+Site_403,Nigeria,Respiratory Diseases,Pneumonia
+Site_403,Nigeria,Infectious Diseases,Tuberculosis
+Site_404,Ethiopia,Cardiovascular,Coronary artery disease
+Site_404,Ethiopia,Cardiovascular,Hypertension
+Site_404,Ethiopia,Infectious Diseases,Malaria
+Site_404,Ethiopia,Infectious Diseases,HIV-1
+Site_405,South Africa,Cardiovascular,Coronary artery disease
+Site_405,South Africa,Cardiovascular,Heart failure
+Site_405,South Africa,Infectious Diseases,Tuberculosis
+Site_405,South Africa,Hematology,Iron-deficiency anaemia
+Site_405,South Africa,Hematology,Sickle cell disease
+Site_405,South Africa,Hematology,Haemophilia
+Site_405,South Africa,Respiratory Diseases,COPD
+Site_406,Uganda,Cardiovascular,Heart failure
+Site_406,Uganda,Cardiovascular,Hypertension
+Site_406,Uganda,Cardiovascular,Coronary artery disease
+Site_406,Uganda,Oncology,Cervical cancer
+Site_407,South Africa,Hematology,Haemophilia
+Site_407,South Africa,Hematology,Iron-deficiency anaemia
+Site_407,South Africa,Hematology,Sickle cell disease
+Site_407,South Africa,Oncology,Prostate cancer
+Site_407,South Africa,Oncology,Breast cancer
+Site_407,South Africa,Cardiovascular,Heart failure
+Site_407,South Africa,Respiratory Diseases,COPD
+Site_407,South Africa,Respiratory Diseases,Asthma
+Site_408,Algeria,Oncology,Cervical cancer
+Site_408,Algeria,Cardiovascular,Heart failure
+Site_408,Algeria,Cardiovascular,Hypertension
+Site_408,Algeria,Cardiovascular,Coronary artery disease
+Site_409,Ethiopia,Respiratory Diseases,Asthma
+Site_409,Ethiopia,Respiratory Diseases,COPD
+Site_409,Ethiopia,Cardiovascular,Coronary artery disease
+Site_409,Ethiopia,Infectious Diseases,Malaria
+Site_409,Ethiopia,Infectious Diseases,Tuberculosis
+Site_409,Ethiopia,Infectious Diseases,HIV-1
+Site_410,Egypt,Oncology,Prostate cancer
+Site_410,Egypt,Infectious Diseases,Malaria
+Site_410,Egypt,Infectious Diseases,HIV-1
+Site_410,Egypt,Infectious Diseases,Tuberculosis
+Site_410,Egypt,Cardiovascular,Hypertension
+Site_410,Egypt,Cardiovascular,Heart failure
+Site_410,Egypt,Cardiovascular,Coronary artery disease
+Site_411,Algeria,Hematology,Sickle cell disease
+Site_411,Algeria,Hematology,Haemophilia
+Site_411,Algeria,Hematology,Iron-deficiency anaemia
+Site_411,Algeria,Infectious Diseases,HIV-1
+Site_411,Algeria,Respiratory Diseases,Asthma
+Site_411,Algeria,Oncology,Cervical cancer
+Site_411,Algeria,Oncology,Prostate cancer
+Site_411,Algeria,Oncology,Breast cancer
+Site_412,Morocco,Hematology,Haemophilia
+Site_412,Morocco,Hematology,Sickle cell disease
+Site_412,Morocco,Hematology,Iron-deficiency anaemia
+Site_412,Morocco,Respiratory Diseases,Asthma
+Site_413,Morocco,Cardiovascular,Coronary artery disease
+Site_413,Morocco,Cardiovascular,Heart failure
+Site_413,Morocco,Cardiovascular,Hypertension
+Site_413,Morocco,Infectious Diseases,Malaria
+Site_413,Morocco,Oncology,Breast cancer
+Site_413,Morocco,Oncology,Cervical cancer
+Site_413,Morocco,Respiratory Diseases,Pneumonia
+Site_413,Morocco,Respiratory Diseases,Asthma
+Site_413,Morocco,Respiratory Diseases,COPD
+Site_413,Morocco,Hematology,Haemophilia
+Site_413,Morocco,Hematology,Iron-deficiency anaemia
+Site_414,Algeria,Respiratory Diseases,Asthma
+Site_414,Algeria,Respiratory Diseases,COPD
+Site_414,Algeria,Respiratory Diseases,Pneumonia
+Site_414,Algeria,Cardiovascular,Hypertension
+Site_414,Algeria,Infectious Diseases,Tuberculosis
+Site_414,Algeria,Infectious Diseases,Malaria
+Site_414,Algeria,Infectious Diseases,HIV-1
+Site_415,Egypt,Infectious Diseases,Tuberculosis
+Site_415,Egypt,Cardiovascular,Coronary artery disease
+Site_415,Egypt,Cardiovascular,Heart failure
+Site_415,Egypt,Cardiovascular,Hypertension
+Site_416,Kenya,Cardiovascular,Heart failure
+Site_416,Kenya,Infectious Diseases,HIV-1
+Site_416,Kenya,Oncology,Breast cancer
+Site_416,Kenya,Oncology,Prostate cancer
+Site_416,Kenya,Hematology,Sickle cell disease
+Site_416,Kenya,Hematology,Haemophilia
+Site_416,Kenya,Respiratory Diseases,Pneumonia
+Site_416,Kenya,Respiratory Diseases,COPD
+Site_416,Kenya,Respiratory Diseases,Asthma
+Site_417,Ethiopia,Hematology,Sickle cell disease
+Site_417,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_417,Ethiopia,Respiratory Diseases,Asthma
+Site_417,Ethiopia,Cardiovascular,Heart failure
+Site_417,Ethiopia,Cardiovascular,Coronary artery disease
+Site_417,Ethiopia,Cardiovascular,Hypertension
+Site_418,Algeria,Oncology,Breast cancer
+Site_418,Algeria,Cardiovascular,Hypertension
+Site_419,Morocco,Hematology,Iron-deficiency anaemia
+Site_419,Morocco,Hematology,Sickle cell disease
+Site_419,Morocco,Respiratory Diseases,Asthma
+Site_420,Uganda,Respiratory Diseases,COPD
+Site_420,Uganda,Respiratory Diseases,Pneumonia
+Site_420,Uganda,Oncology,Prostate cancer
+Site_420,Uganda,Oncology,Cervical cancer
+Site_420,Uganda,Cardiovascular,Coronary artery disease
+Site_420,Uganda,Hematology,Iron-deficiency anaemia
+Site_420,Uganda,Infectious Diseases,Malaria
+Site_421,Ethiopia,Respiratory Diseases,Pneumonia
+Site_421,Ethiopia,Hematology,Haemophilia
+Site_421,Ethiopia,Hematology,Sickle cell disease
+Site_421,Ethiopia,Infectious Diseases,HIV-1
+Site_421,Ethiopia,Oncology,Breast cancer
+Site_421,Ethiopia,Oncology,Prostate cancer
+Site_421,Ethiopia,Oncology,Cervical cancer
+Site_421,Ethiopia,Cardiovascular,Coronary artery disease
+Site_421,Ethiopia,Cardiovascular,Hypertension
+Site_421,Ethiopia,Cardiovascular,Heart failure
+Site_422,Kenya,Respiratory Diseases,Asthma
+Site_422,Kenya,Respiratory Diseases,Pneumonia
+Site_422,Kenya,Respiratory Diseases,COPD
+Site_422,Kenya,Infectious Diseases,Malaria
+Site_422,Kenya,Infectious Diseases,Tuberculosis
+Site_422,Kenya,Infectious Diseases,HIV-1
+Site_422,Kenya,Cardiovascular,Heart failure
+Site_422,Kenya,Cardiovascular,Coronary artery disease
+Site_422,Kenya,Cardiovascular,Hypertension
+Site_423,Ghana,Cardiovascular,Heart failure
+Site_423,Ghana,Cardiovascular,Coronary artery disease
+Site_423,Ghana,Cardiovascular,Hypertension
+Site_423,Ghana,Infectious Diseases,Tuberculosis
+Site_423,Ghana,Infectious Diseases,Malaria
+Site_423,Ghana,Infectious Diseases,HIV-1
+Site_423,Ghana,Oncology,Cervical cancer
+Site_424,Uganda,Cardiovascular,Hypertension
+Site_424,Uganda,Cardiovascular,Heart failure
+Site_424,Uganda,Oncology,Prostate cancer
+Site_424,Uganda,Oncology,Breast cancer
+Site_425,South Africa,Respiratory Diseases,Asthma
+Site_425,South Africa,Respiratory Diseases,COPD
+Site_425,South Africa,Cardiovascular,Coronary artery disease
+Site_425,South Africa,Cardiovascular,Heart failure
+Site_425,South Africa,Cardiovascular,Hypertension
+Site_425,South Africa,Oncology,Prostate cancer
+Site_426,Algeria,Cardiovascular,Hypertension
+Site_426,Algeria,Oncology,Cervical cancer
+Site_426,Algeria,Oncology,Breast cancer
+Site_426,Algeria,Infectious Diseases,HIV-1
+Site_427,Tanzania,Oncology,Prostate cancer
+Site_427,Tanzania,Infectious Diseases,Tuberculosis
+Site_427,Tanzania,Cardiovascular,Heart failure
+Site_427,Tanzania,Cardiovascular,Hypertension
+Site_427,Tanzania,Cardiovascular,Coronary artery disease
+Site_428,Tanzania,Oncology,Breast cancer
+Site_428,Tanzania,Oncology,Prostate cancer
+Site_428,Tanzania,Cardiovascular,Coronary artery disease
+Site_428,Tanzania,Cardiovascular,Hypertension
+Site_428,Tanzania,Cardiovascular,Heart failure
+Site_428,Tanzania,Respiratory Diseases,Pneumonia
+Site_428,Tanzania,Hematology,Sickle cell disease
+Site_428,Tanzania,Hematology,Haemophilia
+Site_428,Tanzania,Infectious Diseases,HIV-1
+Site_428,Tanzania,Infectious Diseases,Malaria
+Site_428,Tanzania,Infectious Diseases,Tuberculosis
+Site_429,Egypt,Infectious Diseases,HIV-1
+Site_429,Egypt,Infectious Diseases,Tuberculosis
+Site_429,Egypt,Oncology,Cervical cancer
+Site_429,Egypt,Oncology,Breast cancer
+Site_430,Ghana,Infectious Diseases,Tuberculosis
+Site_430,Ghana,Infectious Diseases,Malaria
+Site_430,Ghana,Respiratory Diseases,COPD
+Site_430,Ghana,Oncology,Cervical cancer
+Site_430,Ghana,Oncology,Breast cancer
+Site_430,Ghana,Oncology,Prostate cancer
+Site_431,Egypt,Cardiovascular,Heart failure
+Site_431,Egypt,Cardiovascular,Coronary artery disease
+Site_431,Egypt,Respiratory Diseases,Pneumonia
+Site_431,Egypt,Respiratory Diseases,Asthma
+Site_432,Ghana,Infectious Diseases,Tuberculosis
+Site_432,Ghana,Oncology,Breast cancer
+Site_432,Ghana,Hematology,Haemophilia
+Site_432,Ghana,Hematology,Sickle cell disease
+Site_432,Ghana,Respiratory Diseases,Asthma
+Site_432,Ghana,Respiratory Diseases,Pneumonia
+Site_433,Tanzania,Respiratory Diseases,Pneumonia
+Site_433,Tanzania,Infectious Diseases,Tuberculosis
+Site_433,Tanzania,Infectious Diseases,Malaria
+Site_434,Algeria,Oncology,Cervical cancer
+Site_434,Algeria,Oncology,Prostate cancer
+Site_434,Algeria,Cardiovascular,Heart failure
+Site_434,Algeria,Cardiovascular,Hypertension
+Site_434,Algeria,Infectious Diseases,Tuberculosis
+Site_434,Algeria,Infectious Diseases,Malaria
+Site_435,South Africa,Respiratory Diseases,Pneumonia
+Site_435,South Africa,Respiratory Diseases,COPD
+Site_435,South Africa,Infectious Diseases,Tuberculosis
+Site_436,Algeria,Cardiovascular,Heart failure
+Site_436,Algeria,Cardiovascular,Hypertension
+Site_436,Algeria,Oncology,Prostate cancer
+Site_436,Algeria,Oncology,Breast cancer
+Site_436,Algeria,Hematology,Sickle cell disease
+Site_436,Algeria,Infectious Diseases,Tuberculosis
+Site_436,Algeria,Infectious Diseases,HIV-1
+Site_436,Algeria,Respiratory Diseases,COPD
+Site_437,Uganda,Respiratory Diseases,Asthma
+Site_437,Uganda,Respiratory Diseases,Pneumonia
+Site_437,Uganda,Respiratory Diseases,COPD
+Site_437,Uganda,Oncology,Cervical cancer
+Site_437,Uganda,Oncology,Breast cancer
+Site_437,Uganda,Oncology,Prostate cancer
+Site_438,Ethiopia,Respiratory Diseases,Asthma
+Site_438,Ethiopia,Respiratory Diseases,Pneumonia
+Site_438,Ethiopia,Respiratory Diseases,COPD
+Site_438,Ethiopia,Oncology,Breast cancer
+Site_439,Egypt,Respiratory Diseases,Asthma
+Site_439,Egypt,Respiratory Diseases,Pneumonia
+Site_439,Egypt,Infectious Diseases,Tuberculosis
+Site_439,Egypt,Infectious Diseases,HIV-1
+Site_439,Egypt,Hematology,Haemophilia
+Site_439,Egypt,Hematology,Sickle cell disease
+Site_440,Nigeria,Respiratory Diseases,Pneumonia
+Site_440,Nigeria,Respiratory Diseases,COPD
+Site_440,Nigeria,Cardiovascular,Coronary artery disease
+Site_440,Nigeria,Cardiovascular,Heart failure
+Site_441,Ethiopia,Cardiovascular,Coronary artery disease
+Site_441,Ethiopia,Cardiovascular,Hypertension
+Site_441,Ethiopia,Cardiovascular,Heart failure
+Site_441,Ethiopia,Oncology,Cervical cancer
+Site_441,Ethiopia,Oncology,Breast cancer
+Site_442,Nigeria,Infectious Diseases,Tuberculosis
+Site_442,Nigeria,Infectious Diseases,Malaria
+Site_442,Nigeria,Infectious Diseases,HIV-1
+Site_442,Nigeria,Respiratory Diseases,Asthma
+Site_442,Nigeria,Respiratory Diseases,COPD
+Site_442,Nigeria,Hematology,Sickle cell disease
+Site_442,Nigeria,Hematology,Haemophilia
+Site_442,Nigeria,Hematology,Iron-deficiency anaemia
+Site_442,Nigeria,Cardiovascular,Hypertension
+Site_442,Nigeria,Cardiovascular,Coronary artery disease
+Site_443,Algeria,Infectious Diseases,Malaria
+Site_443,Algeria,Infectious Diseases,HIV-1
+Site_443,Algeria,Oncology,Breast cancer
+Site_443,Algeria,Cardiovascular,Hypertension
+Site_443,Algeria,Cardiovascular,Heart failure
+Site_443,Algeria,Respiratory Diseases,COPD
+Site_443,Algeria,Hematology,Iron-deficiency anaemia
+Site_443,Algeria,Hematology,Haemophilia
+Site_443,Algeria,Hematology,Sickle cell disease
+Site_444,South Africa,Infectious Diseases,Tuberculosis
+Site_444,South Africa,Infectious Diseases,Malaria
+Site_444,South Africa,Cardiovascular,Heart failure
+Site_444,South Africa,Cardiovascular,Coronary artery disease
+Site_444,South Africa,Cardiovascular,Hypertension
+Site_444,South Africa,Hematology,Sickle cell disease
+Site_444,South Africa,Hematology,Haemophilia
+Site_445,Uganda,Cardiovascular,Coronary artery disease
+Site_445,Uganda,Infectious Diseases,HIV-1
+Site_445,Uganda,Infectious Diseases,Malaria
+Site_446,Kenya,Cardiovascular,Coronary artery disease
+Site_446,Kenya,Cardiovascular,Heart failure
+Site_446,Kenya,Cardiovascular,Hypertension
+Site_446,Kenya,Infectious Diseases,HIV-1
+Site_446,Kenya,Infectious Diseases,Tuberculosis
+Site_446,Kenya,Hematology,Sickle cell disease
+Site_447,Nigeria,Cardiovascular,Heart failure
+Site_447,Nigeria,Cardiovascular,Coronary artery disease
+Site_447,Nigeria,Cardiovascular,Hypertension
+Site_447,Nigeria,Oncology,Breast cancer
+Site_447,Nigeria,Oncology,Cervical cancer
+Site_447,Nigeria,Oncology,Prostate cancer
+Site_447,Nigeria,Hematology,Sickle cell disease
+Site_447,Nigeria,Hematology,Iron-deficiency anaemia
+Site_447,Nigeria,Hematology,Haemophilia
+Site_447,Nigeria,Infectious Diseases,Malaria
+Site_448,Ethiopia,Oncology,Prostate cancer
+Site_448,Ethiopia,Respiratory Diseases,COPD
+Site_449,Uganda,Oncology,Breast cancer
+Site_449,Uganda,Oncology,Prostate cancer
+Site_449,Uganda,Respiratory Diseases,COPD
+Site_449,Uganda,Respiratory Diseases,Asthma
+Site_449,Uganda,Respiratory Diseases,Pneumonia
+Site_449,Uganda,Infectious Diseases,Tuberculosis
+Site_449,Uganda,Infectious Diseases,Malaria
+Site_449,Uganda,Cardiovascular,Heart failure
+Site_449,Uganda,Cardiovascular,Coronary artery disease
+Site_450,Morocco,Hematology,Iron-deficiency anaemia
+Site_450,Morocco,Respiratory Diseases,Asthma
+Site_450,Morocco,Respiratory Diseases,Pneumonia
+Site_450,Morocco,Respiratory Diseases,COPD
+Site_450,Morocco,Oncology,Breast cancer
+Site_450,Morocco,Oncology,Cervical cancer
+Site_451,Ethiopia,Infectious Diseases,Malaria
+Site_451,Ethiopia,Infectious Diseases,Tuberculosis
+Site_451,Ethiopia,Infectious Diseases,HIV-1
+Site_451,Ethiopia,Oncology,Prostate cancer
+Site_451,Ethiopia,Oncology,Cervical cancer
+Site_452,Ethiopia,Infectious Diseases,Malaria
+Site_452,Ethiopia,Hematology,Sickle cell disease
+Site_452,Ethiopia,Hematology,Haemophilia
+Site_452,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_453,South Africa,Oncology,Prostate cancer
+Site_453,South Africa,Oncology,Cervical cancer
+Site_453,South Africa,Hematology,Iron-deficiency anaemia
+Site_454,Egypt,Respiratory Diseases,Pneumonia
+Site_454,Egypt,Respiratory Diseases,Asthma
+Site_454,Egypt,Oncology,Cervical cancer
+Site_454,Egypt,Oncology,Breast cancer
+Site_455,Uganda,Hematology,Haemophilia
+Site_455,Uganda,Respiratory Diseases,COPD
+Site_455,Uganda,Respiratory Diseases,Asthma
+Site_455,Uganda,Infectious Diseases,HIV-1
+Site_455,Uganda,Infectious Diseases,Tuberculosis
+Site_455,Uganda,Infectious Diseases,Malaria
+Site_455,Uganda,Cardiovascular,Coronary artery disease
+Site_456,Uganda,Infectious Diseases,Malaria
+Site_456,Uganda,Infectious Diseases,HIV-1
+Site_456,Uganda,Respiratory Diseases,COPD
+Site_456,Uganda,Respiratory Diseases,Asthma
+Site_456,Uganda,Respiratory Diseases,Pneumonia
+Site_456,Uganda,Hematology,Haemophilia
+Site_457,Algeria,Oncology,Prostate cancer
+Site_457,Algeria,Cardiovascular,Hypertension
+Site_458,Kenya,Cardiovascular,Coronary artery disease
+Site_458,Kenya,Cardiovascular,Hypertension
+Site_458,Kenya,Cardiovascular,Heart failure
+Site_458,Kenya,Hematology,Haemophilia
+Site_458,Kenya,Hematology,Sickle cell disease
+Site_458,Kenya,Hematology,Iron-deficiency anaemia
+Site_458,Kenya,Infectious Diseases,HIV-1
+Site_459,Tanzania,Infectious Diseases,Malaria
+Site_459,Tanzania,Respiratory Diseases,Pneumonia
+Site_459,Tanzania,Respiratory Diseases,Asthma
+Site_460,Algeria,Hematology,Sickle cell disease
+Site_460,Algeria,Hematology,Haemophilia
+Site_460,Algeria,Hematology,Iron-deficiency anaemia
+Site_460,Algeria,Cardiovascular,Coronary artery disease
+Site_461,Ghana,Cardiovascular,Hypertension
+Site_461,Ghana,Respiratory Diseases,Pneumonia
+Site_461,Ghana,Respiratory Diseases,COPD
+Site_461,Ghana,Respiratory Diseases,Asthma
+Site_462,Algeria,Hematology,Iron-deficiency anaemia
+Site_462,Algeria,Hematology,Haemophilia
+Site_462,Algeria,Oncology,Breast cancer
+Site_463,Ghana,Cardiovascular,Coronary artery disease
+Site_463,Ghana,Infectious Diseases,Tuberculosis
+Site_463,Ghana,Infectious Diseases,Malaria
+Site_464,South Africa,Hematology,Haemophilia
+Site_464,South Africa,Infectious Diseases,HIV-1
+Site_464,South Africa,Infectious Diseases,Malaria
+Site_464,South Africa,Infectious Diseases,Tuberculosis
+Site_464,South Africa,Respiratory Diseases,COPD
+Site_464,South Africa,Respiratory Diseases,Pneumonia
+Site_464,South Africa,Oncology,Breast cancer
+Site_464,South Africa,Cardiovascular,Hypertension
+Site_464,South Africa,Cardiovascular,Coronary artery disease
+Site_464,South Africa,Cardiovascular,Heart failure
+Site_465,Egypt,Oncology,Breast cancer
+Site_465,Egypt,Cardiovascular,Hypertension
+Site_465,Egypt,Cardiovascular,Heart failure
+Site_465,Egypt,Cardiovascular,Coronary artery disease
+Site_465,Egypt,Hematology,Iron-deficiency anaemia
+Site_466,Ethiopia,Cardiovascular,Heart failure
+Site_466,Ethiopia,Cardiovascular,Hypertension
+Site_466,Ethiopia,Cardiovascular,Coronary artery disease
+Site_466,Ethiopia,Oncology,Breast cancer
+Site_466,Ethiopia,Oncology,Prostate cancer
+Site_467,Algeria,Respiratory Diseases,Asthma
+Site_467,Algeria,Infectious Diseases,Tuberculosis
+Site_467,Algeria,Infectious Diseases,HIV-1
+Site_467,Algeria,Oncology,Prostate cancer
+Site_467,Algeria,Oncology,Breast cancer
+Site_468,Uganda,Infectious Diseases,Tuberculosis
+Site_468,Uganda,Infectious Diseases,HIV-1
+Site_468,Uganda,Infectious Diseases,Malaria
+Site_468,Uganda,Cardiovascular,Heart failure
+Site_468,Uganda,Cardiovascular,Hypertension
+Site_468,Uganda,Cardiovascular,Coronary artery disease
+Site_469,Algeria,Cardiovascular,Coronary artery disease
+Site_469,Algeria,Hematology,Iron-deficiency anaemia
+Site_469,Algeria,Oncology,Breast cancer
+Site_469,Algeria,Oncology,Cervical cancer
+Site_469,Algeria,Respiratory Diseases,COPD
+Site_469,Algeria,Respiratory Diseases,Asthma
+Site_469,Algeria,Respiratory Diseases,Pneumonia
+Site_470,Ethiopia,Infectious Diseases,Malaria
+Site_470,Ethiopia,Infectious Diseases,HIV-1
+Site_470,Ethiopia,Infectious Diseases,Tuberculosis
+Site_470,Ethiopia,Cardiovascular,Coronary artery disease
+Site_470,Ethiopia,Cardiovascular,Hypertension
+Site_470,Ethiopia,Cardiovascular,Heart failure
+Site_470,Ethiopia,Oncology,Breast cancer
+Site_470,Ethiopia,Oncology,Cervical cancer
+Site_470,Ethiopia,Oncology,Prostate cancer
+Site_471,Ghana,Infectious Diseases,Malaria
+Site_471,Ghana,Infectious Diseases,Tuberculosis
+Site_471,Ghana,Infectious Diseases,HIV-1
+Site_471,Ghana,Respiratory Diseases,Pneumonia
+Site_471,Ghana,Respiratory Diseases,Asthma
+Site_471,Ghana,Oncology,Prostate cancer
+Site_471,Ghana,Oncology,Cervical cancer
+Site_471,Ghana,Cardiovascular,Heart failure
+Site_471,Ghana,Hematology,Iron-deficiency anaemia
+Site_472,Tanzania,Cardiovascular,Heart failure
+Site_472,Tanzania,Cardiovascular,Coronary artery disease
+Site_472,Tanzania,Cardiovascular,Hypertension
+Site_472,Tanzania,Respiratory Diseases,Asthma
+Site_472,Tanzania,Respiratory Diseases,COPD
+Site_472,Tanzania,Respiratory Diseases,Pneumonia
+Site_472,Tanzania,Infectious Diseases,Malaria
+Site_472,Tanzania,Infectious Diseases,HIV-1
+Site_472,Tanzania,Oncology,Prostate cancer
+Site_472,Tanzania,Oncology,Breast cancer
+Site_472,Tanzania,Oncology,Cervical cancer
+Site_473,South Africa,Hematology,Iron-deficiency anaemia
+Site_473,South Africa,Respiratory Diseases,COPD
+Site_473,South Africa,Respiratory Diseases,Asthma
+Site_473,South Africa,Respiratory Diseases,Pneumonia
+Site_473,South Africa,Cardiovascular,Coronary artery disease
+Site_473,South Africa,Cardiovascular,Hypertension
+Site_473,South Africa,Cardiovascular,Heart failure
+Site_474,South Africa,Oncology,Cervical cancer
+Site_474,South Africa,Oncology,Prostate cancer
+Site_474,South Africa,Oncology,Breast cancer
+Site_474,South Africa,Infectious Diseases,HIV-1
+Site_474,South Africa,Infectious Diseases,Malaria
+Site_474,South Africa,Infectious Diseases,Tuberculosis
+Site_474,South Africa,Cardiovascular,Heart failure
+Site_475,Kenya,Hematology,Iron-deficiency anaemia
+Site_475,Kenya,Hematology,Sickle cell disease
+Site_475,Kenya,Cardiovascular,Heart failure
+Site_475,Kenya,Cardiovascular,Coronary artery disease
+Site_476,Ghana,Hematology,Sickle cell disease
+Site_476,Ghana,Hematology,Iron-deficiency anaemia
+Site_476,Ghana,Infectious Diseases,Tuberculosis
+Site_476,Ghana,Infectious Diseases,HIV-1
+Site_476,Ghana,Infectious Diseases,Malaria
+Site_476,Ghana,Respiratory Diseases,COPD
+Site_476,Ghana,Respiratory Diseases,Asthma
+Site_477,Tanzania,Respiratory Diseases,COPD
+Site_477,Tanzania,Respiratory Diseases,Pneumonia
+Site_477,Tanzania,Infectious Diseases,HIV-1
+Site_477,Tanzania,Infectious Diseases,Tuberculosis
+Site_477,Tanzania,Cardiovascular,Coronary artery disease
+Site_477,Tanzania,Cardiovascular,Heart failure
+Site_478,Egypt,Respiratory Diseases,Asthma
+Site_478,Egypt,Cardiovascular,Hypertension
+Site_478,Egypt,Cardiovascular,Coronary artery disease
+Site_479,Kenya,Oncology,Prostate cancer
+Site_479,Kenya,Oncology,Cervical cancer
+Site_479,Kenya,Respiratory Diseases,Asthma
+Site_479,Kenya,Respiratory Diseases,COPD
+Site_480,Algeria,Oncology,Breast cancer
+Site_480,Algeria,Respiratory Diseases,Asthma
+Site_480,Algeria,Respiratory Diseases,COPD
+Site_480,Algeria,Respiratory Diseases,Pneumonia
+Site_480,Algeria,Infectious Diseases,Malaria
+Site_481,Morocco,Hematology,Sickle cell disease
+Site_481,Morocco,Hematology,Iron-deficiency anaemia
+Site_481,Morocco,Infectious Diseases,HIV-1
+Site_482,Tanzania,Oncology,Cervical cancer
+Site_482,Tanzania,Respiratory Diseases,Pneumonia
+Site_482,Tanzania,Respiratory Diseases,Asthma
+Site_483,Morocco,Oncology,Breast cancer
+Site_483,Morocco,Hematology,Iron-deficiency anaemia
+Site_483,Morocco,Hematology,Haemophilia
+Site_483,Morocco,Cardiovascular,Hypertension
+Site_483,Morocco,Respiratory Diseases,Asthma
+Site_483,Morocco,Infectious Diseases,Tuberculosis
+Site_483,Morocco,Infectious Diseases,Malaria
+Site_483,Morocco,Infectious Diseases,HIV-1
+Site_484,Ghana,Cardiovascular,Heart failure
+Site_484,Ghana,Infectious Diseases,Malaria
+Site_484,Ghana,Infectious Diseases,Tuberculosis
+Site_484,Ghana,Hematology,Haemophilia
+Site_485,South Africa,Infectious Diseases,Tuberculosis
+Site_485,South Africa,Respiratory Diseases,Asthma
+Site_485,South Africa,Respiratory Diseases,COPD
+Site_485,South Africa,Respiratory Diseases,Pneumonia
+Site_486,Morocco,Oncology,Cervical cancer
+Site_486,Morocco,Infectious Diseases,Malaria
+Site_486,Morocco,Hematology,Iron-deficiency anaemia
+Site_487,Nigeria,Respiratory Diseases,Pneumonia
+Site_487,Nigeria,Respiratory Diseases,COPD
+Site_487,Nigeria,Infectious Diseases,Tuberculosis
+Site_487,Nigeria,Infectious Diseases,Malaria
+Site_487,Nigeria,Infectious Diseases,HIV-1
+Site_487,Nigeria,Hematology,Iron-deficiency anaemia
+Site_487,Nigeria,Hematology,Sickle cell disease
+Site_487,Nigeria,Cardiovascular,Hypertension
+Site_487,Nigeria,Cardiovascular,Heart failure
+Site_487,Nigeria,Oncology,Cervical cancer
+Site_488,Uganda,Infectious Diseases,Malaria
+Site_488,Uganda,Infectious Diseases,Tuberculosis
+Site_488,Uganda,Infectious Diseases,HIV-1
+Site_488,Uganda,Hematology,Haemophilia
+Site_488,Uganda,Hematology,Iron-deficiency anaemia
+Site_489,Ghana,Hematology,Iron-deficiency anaemia
+Site_489,Ghana,Cardiovascular,Hypertension
+Site_489,Ghana,Cardiovascular,Coronary artery disease
+Site_489,Ghana,Infectious Diseases,Tuberculosis
+Site_489,Ghana,Oncology,Breast cancer
+Site_489,Ghana,Respiratory Diseases,COPD
+Site_489,Ghana,Respiratory Diseases,Asthma
+Site_490,Kenya,Cardiovascular,Heart failure
+Site_490,Kenya,Cardiovascular,Coronary artery disease
+Site_490,Kenya,Infectious Diseases,Malaria
+Site_490,Kenya,Infectious Diseases,Tuberculosis
+Site_490,Kenya,Hematology,Sickle cell disease
+Site_490,Kenya,Hematology,Haemophilia
+Site_491,Ethiopia,Oncology,Breast cancer
+Site_491,Ethiopia,Oncology,Prostate cancer
+Site_491,Ethiopia,Oncology,Cervical cancer
+Site_491,Ethiopia,Hematology,Haemophilia
+Site_491,Ethiopia,Hematology,Sickle cell disease
+Site_491,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_491,Ethiopia,Respiratory Diseases,COPD
+Site_491,Ethiopia,Respiratory Diseases,Asthma
+Site_492,Tanzania,Respiratory Diseases,Pneumonia
+Site_492,Tanzania,Respiratory Diseases,Asthma
+Site_492,Tanzania,Respiratory Diseases,COPD
+Site_492,Tanzania,Infectious Diseases,HIV-1
+Site_492,Tanzania,Infectious Diseases,Malaria
+Site_493,Ghana,Oncology,Breast cancer
+Site_493,Ghana,Cardiovascular,Coronary artery disease
+Site_493,Ghana,Cardiovascular,Heart failure
+Site_493,Ghana,Cardiovascular,Hypertension
+Site_494,Kenya,Cardiovascular,Hypertension
+Site_494,Kenya,Cardiovascular,Heart failure
+Site_494,Kenya,Respiratory Diseases,Asthma
+Site_495,Morocco,Hematology,Sickle cell disease
+Site_495,Morocco,Hematology,Iron-deficiency anaemia
+Site_495,Morocco,Hematology,Haemophilia
+Site_495,Morocco,Respiratory Diseases,COPD
+Site_495,Morocco,Oncology,Cervical cancer
+Site_496,South Africa,Oncology,Prostate cancer
+Site_496,South Africa,Oncology,Breast cancer
+Site_496,South Africa,Infectious Diseases,HIV-1
+Site_496,South Africa,Infectious Diseases,Tuberculosis
+Site_496,South Africa,Cardiovascular,Hypertension
+Site_497,Algeria,Oncology,Cervical cancer
+Site_497,Algeria,Infectious Diseases,Malaria
+Site_497,Algeria,Respiratory Diseases,COPD
+Site_497,Algeria,Respiratory Diseases,Pneumonia
+Site_498,Nigeria,Infectious Diseases,Tuberculosis
+Site_498,Nigeria,Hematology,Sickle cell disease
+Site_498,Nigeria,Hematology,Haemophilia
+Site_498,Nigeria,Cardiovascular,Hypertension
+Site_498,Nigeria,Cardiovascular,Heart failure
+Site_498,Nigeria,Cardiovascular,Coronary artery disease
+Site_499,Ethiopia,Respiratory Diseases,Asthma
+Site_499,Ethiopia,Hematology,Sickle cell disease
+Site_499,Ethiopia,Hematology,Iron-deficiency anaemia
+Site_500,South Africa,Infectious Diseases,HIV-1
+Site_500,South Africa,Hematology,Haemophilia
+Site_500,South Africa,Hematology,Iron-deficiency anaemia
+Site_500,South Africa,Hematology,Sickle cell disease
+Site_500,South Africa,Oncology,Cervical cancer
+Site_500,South Africa,Oncology,Prostate cancer
+Site_500,South Africa,Oncology,Breast cancer

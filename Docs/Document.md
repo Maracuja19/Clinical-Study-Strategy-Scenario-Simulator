@@ -68,12 +68,14 @@ Python, pandas, NumPy, Streamlit and Plotly will be considered for data generati
 - Clinical efficacy, safety or regulatory outcome prediction.
 - Full clinical trial budgeting or detailed country-specific cost estimation.
 - Site selection based on verified real-world site performance.
+- Relaxation of strategies
 
 # Limitations
 
 The simulator will rely on synthetic data and predefined modelling assumptions rather than observed clinical trial outcomes. Its results will therefore illustrate the behaviour of the model under specified conditions and should not be interpreted as empirically validated forecasts.
 The model may also omit relevant factors, including competition for eligible patients, country-specific operational differences, protocol amendments, site initiation delays beyond the modelled distributions and changes in recruitment performance over time.
 Scenario comparisons will be conditional on the model structure and its assumptions. A strategy that performs better in the simulation cannot automatically be considered superior in a real clinical study.
+Each selection strategy applies predefined risk and activation timeline thresholds. Depending on the available sites and the selected clinical requirements, some strategies may return fewer sites than requested, or no eligible sites at all. The model does not automatically relax eligibility criteria to fill the target number of sites.
 
 # Strategies
 ## Lean

@@ -169,7 +169,7 @@ if st.toggle("Strategy priorities and trade-offs", value=False):
     st.markdown("""
     - **Conservative:** Prioritises lower risk and higher reliability. Trade-off: timeline ≥ 91 days.
     - **Balanced:** Prioritises lower costs within a defined activation timeline. Trade-offs: higher risk and moderate timelines.
-    - **Accelerated:**  Prioritises faster activation and higher recruitment performance. Trade-off: highest costs.
+    - **Accelerated:**  Prioritises faster activation. Trade-off: highest costs.
     """)
 
 n_sites = st.number_input(

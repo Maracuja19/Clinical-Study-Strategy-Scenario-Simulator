@@ -14,12 +14,12 @@ sites, clinical_profiles, risks = load_data()
 
 #Config page
 st.set_page_config(
-    page_title="Clinical Trial Site Selection & Strategy Evaluator",
+    page_title="Site Selection & Strategy Evaluator",
     layout="wide"
 )
 
 
-st.title("Clinical Trial Site Selection & Strategy Evaluator")
+st.title("Site Selection & Strategy Evaluator")
 st.caption("Explore site selection strategies and their trade-offs using synthetic clinical trial data")
 
 

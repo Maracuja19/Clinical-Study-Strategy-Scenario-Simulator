@@ -14,7 +14,7 @@ sites, clinical_profiles, risks = load_data()
 
 #Config page
 st.set_page_config(
-    page_title="Clinical Study Strategy & Scenario Simulator",
+    page_title="Clinical Trial Site Selection & Strategy Comparison",
     layout="wide"
 )
 

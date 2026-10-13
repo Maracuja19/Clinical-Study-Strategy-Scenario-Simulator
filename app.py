@@ -272,8 +272,8 @@ for col, (strategy_name, selected) in zip(
             f"{selected['month_op_cost'].sum():,.0f}"
         )
         st.metric(
-            "Expected recruitment rate",
-            f"{selected['expected_recruit_rate'].sum():.1f} patients/month"
+            "Expected recruitment rate(patients/month)",
+            f"{selected['expected_recruit_rate'].sum():.1f}"
             if not selected.empty else "—"
         )
         if selected.empty:
